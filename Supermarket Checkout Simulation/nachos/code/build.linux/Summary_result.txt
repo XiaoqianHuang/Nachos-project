@@ -1,0 +1,2760 @@
+Start Simulating..
+[Time: 14:00 pm]Regular Time
+
+-14:0 pm-Minute summary:
+- Number of customers arriving for checkout: 1
+- Average/shortest/longest waiting time: -nan / 300 / 0
+- Average/shortest/longest service time: -nan / 300 / 0
+- Number of open lines: 0 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-14:1 pm-Minute summary:
+- Number of customers arriving for checkout: 4
+- Average/shortest/longest waiting time: -nan / 300 / 0
+- Average/shortest/longest service time: -nan / 300 / 0
+- Number of open lines: 0 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-14:2 pm-Minute summary:
+- Number of customers arriving for checkout: 8
+- Average/shortest/longest waiting time: -nan / 300 / 0
+- Average/shortest/longest service time: -nan / 300 / 0
+- Number of open lines: 0 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-14:3 pm-Minute summary:
+- Number of customers arriving for checkout: 9
+- Average/shortest/longest waiting time: -nan / 300 / 0
+- Average/shortest/longest service time: -nan / 300 / 0
+- Number of open lines: 0 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-14:4 pm-Minute summary:
+- Number of customers arriving for checkout: 10
+- Average/shortest/longest waiting time: 0 / 0 / 0
+- Average/shortest/longest service time: 3 / 3 / 3
+- Number of open lines: 1 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-14:5 pm-Minute summary:
+- Number of customers arriving for checkout: 14
+- Average/shortest/longest waiting time: 0 / 0 / 0
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 2 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 1 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-14:6 pm-Minute summary:
+- Number of customers arriving for checkout: 19
+- Average/shortest/longest waiting time: 0 / 0 / 0
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 2 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 2 
+- Total/smallest/largest number of customers in the waiting queue: 5 / 0 / 5
+
+-14:7 pm-Minute summary:
+- Number of customers arriving for checkout: 21
+- Average/shortest/longest waiting time: 0 / 0 / 0
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 2 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 3 
+- Total/smallest/largest number of customers in the waiting queue: 12 / 0 / 7
+
+-14:8 pm-Minute summary:
+- Number of customers arriving for checkout: 22
+- Average/shortest/longest waiting time: 1.33333 / 0 / 4
+- Average/shortest/longest service time: 3.66667 / 3 / 5
+- Number of open lines: 3 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 4 
+- Total/smallest/largest number of customers in the waiting queue: 19 / 0 / 7
+
+-14:9 pm-Minute summary:
+- Number of customers arriving for checkout: 22
+- Average/shortest/longest waiting time: 1.5 / 0 / 4
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 4 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 5 
+- Total/smallest/largest number of customers in the waiting queue: 25 / 0 / 7
+
+-14:10 pm-Minute summary:
+- Number of customers arriving for checkout: 22
+- Average/shortest/longest waiting time: 1.5 / 0 / 4
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 4 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 6 
+- Total/smallest/largest number of customers in the waiting queue: 31 / 0 / 7
+
+-14:11 pm-Minute summary:
+- Number of customers arriving for checkout: 22
+- Average/shortest/longest waiting time: 2.6 / 0 / 7
+- Average/shortest/longest service time: 3.8 / 3 / 5
+- Number of open lines: 5 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 7 
+- Total/smallest/largest number of customers in the waiting queue: 36 / 0 / 7
+
+-14:12 pm-Minute summary:
+- Number of customers arriving for checkout: 27
+- Average/shortest/longest waiting time: 2.6 / 0 / 7
+- Average/shortest/longest service time: 3.8 / 3 / 5
+- Number of open lines: 5 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 8 
+- Total/smallest/largest number of customers in the waiting queue: 46 / 0 / 10
+
+-14:13 pm-Minute summary:
+- Number of customers arriving for checkout: 30
+- Average/shortest/longest waiting time: 3.33333 / 0 / 7
+- Average/shortest/longest service time: 3.83333 / 3 / 5
+- Number of open lines: 6 
+- Maximum number of open lines: 3 
+- Each casher will have more than 3 customers standing in line: 9 
+- Total/smallest/largest number of customers in the waiting queue: 53 / 0 / 10
+
+-14:14 pm-Minute summary:
+- Number of customers arriving for checkout: 32
+- Average/shortest/longest waiting time: 3.33333 / 0 / 7
+- Average/shortest/longest service time: 3.83333 / 3 / 5
+- Number of open lines: 6 
+- Maximum number of open lines: 3 
+- Each casher will have more than 3 customers standing in line: 10 
+- Total/smallest/largest number of customers in the waiting queue: 61 / 0 / 10
+
+-14:15 pm-Minute summary:
+- Number of customers arriving for checkout: 34
+- Average/shortest/longest waiting time: 4.14286 / 0 / 9
+- Average/shortest/longest service time: 3.85714 / 3 / 5
+- Number of open lines: 7 
+- Maximum number of open lines: 3 
+- Each casher will have more than 3 customers standing in line: 11 
+- Total/smallest/largest number of customers in the waiting queue: 70 / 0 / 10
+
+-14:16 pm-Minute summary:
+- Number of customers arriving for checkout: 39
+- Average/shortest/longest waiting time: 4.14286 / 0 / 9
+- Average/shortest/longest service time: 3.85714 / 3 / 5
+- Number of open lines: 7 
+- Maximum number of open lines: 3 
+- Each casher will have more than 3 customers standing in line: 12 
+- Total/smallest/largest number of customers in the waiting queue: 79 / 0 / 10
+
+-14:17 pm-Minute summary:
+- Number of customers arriving for checkout: 41
+- Average/shortest/longest waiting time: 4.75 / 0 / 9
+- Average/shortest/longest service time: 3.875 / 3 / 5
+- Number of open lines: 8 
+- Maximum number of open lines: 4 
+- Each casher will have more than 3 customers standing in line: 13 
+- Total/smallest/largest number of customers in the waiting queue: 88 / 0 / 10
+
+-14:18 pm-Minute summary:
+- Number of customers arriving for checkout: 42
+- Average/shortest/longest waiting time: 5.8 / 0 / 13
+- Average/shortest/longest service time: 3.9 / 3 / 5
+- Number of open lines: 10 
+- Maximum number of open lines: 4 
+- Each casher will have more than 3 customers standing in line: 14 
+- Total/smallest/largest number of customers in the waiting queue: 96 / 0 / 10
+
+-14:19 pm-Minute summary:
+- Number of customers arriving for checkout: 45
+- Average/shortest/longest waiting time: 5.8 / 0 / 13
+- Average/shortest/longest service time: 3.9 / 3 / 5
+- Number of open lines: 10 
+- Maximum number of open lines: 4 
+- Each casher will have more than 3 customers standing in line: 15 
+- Total/smallest/largest number of customers in the waiting queue: 102 / 0 / 10
+
+-14:20 pm-Minute summary:
+- Number of customers arriving for checkout: 50
+- Average/shortest/longest waiting time: 5.63636 / 0 / 13
+- Average/shortest/longest service time: 3.90909 / 3 / 5
+- Number of open lines: 11 
+- Maximum number of open lines: 5 
+- Each casher will have more than 3 customers standing in line: 16 
+- Total/smallest/largest number of customers in the waiting queue: 111 / 0 / 10
+
+-14:21 pm-Minute summary:
+- Number of customers arriving for checkout: 53
+- Average/shortest/longest waiting time: 5.63636 / 0 / 13
+- Average/shortest/longest service time: 3.90909 / 3 / 5
+- Number of open lines: 11 
+- Maximum number of open lines: 5 
+- Each casher will have more than 3 customers standing in line: 17 
+- Total/smallest/largest number of customers in the waiting queue: 118 / 0 / 10
+
+-14:22 pm-Minute summary:
+- Number of customers arriving for checkout: 56
+- Average/shortest/longest waiting time: 6.84615 / 0 / 15
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 13 
+- Maximum number of open lines: 6 
+- Each casher will have more than 3 customers standing in line: 18 
+- Total/smallest/largest number of customers in the waiting queue: 125 / 0 / 10
+
+-14:23 pm-Minute summary:
+- Number of customers arriving for checkout: 58
+- Average/shortest/longest waiting time: 7.21429 / 0 / 15
+- Average/shortest/longest service time: 4.07143 / 3 / 5
+- Number of open lines: 14 
+- Maximum number of open lines: 6 
+- Each casher will have more than 3 customers standing in line: 19 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 10
+
+-14:24 pm-Minute summary:
+- Number of customers arriving for checkout: 58
+- Average/shortest/longest waiting time: 6.8125 / 0 / 15
+- Average/shortest/longest service time: 4.0625 / 3 / 5
+- Number of open lines: 16 
+- Maximum number of open lines: 6 
+- Each casher will have more than 3 customers standing in line: 20 
+- Total/smallest/largest number of customers in the waiting queue: 139 / 0 / 10
+
+-14:25 pm-Minute summary:
+- Number of customers arriving for checkout: 60
+- Average/shortest/longest waiting time: 6.88235 / 0 / 15
+- Average/shortest/longest service time: 4.11765 / 3 / 5
+- Number of open lines: 17 
+- Maximum number of open lines: 6 
+- Each casher will have more than 3 customers standing in line: 21 
+- Total/smallest/largest number of customers in the waiting queue: 146 / 0 / 10
+
+-14:26 pm-Minute summary:
+- Number of customers arriving for checkout: 63
+- Average/shortest/longest waiting time: 7.44444 / 0 / 17
+- Average/shortest/longest service time: 4.11111 / 3 / 5
+- Number of open lines: 18 
+- Maximum number of open lines: 6 
+- Each casher will have more than 3 customers standing in line: 22 
+- Total/smallest/largest number of customers in the waiting queue: 155 / 0 / 10
+
+-14:27 pm-Minute summary:
+- Number of customers arriving for checkout: 63
+- Average/shortest/longest waiting time: 7.95 / 0 / 17
+- Average/shortest/longest service time: 4.1 / 3 / 5
+- Number of open lines: 20 
+- Maximum number of open lines: 6 
+- Each casher will have more than 3 customers standing in line: 23 
+- Total/smallest/largest number of customers in the waiting queue: 162 / 0 / 10
+
+-14:28 pm-Minute summary:
+- Number of customers arriving for checkout: 63
+- Average/shortest/longest waiting time: 8.33333 / 0 / 17
+- Average/shortest/longest service time: 4.14286 / 3 / 5
+- Number of open lines: 21 
+- Maximum number of open lines: 6 
+- Each casher will have more than 3 customers standing in line: 24 
+- Total/smallest/largest number of customers in the waiting queue: 168 / 0 / 10
+
+-14:29 pm-Minute summary:
+- Number of customers arriving for checkout: 65
+- Average/shortest/longest waiting time: 8.22727 / 0 / 17
+- Average/shortest/longest service time: 4.18182 / 3 / 5
+- Number of open lines: 22 
+- Maximum number of open lines: 6 
+- Each casher will have more than 3 customers standing in line: 25 
+- Total/smallest/largest number of customers in the waiting queue: 175 / 0 / 10
+
+-14:30 pm-Minute summary:
+- Number of customers arriving for checkout: 69
+- Average/shortest/longest waiting time: 9.44 / 0 / 21
+- Average/shortest/longest service time: 4.16 / 3 / 5
+- Number of open lines: 25 
+- Maximum number of open lines: 7 
+- Each casher will have more than 3 customers standing in line: 26 
+- Total/smallest/largest number of customers in the waiting queue: 178 / 0 / 10
+
+-14:31 pm-Minute summary:
+- Number of customers arriving for checkout: 72
+- Average/shortest/longest waiting time: 9.5 / 0 / 21
+- Average/shortest/longest service time: 4.15385 / 3 / 5
+- Number of open lines: 26 
+- Maximum number of open lines: 7 
+- Each casher will have more than 3 customers standing in line: 27 
+- Total/smallest/largest number of customers in the waiting queue: 182 / 0 / 10
+
+-14:32 pm-Minute summary:
+- Number of customers arriving for checkout: 77
+- Average/shortest/longest waiting time: 9.92593 / 0 / 21
+- Average/shortest/longest service time: 4.14815 / 3 / 5
+- Number of open lines: 27 
+- Maximum number of open lines: 7 
+- Each casher will have more than 3 customers standing in line: 28 
+- Total/smallest/largest number of customers in the waiting queue: 190 / 0 / 10
+
+-14:33 pm-Minute summary:
+- Number of customers arriving for checkout: 81
+- Average/shortest/longest waiting time: 10.1786 / 0 / 21
+- Average/shortest/longest service time: 4.10714 / 3 / 5
+- Number of open lines: 28 
+- Maximum number of open lines: 8 
+- Each casher will have more than 3 customers standing in line: 29 
+- Total/smallest/largest number of customers in the waiting queue: 196 / 0 / 10
+
+-14:34 pm-Minute summary:
+- Number of customers arriving for checkout: 82
+- Average/shortest/longest waiting time: 10.7742 / 0 / 24
+- Average/shortest/longest service time: 4.09677 / 3 / 5
+- Number of open lines: 31 
+- Maximum number of open lines: 8 
+- Each casher will have more than 3 customers standing in line: 30 
+- Total/smallest/largest number of customers in the waiting queue: 199 / 0 / 10
+
+-14:35 pm-Minute summary:
+- Number of customers arriving for checkout: 87
+- Average/shortest/longest waiting time: 11.3824 / 0 / 24
+- Average/shortest/longest service time: 4.11765 / 3 / 5
+- Number of open lines: 34 
+- Maximum number of open lines: 8 
+- Each casher will have more than 3 customers standing in line: 31 
+- Total/smallest/largest number of customers in the waiting queue: 204 / 0 / 10
+
+-14:36 pm-Minute summary:
+- Number of customers arriving for checkout: 88
+- Average/shortest/longest waiting time: 11.3889 / 0 / 24
+- Average/shortest/longest service time: 4.05556 / 3 / 5
+- Number of open lines: 36 
+- Maximum number of open lines: 8 
+- Each casher will have more than 3 customers standing in line: 32 
+- Total/smallest/largest number of customers in the waiting queue: 208 / 0 / 10
+
+-14:37 pm-Minute summary:
+- Number of customers arriving for checkout: 93
+- Average/shortest/longest waiting time: 11.8421 / 0 / 24
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 38 
+- Maximum number of open lines: 8 
+- Each casher will have more than 3 customers standing in line: 33 
+- Total/smallest/largest number of customers in the waiting queue: 215 / 0 / 10
+
+-14:38 pm-Minute summary:
+- Number of customers arriving for checkout: 97
+- Average/shortest/longest waiting time: 12.2 / 0 / 24
+- Average/shortest/longest service time: 3.975 / 3 / 5
+- Number of open lines: 40 
+- Maximum number of open lines: 9 
+- Each casher will have more than 3 customers standing in line: 34 
+- Total/smallest/largest number of customers in the waiting queue: 219 / 0 / 10
+
+-14:39 pm-Minute summary:
+- Number of customers arriving for checkout: 101
+- Average/shortest/longest waiting time: 12.186 / 0 / 24
+- Average/shortest/longest service time: 3.95349 / 3 / 5
+- Number of open lines: 43 
+- Maximum number of open lines: 9 
+- Each casher will have more than 3 customers standing in line: 35 
+- Total/smallest/largest number of customers in the waiting queue: 223 / 0 / 10
+
+-14:40 pm-Minute summary:
+- Number of customers arriving for checkout: 104
+- Average/shortest/longest waiting time: 12.6 / 0 / 24
+- Average/shortest/longest service time: 3.93333 / 3 / 5
+- Number of open lines: 45 
+- Maximum number of open lines: 9 
+- Each casher will have more than 3 customers standing in line: 36 
+- Total/smallest/largest number of customers in the waiting queue: 228 / 0 / 10
+
+-14:41 pm-Minute summary:
+- Number of customers arriving for checkout: 109
+- Average/shortest/longest waiting time: 12.6 / 0 / 24
+- Average/shortest/longest service time: 3.93333 / 3 / 5
+- Number of open lines: 45 
+- Maximum number of open lines: 9 
+- Each casher will have more than 3 customers standing in line: 37 
+- Total/smallest/largest number of customers in the waiting queue: 238 / 0 / 10
+
+-14:42 pm-Minute summary:
+- Number of customers arriving for checkout: 112
+- Average/shortest/longest waiting time: 13.1765 / 0 / 24
+- Average/shortest/longest service time: 3.90196 / 3 / 5
+- Number of open lines: 51 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 38 
+- Total/smallest/largest number of customers in the waiting queue: 240 / 0 / 10
+
+-14:43 pm-Minute summary:
+- Number of customers arriving for checkout: 113
+- Average/shortest/longest waiting time: 13.1887 / 0 / 24
+- Average/shortest/longest service time: 3.90566 / 3 / 5
+- Number of open lines: 53 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 39 
+- Total/smallest/largest number of customers in the waiting queue: 240 / 0 / 10
+
+-14:44 pm-Minute summary:
+- Number of customers arriving for checkout: 116
+- Average/shortest/longest waiting time: 13.3148 / 0 / 24
+- Average/shortest/longest service time: 3.90741 / 3 / 5
+- Number of open lines: 54 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 40 
+- Total/smallest/largest number of customers in the waiting queue: 242 / 0 / 10
+
+-14:45 pm-Minute summary:
+- Number of customers arriving for checkout: 120
+- Average/shortest/longest waiting time: 13.5893 / 0 / 24
+- Average/shortest/longest service time: 3.875 / 3 / 5
+- Number of open lines: 56 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 41 
+- Total/smallest/largest number of customers in the waiting queue: 246 / 0 / 10
+
+-14:46 pm-Minute summary:
+- Number of customers arriving for checkout: 121
+- Average/shortest/longest waiting time: 13.6333 / 0 / 24
+- Average/shortest/longest service time: 3.86667 / 3 / 5
+- Number of open lines: 60 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 42 
+- Total/smallest/largest number of customers in the waiting queue: 247 / 0 / 10
+
+-14:47 pm-Minute summary:
+- Number of customers arriving for checkout: 123
+- Average/shortest/longest waiting time: 13.9524 / 0 / 24
+- Average/shortest/longest service time: 3.88889 / 3 / 5
+- Number of open lines: 63 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 43 
+- Total/smallest/largest number of customers in the waiting queue: 247 / 0 / 10
+
+-14:48 pm-Minute summary:
+- Number of customers arriving for checkout: 127
+- Average/shortest/longest waiting time: 13.8438 / 0 / 24
+- Average/shortest/longest service time: 3.90625 / 3 / 5
+- Number of open lines: 64 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 44 
+- Total/smallest/largest number of customers in the waiting queue: 250 / 0 / 10
+
+-14:49 pm-Minute summary:
+- Number of customers arriving for checkout: 132
+- Average/shortest/longest waiting time: 14.1343 / 0 / 24
+- Average/shortest/longest service time: 3.89552 / 3 / 5
+- Number of open lines: 67 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 45 
+- Total/smallest/largest number of customers in the waiting queue: 255 / 0 / 10
+
+-14:50 pm-Minute summary:
+- Number of customers arriving for checkout: 137
+- Average/shortest/longest waiting time: 14.2794 / 0 / 24
+- Average/shortest/longest service time: 3.88235 / 3 / 5
+- Number of open lines: 68 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 46 
+- Total/smallest/largest number of customers in the waiting queue: 264 / 0 / 10
+
+-14:51 pm-Minute summary:
+- Number of customers arriving for checkout: 139
+- Average/shortest/longest waiting time: 14.4795 / 0 / 24
+- Average/shortest/longest service time: 3.93151 / 3 / 5
+- Number of open lines: 73 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 47 
+- Total/smallest/largest number of customers in the waiting queue: 270 / 0 / 10
+
+-14:52 pm-Minute summary:
+- Number of customers arriving for checkout: 140
+- Average/shortest/longest waiting time: 14.4324 / 0 / 24
+- Average/shortest/longest service time: 3.93243 / 3 / 5
+- Number of open lines: 74 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 48 
+- Total/smallest/largest number of customers in the waiting queue: 276 / 0 / 10
+
+-14:53 pm-Minute summary:
+- Number of customers arriving for checkout: 141
+- Average/shortest/longest waiting time: 14.4933 / 0 / 24
+- Average/shortest/longest service time: 3.93333 / 3 / 5
+- Number of open lines: 75 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 49 
+- Total/smallest/largest number of customers in the waiting queue: 282 / 0 / 10
+
+-14:54 pm-Minute summary:
+- Number of customers arriving for checkout: 143
+- Average/shortest/longest waiting time: 14.8625 / 0 / 26
+- Average/shortest/longest service time: 3.925 / 3 / 5
+- Number of open lines: 80 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 50 
+- Total/smallest/largest number of customers in the waiting queue: 285 / 0 / 10
+
+-14:55 pm-Minute summary:
+- Number of customers arriving for checkout: 143
+- Average/shortest/longest waiting time: 14.8795 / 0 / 26
+- Average/shortest/longest service time: 3.92771 / 3 / 5
+- Number of open lines: 83 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 51 
+- Total/smallest/largest number of customers in the waiting queue: 285 / 0 / 10
+
+-14:56 pm-Minute summary:
+- Number of customers arriving for checkout: 146
+- Average/shortest/longest waiting time: 15 / 0 / 26
+- Average/shortest/longest service time: 3.92941 / 3 / 5
+- Number of open lines: 85 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 52 
+- Total/smallest/largest number of customers in the waiting queue: 286 / 0 / 10
+
+-14:57 pm-Minute summary:
+- Number of customers arriving for checkout: 147
+- Average/shortest/longest waiting time: 15 / 0 / 26
+- Average/shortest/longest service time: 3.92941 / 3 / 5
+- Number of open lines: 85 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 53 
+- Total/smallest/largest number of customers in the waiting queue: 288 / 0 / 10
+
+-14:58 pm-Minute summary:
+- Number of customers arriving for checkout: 149
+- Average/shortest/longest waiting time: 15.1477 / 0 / 26
+- Average/shortest/longest service time: 3.92045 / 3 / 5
+- Number of open lines: 88 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 54 
+- Total/smallest/largest number of customers in the waiting queue: 289 / 0 / 10
+
+-14:59 pm-Minute summary:
+- Number of customers arriving for checkout: 153
+- Average/shortest/longest waiting time: 15.4468 / 0 / 26
+- Average/shortest/longest service time: 3.94681 / 3 / 5
+- Number of open lines: 94 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 55 
+- Total/smallest/largest number of customers in the waiting queue: 289 / 0 / 10
+
+Hour summary:
+- Average number of customers arriving for checkout: 2.55
+- Average/shortest/longest waiting time: 15.4468 / 0 / 26
+- Average/shortest/longest service time: 3.94681 / 3 / 5
+- Average number of open lines: 1.56667 
+- Maximum number of open lines: 10 
+- Average time each casher will have more than 3 customers standing in line: 0.916667 
+- Average/smallest/largest number of customers in the waiting queue: 4.81667 / 0 / 10
+[Time: 15:00 pm]Regular Time
+
+-15:0 pm-Minute summary:
+- Number of customers arriving for checkout: 3
+- Average/shortest/longest waiting time: -nan / 300 / 0
+- Average/shortest/longest service time: -nan / 300 / 0
+- Number of open lines: 0 
+- Maximum number of open lines: 2 
+- Each casher will have more than 3 customers standing in line: 1 
+- Total/smallest/largest number of customers in the waiting queue: 2 / 2 / 2
+
+-15:1 pm-Minute summary:
+- Number of customers arriving for checkout: 6
+- Average/shortest/longest waiting time: 20.25 / 19 / 21
+- Average/shortest/longest service time: 3.5 / 3 / 5
+- Number of open lines: 4 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 2 
+- Total/smallest/largest number of customers in the waiting queue: 3 / 1 / 2
+
+-15:2 pm-Minute summary:
+- Number of customers arriving for checkout: 11
+- Average/shortest/longest waiting time: 20.2857 / 19 / 21
+- Average/shortest/longest service time: 3.28571 / 3 / 5
+- Number of open lines: 7 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 3 
+- Total/smallest/largest number of customers in the waiting queue: 6 / 1 / 3
+
+-15:3 pm-Minute summary:
+- Number of customers arriving for checkout: 16
+- Average/shortest/longest waiting time: 20.3333 / 19 / 21
+- Average/shortest/longest service time: 3.44444 / 3 / 5
+- Number of open lines: 9 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 4 
+- Total/smallest/largest number of customers in the waiting queue: 12 / 1 / 6
+
+-15:4 pm-Minute summary:
+- Number of customers arriving for checkout: 18
+- Average/shortest/longest waiting time: 20.4545 / 19 / 22
+- Average/shortest/longest service time: 3.54545 / 3 / 5
+- Number of open lines: 11 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 5 
+- Total/smallest/largest number of customers in the waiting queue: 18 / 1 / 6
+
+-15:5 pm-Minute summary:
+- Number of customers arriving for checkout: 21
+- Average/shortest/longest waiting time: 20.2667 / 19 / 22
+- Average/shortest/longest service time: 3.53333 / 3 / 5
+- Number of open lines: 15 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 6 
+- Total/smallest/largest number of customers in the waiting queue: 23 / 1 / 6
+
+-15:6 pm-Minute summary:
+- Number of customers arriving for checkout: 23
+- Average/shortest/longest waiting time: 20.2105 / 18 / 22
+- Average/shortest/longest service time: 3.57895 / 3 / 5
+- Number of open lines: 19 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 7 
+- Total/smallest/largest number of customers in the waiting queue: 26 / 1 / 6
+
+-15:7 pm-Minute summary:
+- Number of customers arriving for checkout: 26
+- Average/shortest/longest waiting time: 20.2 / 18 / 22
+- Average/shortest/longest service time: 3.55 / 3 / 5
+- Number of open lines: 20 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 8 
+- Total/smallest/largest number of customers in the waiting queue: 31 / 1 / 6
+
+-15:8 pm-Minute summary:
+- Number of customers arriving for checkout: 30
+- Average/shortest/longest waiting time: 20.2609 / 18 / 23
+- Average/shortest/longest service time: 3.52174 / 3 / 5
+- Number of open lines: 23 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 9 
+- Total/smallest/largest number of customers in the waiting queue: 37 / 1 / 6
+
+-15:9 pm-Minute summary:
+- Number of customers arriving for checkout: 31
+- Average/shortest/longest waiting time: 20.1481 / 17 / 23
+- Average/shortest/longest service time: 3.51852 / 3 / 5
+- Number of open lines: 27 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 10 
+- Total/smallest/largest number of customers in the waiting queue: 40 / 1 / 6
+
+-15:10 pm-Minute summary:
+- Number of customers arriving for checkout: 35
+- Average/shortest/longest waiting time: 20.1481 / 17 / 23
+- Average/shortest/longest service time: 3.51852 / 3 / 5
+- Number of open lines: 27 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 11 
+- Total/smallest/largest number of customers in the waiting queue: 47 / 1 / 7
+
+-15:11 pm-Minute summary:
+- Number of customers arriving for checkout: 35
+- Average/shortest/longest waiting time: 20.1875 / 17 / 23
+- Average/shortest/longest service time: 3.59375 / 3 / 5
+- Number of open lines: 32 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 12 
+- Total/smallest/largest number of customers in the waiting queue: 49 / 1 / 7
+
+-15:12 pm-Minute summary:
+- Number of customers arriving for checkout: 35
+- Average/shortest/longest waiting time: 20.1515 / 17 / 23
+- Average/shortest/longest service time: 3.60606 / 3 / 5
+- Number of open lines: 33 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 13 
+- Total/smallest/largest number of customers in the waiting queue: 50 / 1 / 7
+
+-15:13 pm-Minute summary:
+- Number of customers arriving for checkout: 40
+- Average/shortest/longest waiting time: 20.1143 / 17 / 23
+- Average/shortest/longest service time: 3.62857 / 3 / 5
+- Number of open lines: 35 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 14 
+- Total/smallest/largest number of customers in the waiting queue: 54 / 1 / 7
+
+-15:14 pm-Minute summary:
+- Number of customers arriving for checkout: 43
+- Average/shortest/longest waiting time: 20.2195 / 17 / 23
+- Average/shortest/longest service time: 3.63415 / 3 / 5
+- Number of open lines: 41 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 15 
+- Total/smallest/largest number of customers in the waiting queue: 55 / 1 / 7
+
+-15:15 pm-Minute summary:
+- Number of customers arriving for checkout: 43
+- Average/shortest/longest waiting time: 20.2195 / 17 / 23
+- Average/shortest/longest service time: 3.63415 / 3 / 5
+- Number of open lines: 41 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 16 
+- Total/smallest/largest number of customers in the waiting queue: 56 / 1 / 7
+
+-15:16 pm-Minute summary:
+- Number of customers arriving for checkout: 45
+- Average/shortest/longest waiting time: 20.2045 / 17 / 23
+- Average/shortest/longest service time: 3.65909 / 3 / 5
+- Number of open lines: 44 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 17 
+- Total/smallest/largest number of customers in the waiting queue: 56 / 0 / 7
+
+-15:17 pm-Minute summary:
+- Number of customers arriving for checkout: 49
+- Average/shortest/longest waiting time: 20.1277 / 17 / 23
+- Average/shortest/longest service time: 3.6383 / 3 / 5
+- Number of open lines: 47 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 18 
+- Total/smallest/largest number of customers in the waiting queue: 57 / 0 / 7
+
+-15:18 pm-Minute summary:
+- Number of customers arriving for checkout: 52
+- Average/shortest/longest waiting time: 20.1837 / 17 / 23
+- Average/shortest/longest service time: 3.65306 / 3 / 5
+- Number of open lines: 49 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 19 
+- Total/smallest/largest number of customers in the waiting queue: 59 / 0 / 7
+
+-15:19 pm-Minute summary:
+- Number of customers arriving for checkout: 56
+- Average/shortest/longest waiting time: 20.2157 / 17 / 24
+- Average/shortest/longest service time: 3.70588 / 3 / 5
+- Number of open lines: 51 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 20 
+- Total/smallest/largest number of customers in the waiting queue: 63 / 0 / 7
+
+-15:20 pm-Minute summary:
+- Number of customers arriving for checkout: 60
+- Average/shortest/longest waiting time: 20.1132 / 17 / 24
+- Average/shortest/longest service time: 3.71698 / 3 / 5
+- Number of open lines: 53 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 21 
+- Total/smallest/largest number of customers in the waiting queue: 69 / 0 / 7
+
+-15:21 pm-Minute summary:
+- Number of customers arriving for checkout: 62
+- Average/shortest/longest waiting time: 20.1228 / 17 / 26
+- Average/shortest/longest service time: 3.75439 / 3 / 5
+- Number of open lines: 57 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 22 
+- Total/smallest/largest number of customers in the waiting queue: 73 / 0 / 7
+
+-15:22 pm-Minute summary:
+- Number of customers arriving for checkout: 64
+- Average/shortest/longest waiting time: 20.1017 / 17 / 26
+- Average/shortest/longest service time: 3.72881 / 3 / 5
+- Number of open lines: 59 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 23 
+- Total/smallest/largest number of customers in the waiting queue: 77 / 0 / 7
+
+-15:23 pm-Minute summary:
+- Number of customers arriving for checkout: 68
+- Average/shortest/longest waiting time: 20.0323 / 17 / 26
+- Average/shortest/longest service time: 3.75806 / 3 / 5
+- Number of open lines: 62 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 24 
+- Total/smallest/largest number of customers in the waiting queue: 82 / 0 / 7
+
+-15:24 pm-Minute summary:
+- Number of customers arriving for checkout: 69
+- Average/shortest/longest waiting time: 20 / 17 / 26
+- Average/shortest/longest service time: 3.73438 / 3 / 5
+- Number of open lines: 64 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 25 
+- Total/smallest/largest number of customers in the waiting queue: 86 / 0 / 7
+
+-15:25 pm-Minute summary:
+- Number of customers arriving for checkout: 69
+- Average/shortest/longest waiting time: 20.0152 / 17 / 26
+- Average/shortest/longest service time: 3.75758 / 3 / 5
+- Number of open lines: 66 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 26 
+- Total/smallest/largest number of customers in the waiting queue: 88 / 0 / 7
+
+-15:26 pm-Minute summary:
+- Number of customers arriving for checkout: 70
+- Average/shortest/longest waiting time: 20.0143 / 17 / 26
+- Average/shortest/longest service time: 3.75714 / 3 / 5
+- Number of open lines: 70 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 27 
+- Total/smallest/largest number of customers in the waiting queue: 88 / 0 / 7
+
+-15:27 pm-Minute summary:
+- Number of customers arriving for checkout: 75
+- Average/shortest/longest waiting time: 20.0141 / 17 / 26
+- Average/shortest/longest service time: 3.77465 / 3 / 5
+- Number of open lines: 71 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 28 
+- Total/smallest/largest number of customers in the waiting queue: 91 / 0 / 7
+
+-15:28 pm-Minute summary:
+- Number of customers arriving for checkout: 77
+- Average/shortest/longest waiting time: 20 / 17 / 26
+- Average/shortest/longest service time: 3.7973 / 3 / 5
+- Number of open lines: 74 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 29 
+- Total/smallest/largest number of customers in the waiting queue: 93 / 0 / 7
+
+-15:29 pm-Minute summary:
+- Number of customers arriving for checkout: 82
+- Average/shortest/longest waiting time: 20.0133 / 17 / 26
+- Average/shortest/longest service time: 3.78667 / 3 / 5
+- Number of open lines: 75 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 30 
+- Total/smallest/largest number of customers in the waiting queue: 99 / 0 / 7
+
+-15:30 pm-Minute summary:
+- Number of customers arriving for checkout: 83
+- Average/shortest/longest waiting time: 20.1013 / 17 / 26
+- Average/shortest/longest service time: 3.81013 / 3 / 5
+- Number of open lines: 79 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 31 
+- Total/smallest/largest number of customers in the waiting queue: 102 / 0 / 7
+
+-15:31 pm-Minute summary:
+- Number of customers arriving for checkout: 84
+- Average/shortest/longest waiting time: 20.1429 / 17 / 26
+- Average/shortest/longest service time: 3.80952 / 3 / 5
+- Number of open lines: 84 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 32 
+- Total/smallest/largest number of customers in the waiting queue: 102 / 0 / 7
+
+-15:32 pm-Minute summary:
+- Number of customers arriving for checkout: 86
+- Average/shortest/longest waiting time: 20.1429 / 17 / 26
+- Average/shortest/longest service time: 3.80952 / 3 / 5
+- Number of open lines: 84 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 33 
+- Total/smallest/largest number of customers in the waiting queue: 103 / 0 / 7
+
+-15:33 pm-Minute summary:
+- Number of customers arriving for checkout: 88
+- Average/shortest/longest waiting time: 20.1395 / 17 / 26
+- Average/shortest/longest service time: 3.80233 / 3 / 5
+- Number of open lines: 86 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 34 
+- Total/smallest/largest number of customers in the waiting queue: 104 / 0 / 7
+
+-15:34 pm-Minute summary:
+- Number of customers arriving for checkout: 88
+- Average/shortest/longest waiting time: 20.1978 / 17 / 26
+- Average/shortest/longest service time: 3.78022 / 3 / 5
+- Number of open lines: 91 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 35 
+- Total/smallest/largest number of customers in the waiting queue: 104 / 0 / 7
+
+-15:35 pm-Minute summary:
+- Number of customers arriving for checkout: 93
+- Average/shortest/longest waiting time: 20.2174 / 17 / 26
+- Average/shortest/longest service time: 3.79348 / 3 / 5
+- Number of open lines: 92 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 36 
+- Total/smallest/largest number of customers in the waiting queue: 104 / 0 / 7
+
+-15:36 pm-Minute summary:
+- Number of customers arriving for checkout: 97
+- Average/shortest/longest waiting time: 20.2316 / 17 / 26
+- Average/shortest/longest service time: 3.81053 / 3 / 5
+- Number of open lines: 95 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 37 
+- Total/smallest/largest number of customers in the waiting queue: 105 / 0 / 7
+
+-15:37 pm-Minute summary:
+- Number of customers arriving for checkout: 99
+- Average/shortest/longest waiting time: 20.2708 / 17 / 26
+- Average/shortest/longest service time: 3.80208 / 3 / 5
+- Number of open lines: 96 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 38 
+- Total/smallest/largest number of customers in the waiting queue: 107 / 0 / 7
+
+-15:38 pm-Minute summary:
+- Number of customers arriving for checkout: 101
+- Average/shortest/longest waiting time: 20.268 / 17 / 26
+- Average/shortest/longest service time: 3.81443 / 3 / 5
+- Number of open lines: 97 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 39 
+- Total/smallest/largest number of customers in the waiting queue: 110 / 0 / 7
+
+-15:39 pm-Minute summary:
+- Number of customers arriving for checkout: 104
+- Average/shortest/longest waiting time: 20.2353 / 17 / 26
+- Average/shortest/longest service time: 3.85294 / 3 / 5
+- Number of open lines: 102 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 40 
+- Total/smallest/largest number of customers in the waiting queue: 111 / 0 / 7
+
+-15:40 pm-Minute summary:
+- Number of customers arriving for checkout: 106
+- Average/shortest/longest waiting time: 20.3048 / 17 / 26
+- Average/shortest/longest service time: 3.86667 / 3 / 5
+- Number of open lines: 105 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 41 
+- Total/smallest/largest number of customers in the waiting queue: 111 / 0 / 7
+
+-15:41 pm-Minute summary:
+- Number of customers arriving for checkout: 108
+- Average/shortest/longest waiting time: 20.3113 / 17 / 26
+- Average/shortest/longest service time: 3.86792 / 3 / 5
+- Number of open lines: 106 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 42 
+- Total/smallest/largest number of customers in the waiting queue: 112 / 0 / 7
+
+-15:42 pm-Minute summary:
+- Number of customers arriving for checkout: 110
+- Average/shortest/longest waiting time: 20.3364 / 17 / 26
+- Average/shortest/longest service time: 3.83636 / 3 / 5
+- Number of open lines: 110 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 43 
+- Total/smallest/largest number of customers in the waiting queue: 112 / 0 / 7
+
+-15:43 pm-Minute summary:
+- Number of customers arriving for checkout: 113
+- Average/shortest/longest waiting time: 20.3482 / 17 / 26
+- Average/shortest/longest service time: 3.83929 / 3 / 5
+- Number of open lines: 112 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 44 
+- Total/smallest/largest number of customers in the waiting queue: 112 / 0 / 7
+
+-15:44 pm-Minute summary:
+- Number of customers arriving for checkout: 115
+- Average/shortest/longest waiting time: 20.3739 / 17 / 26
+- Average/shortest/longest service time: 3.84348 / 3 / 5
+- Number of open lines: 115 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 45 
+- Total/smallest/largest number of customers in the waiting queue: 112 / 0 / 7
+
+-15:45 pm-Minute summary:
+- Number of customers arriving for checkout: 120
+- Average/shortest/longest waiting time: 20.3879 / 17 / 26
+- Average/shortest/longest service time: 3.85345 / 3 / 5
+- Number of open lines: 116 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 46 
+- Total/smallest/largest number of customers in the waiting queue: 115 / 0 / 7
+
+-15:46 pm-Minute summary:
+- Number of customers arriving for checkout: 124
+- Average/shortest/longest waiting time: 20.4118 / 17 / 26
+- Average/shortest/longest service time: 3.84034 / 3 / 5
+- Number of open lines: 119 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 47 
+- Total/smallest/largest number of customers in the waiting queue: 119 / 0 / 7
+
+-15:47 pm-Minute summary:
+- Number of customers arriving for checkout: 129
+- Average/shortest/longest waiting time: 20.4516 / 17 / 26
+- Average/shortest/longest service time: 3.85484 / 3 / 5
+- Number of open lines: 124 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 48 
+- Total/smallest/largest number of customers in the waiting queue: 123 / 0 / 7
+
+-15:48 pm-Minute summary:
+- Number of customers arriving for checkout: 129
+- Average/shortest/longest waiting time: 20.4921 / 17 / 26
+- Average/shortest/longest service time: 3.84921 / 3 / 5
+- Number of open lines: 126 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 49 
+- Total/smallest/largest number of customers in the waiting queue: 125 / 0 / 7
+
+-15:49 pm-Minute summary:
+- Number of customers arriving for checkout: 132
+- Average/shortest/longest waiting time: 20.4921 / 17 / 26
+- Average/shortest/longest service time: 3.84921 / 3 / 5
+- Number of open lines: 126 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 50 
+- Total/smallest/largest number of customers in the waiting queue: 130 / 0 / 7
+
+-15:50 pm-Minute summary:
+- Number of customers arriving for checkout: 134
+- Average/shortest/longest waiting time: 20.4769 / 17 / 26
+- Average/shortest/longest service time: 3.83846 / 3 / 5
+- Number of open lines: 130 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 51 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 7
+
+-15:51 pm-Minute summary:
+- Number of customers arriving for checkout: 134
+- Average/shortest/longest waiting time: 20.4812 / 17 / 26
+- Average/shortest/longest service time: 3.83459 / 3 / 5
+- Number of open lines: 133 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 52 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 7
+
+-15:52 pm-Minute summary:
+- Number of customers arriving for checkout: 134
+- Average/shortest/longest waiting time: 20.4853 / 17 / 26
+- Average/shortest/longest service time: 3.86029 / 3 / 5
+- Number of open lines: 136 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 53 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 7
+
+-15:53 pm-Minute summary:
+- Number of customers arriving for checkout: 134
+- Average/shortest/longest waiting time: 20.4565 / 17 / 26
+- Average/shortest/longest service time: 3.84783 / 3 / 5
+- Number of open lines: 138 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 54 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 7
+
+-15:54 pm-Minute summary:
+- Number of customers arriving for checkout: 135
+- Average/shortest/longest waiting time: 20.4388 / 17 / 26
+- Average/shortest/longest service time: 3.84892 / 3 / 5
+- Number of open lines: 139 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 55 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 7
+
+-15:55 pm-Minute summary:
+- Number of customers arriving for checkout: 135
+- Average/shortest/longest waiting time: 20.45 / 17 / 26
+- Average/shortest/longest service time: 3.85714 / 3 / 5
+- Number of open lines: 140 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 56 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 7
+
+-15:56 pm-Minute summary:
+- Number of customers arriving for checkout: 135
+- Average/shortest/longest waiting time: 20.4932 / 17 / 26
+- Average/shortest/longest service time: 3.87671 / 3 / 5
+- Number of open lines: 146 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 56 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 7
+
+-15:57 pm-Minute summary:
+- Number of customers arriving for checkout: 135
+- Average/shortest/longest waiting time: 20.4595 / 17 / 26
+- Average/shortest/longest service time: 3.87838 / 3 / 5
+- Number of open lines: 148 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 56 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 7
+
+-15:58 pm-Minute summary:
+- Number of customers arriving for checkout: 135
+- Average/shortest/longest waiting time: 20.4362 / 17 / 26
+- Average/shortest/longest service time: 3.88591 / 3 / 5
+- Number of open lines: 149 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 56 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 7
+
+-15:59 pm-Minute summary:
+- Number of customers arriving for checkout: 135
+- Average/shortest/longest waiting time: 20.4333 / 17 / 26
+- Average/shortest/longest service time: 3.88 / 3 / 5
+- Number of open lines: 150 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 56 
+- Total/smallest/largest number of customers in the waiting queue: 133 / 0 / 7
+
+Hour summary:
+- Average number of customers arriving for checkout: 2.25
+- Average/shortest/longest waiting time: 20.4333 / 17 / 26
+- Average/shortest/longest service time: 3.88 / 3 / 5
+- Average number of open lines: 2.5 
+- Maximum number of open lines: 10 
+- Average time each casher will have more than 3 customers standing in line: 0.933333 
+- Average/smallest/largest number of customers in the waiting queue: 2.21667 / 0 / 7
+[Time: 16:00 pm]Regular Time
+
+-16:0 pm-Minute summary:
+- Number of customers arriving for checkout: 1
+- Average/shortest/longest waiting time: 20.6667 / 18 / 22
+- Average/shortest/longest service time: 3.83333 / 3 / 5
+- Number of open lines: 6 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:1 pm-Minute summary:
+- Number of customers arriving for checkout: 4
+- Average/shortest/longest waiting time: 20.3333 / 18 / 23
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 9 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:2 pm-Minute summary:
+- Number of customers arriving for checkout: 4
+- Average/shortest/longest waiting time: 20.3333 / 18 / 23
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 9 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:3 pm-Minute summary:
+- Number of customers arriving for checkout: 4
+- Average/shortest/longest waiting time: 20.4286 / 18 / 23
+- Average/shortest/longest service time: 3.71429 / 3 / 5
+- Number of open lines: 14 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:4 pm-Minute summary:
+- Number of customers arriving for checkout: 5
+- Average/shortest/longest waiting time: 20.5333 / 18 / 23
+- Average/shortest/longest service time: 3.73333 / 3 / 5
+- Number of open lines: 15 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:5 pm-Minute summary:
+- Number of customers arriving for checkout: 7
+- Average/shortest/longest waiting time: 20.3158 / 17 / 24
+- Average/shortest/longest service time: 3.84211 / 3 / 5
+- Number of open lines: 19 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:6 pm-Minute summary:
+- Number of customers arriving for checkout: 7
+- Average/shortest/longest waiting time: 20.2 / 17 / 24
+- Average/shortest/longest service time: 3.8 / 3 / 5
+- Number of open lines: 20 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:7 pm-Minute summary:
+- Number of customers arriving for checkout: 7
+- Average/shortest/longest waiting time: 20.2857 / 17 / 24
+- Average/shortest/longest service time: 3.80952 / 3 / 5
+- Number of open lines: 21 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:8 pm-Minute summary:
+- Number of customers arriving for checkout: 12
+- Average/shortest/longest waiting time: 20.16 / 17 / 24
+- Average/shortest/longest service time: 3.96 / 3 / 5
+- Number of open lines: 25 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:9 pm-Minute summary:
+- Number of customers arriving for checkout: 17
+- Average/shortest/longest waiting time: 20.1786 / 17 / 24
+- Average/shortest/longest service time: 3.96429 / 3 / 5
+- Number of open lines: 28 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:10 pm-Minute summary:
+- Number of customers arriving for checkout: 21
+- Average/shortest/longest waiting time: 20.1333 / 17 / 24
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 30 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:11 pm-Minute summary:
+- Number of customers arriving for checkout: 25
+- Average/shortest/longest waiting time: 20.1613 / 17 / 24
+- Average/shortest/longest service time: 3.96774 / 3 / 5
+- Number of open lines: 31 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:12 pm-Minute summary:
+- Number of customers arriving for checkout: 27
+- Average/shortest/longest waiting time: 20.4324 / 17 / 24
+- Average/shortest/longest service time: 3.91892 / 3 / 5
+- Number of open lines: 37 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:13 pm-Minute summary:
+- Number of customers arriving for checkout: 29
+- Average/shortest/longest waiting time: 20.4474 / 17 / 24
+- Average/shortest/longest service time: 3.94737 / 3 / 5
+- Number of open lines: 38 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:14 pm-Minute summary:
+- Number of customers arriving for checkout: 31
+- Average/shortest/longest waiting time: 20.4474 / 17 / 24
+- Average/shortest/longest service time: 3.94737 / 3 / 5
+- Number of open lines: 38 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:15 pm-Minute summary:
+- Number of customers arriving for checkout: 32
+- Average/shortest/longest waiting time: 20.1905 / 11 / 24
+- Average/shortest/longest service time: 3.95238 / 3 / 5
+- Number of open lines: 42 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:16 pm-Minute summary:
+- Number of customers arriving for checkout: 37
+- Average/shortest/longest waiting time: 19.6596 / 4 / 25
+- Average/shortest/longest service time: 3.95745 / 3 / 5
+- Number of open lines: 47 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:17 pm-Minute summary:
+- Number of customers arriving for checkout: 42
+- Average/shortest/longest waiting time: 19.6596 / 4 / 25
+- Average/shortest/longest service time: 3.95745 / 3 / 5
+- Number of open lines: 47 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:18 pm-Minute summary:
+- Number of customers arriving for checkout: 43
+- Average/shortest/longest waiting time: 19.5417 / 4 / 25
+- Average/shortest/longest service time: 3.9375 / 3 / 5
+- Number of open lines: 48 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 0 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:19 pm-Minute summary:
+- Number of customers arriving for checkout: 46
+- Average/shortest/longest waiting time: 18.5192 / 4 / 25
+- Average/shortest/longest service time: 3.88462 / 3 / 5
+- Number of open lines: 52 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 1 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:20 pm-Minute summary:
+- Number of customers arriving for checkout: 47
+- Average/shortest/longest waiting time: 18.3148 / 4 / 25
+- Average/shortest/longest service time: 3.90741 / 3 / 5
+- Number of open lines: 54 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 2 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:21 pm-Minute summary:
+- Number of customers arriving for checkout: 52
+- Average/shortest/longest waiting time: 18.3148 / 4 / 25
+- Average/shortest/longest service time: 3.90741 / 3 / 5
+- Number of open lines: 54 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 3 
+- Total/smallest/largest number of customers in the waiting queue: 0 / 0 / 0
+
+-16:22 pm-Minute summary:
+- Number of customers arriving for checkout: 56
+- Average/shortest/longest waiting time: 18.3148 / 4 / 25
+- Average/shortest/longest service time: 3.90741 / 3 / 5
+- Number of open lines: 54 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 4 
+- Total/smallest/largest number of customers in the waiting queue: 4 / 0 / 4
+
+-16:23 pm-Minute summary:
+- Number of customers arriving for checkout: 60
+- Average/shortest/longest waiting time: 17.661 / 3 / 25
+- Average/shortest/longest service time: 3.91525 / 3 / 5
+- Number of open lines: 59 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 5 
+- Total/smallest/largest number of customers in the waiting queue: 7 / 0 / 4
+
+-16:24 pm-Minute summary:
+- Number of customers arriving for checkout: 63
+- Average/shortest/longest waiting time: 17.4262 / 3 / 25
+- Average/shortest/longest service time: 3.93443 / 3 / 5
+- Number of open lines: 61 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 6 
+- Total/smallest/largest number of customers in the waiting queue: 11 / 0 / 4
+
+-16:25 pm-Minute summary:
+- Number of customers arriving for checkout: 66
+- Average/shortest/longest waiting time: 17.4262 / 3 / 25
+- Average/shortest/longest service time: 3.93443 / 3 / 5
+- Number of open lines: 61 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 7 
+- Total/smallest/largest number of customers in the waiting queue: 18 / 0 / 7
+
+-16:26 pm-Minute summary:
+- Number of customers arriving for checkout: 71
+- Average/shortest/longest waiting time: 17.3871 / 3 / 25
+- Average/shortest/longest service time: 3.91935 / 3 / 5
+- Number of open lines: 62 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 8 
+- Total/smallest/largest number of customers in the waiting queue: 24 / 0 / 7
+
+-16:27 pm-Minute summary:
+- Number of customers arriving for checkout: 74
+- Average/shortest/longest waiting time: 16.9697 / 3 / 25
+- Average/shortest/longest service time: 3.90909 / 3 / 5
+- Number of open lines: 66 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 9 
+- Total/smallest/largest number of customers in the waiting queue: 28 / 0 / 7
+
+-16:28 pm-Minute summary:
+- Number of customers arriving for checkout: 76
+- Average/shortest/longest waiting time: 17 / 3 / 25
+- Average/shortest/longest service time: 3.92537 / 3 / 5
+- Number of open lines: 67 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 10 
+- Total/smallest/largest number of customers in the waiting queue: 33 / 0 / 7
+
+-16:29 pm-Minute summary:
+- Number of customers arriving for checkout: 76
+- Average/shortest/longest waiting time: 16.942 / 3 / 25
+- Average/shortest/longest service time: 3.92754 / 3 / 5
+- Number of open lines: 69 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 11 
+- Total/smallest/largest number of customers in the waiting queue: 36 / 0 / 7
+
+-16:30 pm-Minute summary:
+- Number of customers arriving for checkout: 76
+- Average/shortest/longest waiting time: 16.7465 / 3 / 25
+- Average/shortest/longest service time: 3.91549 / 3 / 5
+- Number of open lines: 71 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 12 
+- Total/smallest/largest number of customers in the waiting queue: 37 / 0 / 7
+
+-16:31 pm-Minute summary:
+- Number of customers arriving for checkout: 80
+- Average/shortest/longest waiting time: 16.5541 / 3 / 25
+- Average/shortest/longest service time: 3.91892 / 3 / 5
+- Number of open lines: 74 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 13 
+- Total/smallest/largest number of customers in the waiting queue: 39 / 0 / 7
+
+-16:32 pm-Minute summary:
+- Number of customers arriving for checkout: 83
+- Average/shortest/longest waiting time: 16.5541 / 3 / 25
+- Average/shortest/longest service time: 3.91892 / 3 / 5
+- Number of open lines: 74 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 14 
+- Total/smallest/largest number of customers in the waiting queue: 44 / 0 / 7
+
+-16:33 pm-Minute summary:
+- Number of customers arriving for checkout: 87
+- Average/shortest/longest waiting time: 16.4615 / 3 / 25
+- Average/shortest/longest service time: 3.92308 / 3 / 5
+- Number of open lines: 78 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 15 
+- Total/smallest/largest number of customers in the waiting queue: 49 / 0 / 7
+
+-16:34 pm-Minute summary:
+- Number of customers arriving for checkout: 89
+- Average/shortest/longest waiting time: 16.4937 / 3 / 25
+- Average/shortest/longest service time: 3.91139 / 3 / 5
+- Number of open lines: 79 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 16 
+- Total/smallest/largest number of customers in the waiting queue: 55 / 0 / 7
+
+-16:35 pm-Minute summary:
+- Number of customers arriving for checkout: 89
+- Average/shortest/longest waiting time: 16.4024 / 3 / 25
+- Average/shortest/longest service time: 3.92683 / 3 / 5
+- Number of open lines: 82 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 17 
+- Total/smallest/largest number of customers in the waiting queue: 58 / 0 / 7
+
+-16:36 pm-Minute summary:
+- Number of customers arriving for checkout: 93
+- Average/shortest/longest waiting time: 16.4337 / 3 / 25
+- Average/shortest/longest service time: 3.91566 / 3 / 5
+- Number of open lines: 83 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 18 
+- Total/smallest/largest number of customers in the waiting queue: 64 / 0 / 7
+
+-16:37 pm-Minute summary:
+- Number of customers arriving for checkout: 98
+- Average/shortest/longest waiting time: 16.4337 / 3 / 25
+- Average/shortest/longest service time: 3.91566 / 3 / 5
+- Number of open lines: 83 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 19 
+- Total/smallest/largest number of customers in the waiting queue: 70 / 0 / 7
+
+-16:38 pm-Minute summary:
+- Number of customers arriving for checkout: 98
+- Average/shortest/longest waiting time: 16.4138 / 3 / 25
+- Average/shortest/longest service time: 3.95402 / 3 / 5
+- Number of open lines: 87 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 20 
+- Total/smallest/largest number of customers in the waiting queue: 72 / 0 / 7
+
+-16:39 pm-Minute summary:
+- Number of customers arriving for checkout: 99
+- Average/shortest/longest waiting time: 16.4889 / 3 / 25
+- Average/shortest/longest service time: 3.94444 / 3 / 5
+- Number of open lines: 90 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 21 
+- Total/smallest/largest number of customers in the waiting queue: 72 / 0 / 7
+
+-16:40 pm-Minute summary:
+- Number of customers arriving for checkout: 101
+- Average/shortest/longest waiting time: 16.4835 / 3 / 25
+- Average/shortest/longest service time: 3.95604 / 3 / 5
+- Number of open lines: 91 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 22 
+- Total/smallest/largest number of customers in the waiting queue: 72 / 0 / 7
+
+-16:41 pm-Minute summary:
+- Number of customers arriving for checkout: 103
+- Average/shortest/longest waiting time: 16.337 / 3 / 25
+- Average/shortest/longest service time: 3.95652 / 3 / 5
+- Number of open lines: 92 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 23 
+- Total/smallest/largest number of customers in the waiting queue: 73 / 0 / 7
+
+-16:42 pm-Minute summary:
+- Number of customers arriving for checkout: 105
+- Average/shortest/longest waiting time: 16.4124 / 3 / 25
+- Average/shortest/longest service time: 3.93814 / 3 / 5
+- Number of open lines: 97 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 24 
+- Total/smallest/largest number of customers in the waiting queue: 73 / 0 / 7
+
+-16:43 pm-Minute summary:
+- Number of customers arriving for checkout: 107
+- Average/shortest/longest waiting time: 16.4388 / 3 / 25
+- Average/shortest/longest service time: 3.94898 / 3 / 5
+- Number of open lines: 98 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 25 
+- Total/smallest/largest number of customers in the waiting queue: 73 / 0 / 7
+
+-16:44 pm-Minute summary:
+- Number of customers arriving for checkout: 111
+- Average/shortest/longest waiting time: 16.36 / 3 / 25
+- Average/shortest/longest service time: 3.95 / 3 / 5
+- Number of open lines: 100 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 26 
+- Total/smallest/largest number of customers in the waiting queue: 74 / 0 / 7
+
+-16:45 pm-Minute summary:
+- Number of customers arriving for checkout: 113
+- Average/shortest/longest waiting time: 16.4563 / 3 / 25
+- Average/shortest/longest service time: 3.94175 / 3 / 5
+- Number of open lines: 103 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 27 
+- Total/smallest/largest number of customers in the waiting queue: 74 / 0 / 7
+
+-16:46 pm-Minute summary:
+- Number of customers arriving for checkout: 117
+- Average/shortest/longest waiting time: 16.4904 / 3 / 25
+- Average/shortest/longest service time: 3.94231 / 3 / 5
+- Number of open lines: 104 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 28 
+- Total/smallest/largest number of customers in the waiting queue: 77 / 0 / 7
+
+-16:47 pm-Minute summary:
+- Number of customers arriving for checkout: 122
+- Average/shortest/longest waiting time: 16.4815 / 3 / 25
+- Average/shortest/longest service time: 3.9537 / 3 / 5
+- Number of open lines: 108 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 29 
+- Total/smallest/largest number of customers in the waiting queue: 81 / 0 / 7
+
+-16:48 pm-Minute summary:
+- Number of customers arriving for checkout: 127
+- Average/shortest/longest waiting time: 16.5455 / 3 / 25
+- Average/shortest/longest service time: 3.94545 / 3 / 5
+- Number of open lines: 110 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 30 
+- Total/smallest/largest number of customers in the waiting queue: 88 / 0 / 7
+
+-16:49 pm-Minute summary:
+- Number of customers arriving for checkout: 130
+- Average/shortest/longest waiting time: 16.6518 / 3 / 25
+- Average/shortest/longest service time: 3.94643 / 3 / 5
+- Number of open lines: 112 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 31 
+- Total/smallest/largest number of customers in the waiting queue: 96 / 0 / 8
+
+-16:50 pm-Minute summary:
+- Number of customers arriving for checkout: 130
+- Average/shortest/longest waiting time: 16.6316 / 3 / 25
+- Average/shortest/longest service time: 3.9386 / 3 / 5
+- Number of open lines: 114 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 32 
+- Total/smallest/largest number of customers in the waiting queue: 102 / 0 / 8
+
+-16:51 pm-Minute summary:
+- Number of customers arriving for checkout: 131
+- Average/shortest/longest waiting time: 16.7521 / 3 / 25
+- Average/shortest/longest service time: 3.94017 / 3 / 5
+- Number of open lines: 117 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 33 
+- Total/smallest/largest number of customers in the waiting queue: 106 / 0 / 8
+
+-16:52 pm-Minute summary:
+- Number of customers arriving for checkout: 135
+- Average/shortest/longest waiting time: 16.8417 / 3 / 25
+- Average/shortest/longest service time: 3.93333 / 3 / 5
+- Number of open lines: 120 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 34 
+- Total/smallest/largest number of customers in the waiting queue: 111 / 0 / 8
+
+-16:53 pm-Minute summary:
+- Number of customers arriving for checkout: 136
+- Average/shortest/longest waiting time: 16.8843 / 3 / 25
+- Average/shortest/longest service time: 3.92562 / 3 / 5
+- Number of open lines: 121 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 35 
+- Total/smallest/largest number of customers in the waiting queue: 116 / 0 / 8
+
+-16:54 pm-Minute summary:
+- Number of customers arriving for checkout: 139
+- Average/shortest/longest waiting time: 17.024 / 3 / 25
+- Average/shortest/longest service time: 3.92 / 3 / 5
+- Number of open lines: 125 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 36 
+- Total/smallest/largest number of customers in the waiting queue: 120 / 0 / 8
+
+-16:55 pm-Minute summary:
+- Number of customers arriving for checkout: 140
+- Average/shortest/longest waiting time: 17.0397 / 3 / 25
+- Average/shortest/longest service time: 3.9127 / 3 / 5
+- Number of open lines: 126 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 37 
+- Total/smallest/largest number of customers in the waiting queue: 124 / 0 / 8
+
+-16:56 pm-Minute summary:
+- Number of customers arriving for checkout: 145
+- Average/shortest/longest waiting time: 17.0945 / 3 / 25
+- Average/shortest/longest service time: 3.92126 / 3 / 5
+- Number of open lines: 127 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 38 
+- Total/smallest/largest number of customers in the waiting queue: 132 / 0 / 8
+
+-16:57 pm-Minute summary:
+- Number of customers arriving for checkout: 148
+- Average/shortest/longest waiting time: 17.229 / 3 / 25
+- Average/shortest/longest service time: 3.9313 / 3 / 5
+- Number of open lines: 131 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 39 
+- Total/smallest/largest number of customers in the waiting queue: 134 / 0 / 8
+
+-16:58 pm-Minute summary:
+- Number of customers arriving for checkout: 150
+- Average/shortest/longest waiting time: 17.2782 / 3 / 25
+- Average/shortest/longest service time: 3.92481 / 3 / 5
+- Number of open lines: 133 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 40 
+- Total/smallest/largest number of customers in the waiting queue: 135 / 0 / 8
+
+-16:59 pm-Minute summary:
+- Number of customers arriving for checkout: 153
+- Average/shortest/longest waiting time: 17.3382 / 3 / 25
+- Average/shortest/longest service time: 3.93382 / 3 / 5
+- Number of open lines: 136 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 41 
+- Total/smallest/largest number of customers in the waiting queue: 136 / 0 / 8
+
+Hour summary:
+- Average number of customers arriving for checkout: 2.55
+- Average/shortest/longest waiting time: 17.3382 / 3 / 25
+- Average/shortest/longest service time: 3.93382 / 3 / 5
+- Average number of open lines: 2.26667 
+- Maximum number of open lines: 10 
+- Average time each casher will have more than 3 customers standing in line: 0.683333 
+- Average/smallest/largest number of customers in the waiting queue: 2.26667 / 0 / 8
+[Time: 17:00 pm]Regular Time
+
+-17:0 pm-Minute summary:
+- Number of customers arriving for checkout: 5
+- Average/shortest/longest waiting time: 24 / 24 / 24
+- Average/shortest/longest service time: 3 / 3 / 3
+- Number of open lines: 1 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 1 
+- Total/smallest/largest number of customers in the waiting queue: 5 / 5 / 5
+
+-17:1 pm-Minute summary:
+- Number of customers arriving for checkout: 7
+- Average/shortest/longest waiting time: 22.5 / 21 / 24
+- Average/shortest/longest service time: 3.5 / 3 / 4
+- Number of open lines: 4 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 2 
+- Total/smallest/largest number of customers in the waiting queue: 9 / 4 / 5
+
+-17:2 pm-Minute summary:
+- Number of customers arriving for checkout: 9
+- Average/shortest/longest waiting time: 18.8333 / 3 / 24
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 6 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 3 
+- Total/smallest/largest number of customers in the waiting queue: 13 / 4 / 5
+
+-17:3 pm-Minute summary:
+- Number of customers arriving for checkout: 13
+- Average/shortest/longest waiting time: 19.2 / 3 / 24
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 10 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 4 
+- Total/smallest/largest number of customers in the waiting queue: 17 / 4 / 5
+
+-17:4 pm-Minute summary:
+- Number of customers arriving for checkout: 15
+- Average/shortest/longest waiting time: 19.1667 / 3 / 24
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 12 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 5 
+- Total/smallest/largest number of customers in the waiting queue: 21 / 4 / 5
+
+-17:5 pm-Minute summary:
+- Number of customers arriving for checkout: 19
+- Average/shortest/longest waiting time: 18.5 / 3 / 24
+- Average/shortest/longest service time: 3.92857 / 3 / 5
+- Number of open lines: 14 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 6 
+- Total/smallest/largest number of customers in the waiting queue: 27 / 4 / 6
+
+-17:6 pm-Minute summary:
+- Number of customers arriving for checkout: 23
+- Average/shortest/longest waiting time: 18.5556 / 3 / 24
+- Average/shortest/longest service time: 3.83333 / 3 / 5
+- Number of open lines: 18 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 7 
+- Total/smallest/largest number of customers in the waiting queue: 33 / 4 / 6
+
+-17:7 pm-Minute summary:
+- Number of customers arriving for checkout: 23
+- Average/shortest/longest waiting time: 18.6316 / 3 / 24
+- Average/shortest/longest service time: 3.89474 / 3 / 5
+- Number of open lines: 19 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 8 
+- Total/smallest/largest number of customers in the waiting queue: 38 / 4 / 6
+
+-17:8 pm-Minute summary:
+- Number of customers arriving for checkout: 23
+- Average/shortest/longest waiting time: 18.8182 / 3 / 24
+- Average/shortest/longest service time: 3.90909 / 3 / 5
+- Number of open lines: 22 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 9 
+- Total/smallest/largest number of customers in the waiting queue: 40 / 2 / 6
+
+-17:9 pm-Minute summary:
+- Number of customers arriving for checkout: 26
+- Average/shortest/longest waiting time: 18.875 / 3 / 24
+- Average/shortest/longest service time: 3.91667 / 3 / 5
+- Number of open lines: 24 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 10 
+- Total/smallest/largest number of customers in the waiting queue: 43 / 2 / 6
+
+-17:10 pm-Minute summary:
+- Number of customers arriving for checkout: 30
+- Average/shortest/longest waiting time: 18.6786 / 3 / 24
+- Average/shortest/longest service time: 3.92857 / 3 / 5
+- Number of open lines: 28 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 11 
+- Total/smallest/largest number of customers in the waiting queue: 46 / 2 / 6
+
+-17:11 pm-Minute summary:
+- Number of customers arriving for checkout: 32
+- Average/shortest/longest waiting time: 18.8333 / 3 / 24
+- Average/shortest/longest service time: 3.93333 / 3 / 5
+- Number of open lines: 30 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 12 
+- Total/smallest/largest number of customers in the waiting queue: 49 / 2 / 6
+
+-17:12 pm-Minute summary:
+- Number of customers arriving for checkout: 37
+- Average/shortest/longest waiting time: 18.9032 / 3 / 24
+- Average/shortest/longest service time: 3.93548 / 3 / 5
+- Number of open lines: 31 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 13 
+- Total/smallest/largest number of customers in the waiting queue: 56 / 2 / 7
+
+-17:13 pm-Minute summary:
+- Number of customers arriving for checkout: 39
+- Average/shortest/longest waiting time: 19 / 3 / 24
+- Average/shortest/longest service time: 3.91429 / 3 / 5
+- Number of open lines: 35 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 14 
+- Total/smallest/largest number of customers in the waiting queue: 61 / 2 / 7
+
+-17:14 pm-Minute summary:
+- Number of customers arriving for checkout: 44
+- Average/shortest/longest waiting time: 19.0811 / 3 / 24
+- Average/shortest/longest service time: 3.94595 / 3 / 5
+- Number of open lines: 37 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 15 
+- Total/smallest/largest number of customers in the waiting queue: 69 / 2 / 8
+
+-17:15 pm-Minute summary:
+- Number of customers arriving for checkout: 47
+- Average/shortest/longest waiting time: 19.2564 / 3 / 24
+- Average/shortest/longest service time: 3.97436 / 3 / 5
+- Number of open lines: 39 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 16 
+- Total/smallest/largest number of customers in the waiting queue: 78 / 2 / 9
+
+-17:16 pm-Minute summary:
+- Number of customers arriving for checkout: 52
+- Average/shortest/longest waiting time: 19.4878 / 3 / 25
+- Average/shortest/longest service time: 3.97561 / 3 / 5
+- Number of open lines: 41 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 17 
+- Total/smallest/largest number of customers in the waiting queue: 90 / 2 / 12
+
+-17:17 pm-Minute summary:
+- Number of customers arriving for checkout: 52
+- Average/shortest/longest waiting time: 19.6591 / 3 / 25
+- Average/shortest/longest service time: 3.97727 / 3 / 5
+- Number of open lines: 44 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 18 
+- Total/smallest/largest number of customers in the waiting queue: 99 / 2 / 12
+
+-17:18 pm-Minute summary:
+- Number of customers arriving for checkout: 55
+- Average/shortest/longest waiting time: 19.6304 / 3 / 25
+- Average/shortest/longest service time: 4.02174 / 3 / 5
+- Number of open lines: 46 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 19 
+- Total/smallest/largest number of customers in the waiting queue: 109 / 2 / 12
+
+-17:19 pm-Minute summary:
+- Number of customers arriving for checkout: 58
+- Average/shortest/longest waiting time: 19.6667 / 3 / 25
+- Average/shortest/longest service time: 4.04167 / 3 / 5
+- Number of open lines: 48 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 20 
+- Total/smallest/largest number of customers in the waiting queue: 120 / 2 / 12
+
+-17:20 pm-Minute summary:
+- Number of customers arriving for checkout: 63
+- Average/shortest/longest waiting time: 19.8077 / 3 / 25
+- Average/shortest/longest service time: 4.01923 / 3 / 5
+- Number of open lines: 52 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 21 
+- Total/smallest/largest number of customers in the waiting queue: 132 / 2 / 12
+
+-17:21 pm-Minute summary:
+- Number of customers arriving for checkout: 68
+- Average/shortest/longest waiting time: 19.9273 / 3 / 25
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 55 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 22 
+- Total/smallest/largest number of customers in the waiting queue: 146 / 2 / 14
+
+-17:22 pm-Minute summary:
+- Number of customers arriving for checkout: 73
+- Average/shortest/longest waiting time: 19.9649 / 3 / 25
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 57 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 23 
+- Total/smallest/largest number of customers in the waiting queue: 163 / 2 / 17
+
+-17:23 pm-Minute summary:
+- Number of customers arriving for checkout: 73
+- Average/shortest/longest waiting time: 19.9831 / 3 / 25
+- Average/shortest/longest service time: 3.9661 / 3 / 5
+- Number of open lines: 59 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 24 
+- Total/smallest/largest number of customers in the waiting queue: 178 / 2 / 17
+
+-17:24 pm-Minute summary:
+- Number of customers arriving for checkout: 74
+- Average/shortest/longest waiting time: 20 / 3 / 25
+- Average/shortest/longest service time: 3.96721 / 3 / 5
+- Number of open lines: 61 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 25 
+- Total/smallest/largest number of customers in the waiting queue: 192 / 2 / 17
+
+-17:25 pm-Minute summary:
+- Number of customers arriving for checkout: 79
+- Average/shortest/longest waiting time: 20.0769 / 3 / 25
+- Average/shortest/longest service time: 3.98462 / 3 / 5
+- Number of open lines: 65 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 26 
+- Total/smallest/largest number of customers in the waiting queue: 207 / 2 / 17
+
+-17:26 pm-Minute summary:
+- Number of customers arriving for checkout: 84
+- Average/shortest/longest waiting time: 20.1061 / 3 / 25
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 66 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 27 
+- Total/smallest/largest number of customers in the waiting queue: 226 / 2 / 19
+
+-17:27 pm-Minute summary:
+- Number of customers arriving for checkout: 84
+- Average/shortest/longest waiting time: 20.1324 / 3 / 25
+- Average/shortest/longest service time: 4.01471 / 3 / 5
+- Number of open lines: 68 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 28 
+- Total/smallest/largest number of customers in the waiting queue: 243 / 2 / 19
+
+-17:28 pm-Minute summary:
+- Number of customers arriving for checkout: 85
+- Average/shortest/longest waiting time: 20.1667 / 3 / 25
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 72 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 29 
+- Total/smallest/largest number of customers in the waiting queue: 257 / 2 / 19
+
+-17:29 pm-Minute summary:
+- Number of customers arriving for checkout: 89
+- Average/shortest/longest waiting time: 20.2297 / 3 / 25
+- Average/shortest/longest service time: 4.01351 / 3 / 5
+- Number of open lines: 74 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 30 
+- Total/smallest/largest number of customers in the waiting queue: 273 / 2 / 19
+
+-17:30 pm-Minute summary:
+- Number of customers arriving for checkout: 92
+- Average/shortest/longest waiting time: 20.2533 / 3 / 25
+- Average/shortest/longest service time: 4.02667 / 3 / 5
+- Number of open lines: 75 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 31 
+- Total/smallest/largest number of customers in the waiting queue: 291 / 2 / 19
+
+-17:31 pm-Minute summary:
+- Number of customers arriving for checkout: 93
+- Average/shortest/longest waiting time: 20.3291 / 3 / 25
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 79 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 32 
+- Total/smallest/largest number of customers in the waiting queue: 306 / 2 / 19
+
+-17:32 pm-Minute summary:
+- Number of customers arriving for checkout: 94
+- Average/shortest/longest waiting time: 20.4146 / 3 / 25
+- Average/shortest/longest service time: 4.0122 / 3 / 5
+- Number of open lines: 82 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 33 
+- Total/smallest/largest number of customers in the waiting queue: 319 / 2 / 19
+
+-17:33 pm-Minute summary:
+- Number of customers arriving for checkout: 94
+- Average/shortest/longest waiting time: 20.4405 / 3 / 25
+- Average/shortest/longest service time: 4.02381 / 3 / 5
+- Number of open lines: 84 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 34 
+- Total/smallest/largest number of customers in the waiting queue: 330 / 2 / 19
+
+-17:34 pm-Minute summary:
+- Number of customers arriving for checkout: 97
+- Average/shortest/longest waiting time: 20.4884 / 3 / 25
+- Average/shortest/longest service time: 4.01163 / 3 / 5
+- Number of open lines: 86 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 35 
+- Total/smallest/largest number of customers in the waiting queue: 342 / 2 / 19
+
+-17:35 pm-Minute summary:
+- Number of customers arriving for checkout: 102
+- Average/shortest/longest waiting time: 20.5056 / 3 / 25
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 89 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 36 
+- Total/smallest/largest number of customers in the waiting queue: 356 / 2 / 19
+
+-17:36 pm-Minute summary:
+- Number of customers arriving for checkout: 106
+- Average/shortest/longest waiting time: 20.6022 / 3 / 25
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 93 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 37 
+- Total/smallest/largest number of customers in the waiting queue: 370 / 2 / 19
+
+-17:37 pm-Minute summary:
+- Number of customers arriving for checkout: 110
+- Average/shortest/longest waiting time: 20.6316 / 3 / 25
+- Average/shortest/longest service time: 3.98947 / 3 / 5
+- Number of open lines: 95 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 38 
+- Total/smallest/largest number of customers in the waiting queue: 386 / 2 / 19
+
+-17:38 pm-Minute summary:
+- Number of customers arriving for checkout: 112
+- Average/shortest/longest waiting time: 20.6458 / 3 / 25
+- Average/shortest/longest service time: 3.98958 / 3 / 5
+- Number of open lines: 96 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 39 
+- Total/smallest/largest number of customers in the waiting queue: 403 / 2 / 19
+
+-17:39 pm-Minute summary:
+- Number of customers arriving for checkout: 117
+- Average/shortest/longest waiting time: 20.6931 / 3 / 25
+- Average/shortest/longest service time: 3.9703 / 3 / 5
+- Number of open lines: 101 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 40 
+- Total/smallest/largest number of customers in the waiting queue: 420 / 2 / 19
+
+-17:40 pm-Minute summary:
+- Number of customers arriving for checkout: 118
+- Average/shortest/longest waiting time: 20.7692 / 3 / 25
+- Average/shortest/longest service time: 3.96154 / 3 / 5
+- Number of open lines: 104 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 41 
+- Total/smallest/largest number of customers in the waiting queue: 435 / 2 / 19
+
+-17:41 pm-Minute summary:
+- Number of customers arriving for checkout: 121
+- Average/shortest/longest waiting time: 20.7692 / 3 / 25
+- Average/shortest/longest service time: 3.96154 / 3 / 5
+- Number of open lines: 104 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 42 
+- Total/smallest/largest number of customers in the waiting queue: 453 / 2 / 19
+
+-17:42 pm-Minute summary:
+- Number of customers arriving for checkout: 121
+- Average/shortest/longest waiting time: 20.8333 / 3 / 25
+- Average/shortest/longest service time: 3.94444 / 3 / 5
+- Number of open lines: 108 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 43 
+- Total/smallest/largest number of customers in the waiting queue: 467 / 2 / 19
+
+-17:43 pm-Minute summary:
+- Number of customers arriving for checkout: 125
+- Average/shortest/longest waiting time: 20.8455 / 3 / 25
+- Average/shortest/longest service time: 3.94545 / 3 / 5
+- Number of open lines: 110 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 44 
+- Total/smallest/largest number of customers in the waiting queue: 483 / 2 / 19
+
+-17:44 pm-Minute summary:
+- Number of customers arriving for checkout: 127
+- Average/shortest/longest waiting time: 20.9292 / 3 / 26
+- Average/shortest/longest service time: 3.9646 / 3 / 5
+- Number of open lines: 113 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 45 
+- Total/smallest/largest number of customers in the waiting queue: 498 / 2 / 19
+
+-17:45 pm-Minute summary:
+- Number of customers arriving for checkout: 129
+- Average/shortest/longest waiting time: 20.9914 / 3 / 26
+- Average/shortest/longest service time: 3.9569 / 3 / 5
+- Number of open lines: 116 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 46 
+- Total/smallest/largest number of customers in the waiting queue: 512 / 2 / 19
+
+-17:46 pm-Minute summary:
+- Number of customers arriving for checkout: 134
+- Average/shortest/longest waiting time: 21.0756 / 3 / 26
+- Average/shortest/longest service time: 3.94958 / 3 / 5
+- Number of open lines: 119 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 47 
+- Total/smallest/largest number of customers in the waiting queue: 528 / 2 / 19
+
+-17:47 pm-Minute summary:
+- Number of customers arriving for checkout: 134
+- Average/shortest/longest waiting time: 21.075 / 3 / 26
+- Average/shortest/longest service time: 3.95 / 3 / 5
+- Number of open lines: 120 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 48 
+- Total/smallest/largest number of customers in the waiting queue: 543 / 2 / 19
+
+-17:48 pm-Minute summary:
+- Number of customers arriving for checkout: 137
+- Average/shortest/longest waiting time: 21.1774 / 3 / 26
+- Average/shortest/longest service time: 3.93548 / 3 / 5
+- Number of open lines: 124 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 49 
+- Total/smallest/largest number of customers in the waiting queue: 557 / 2 / 19
+
+-17:49 pm-Minute summary:
+- Number of customers arriving for checkout: 140
+- Average/shortest/longest waiting time: 21.216 / 3 / 26
+- Average/shortest/longest service time: 3.944 / 3 / 5
+- Number of open lines: 125 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 50 
+- Total/smallest/largest number of customers in the waiting queue: 573 / 2 / 19
+
+-17:50 pm-Minute summary:
+- Number of customers arriving for checkout: 144
+- Average/shortest/longest waiting time: 21.3125 / 3 / 26
+- Average/shortest/longest service time: 3.95312 / 3 / 5
+- Number of open lines: 128 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 51 
+- Total/smallest/largest number of customers in the waiting queue: 590 / 2 / 19
+
+-17:51 pm-Minute summary:
+- Number of customers arriving for checkout: 149
+- Average/shortest/longest waiting time: 21.3462 / 3 / 26
+- Average/shortest/longest service time: 3.96154 / 3 / 5
+- Number of open lines: 130 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 52 
+- Total/smallest/largest number of customers in the waiting queue: 610 / 2 / 20
+
+-17:52 pm-Minute summary:
+- Number of customers arriving for checkout: 149
+- Average/shortest/longest waiting time: 21.4015 / 3 / 28
+- Average/shortest/longest service time: 3.95455 / 3 / 5
+- Number of open lines: 132 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 53 
+- Total/smallest/largest number of customers in the waiting queue: 628 / 2 / 20
+
+-17:53 pm-Minute summary:
+- Number of customers arriving for checkout: 149
+- Average/shortest/longest waiting time: 21.5912 / 3 / 29
+- Average/shortest/longest service time: 3.9635 / 3 / 5
+- Number of open lines: 137 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 54 
+- Total/smallest/largest number of customers in the waiting queue: 641 / 2 / 20
+
+-17:54 pm-Minute summary:
+- Number of customers arriving for checkout: 149
+- Average/shortest/longest waiting time: 21.6304 / 3 / 29
+- Average/shortest/longest service time: 3.95652 / 3 / 5
+- Number of open lines: 138 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 55 
+- Total/smallest/largest number of customers in the waiting queue: 653 / 2 / 20
+
+-17:55 pm-Minute summary:
+- Number of customers arriving for checkout: 153
+- Average/shortest/longest waiting time: 21.6786 / 3 / 29
+- Average/shortest/longest service time: 3.96429 / 3 / 5
+- Number of open lines: 140 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 56 
+- Total/smallest/largest number of customers in the waiting queue: 667 / 2 / 20
+
+-17:56 pm-Minute summary:
+- Number of customers arriving for checkout: 153
+- Average/shortest/longest waiting time: 21.7606 / 3 / 29
+- Average/shortest/longest service time: 3.95775 / 3 / 5
+- Number of open lines: 142 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 57 
+- Total/smallest/largest number of customers in the waiting queue: 679 / 2 / 20
+
+-17:57 pm-Minute summary:
+- Number of customers arriving for checkout: 158
+- Average/shortest/longest waiting time: 21.8414 / 3 / 29
+- Average/shortest/longest service time: 3.96552 / 3 / 5
+- Number of open lines: 145 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 58 
+- Total/smallest/largest number of customers in the waiting queue: 693 / 2 / 20
+
+-17:58 pm-Minute summary:
+- Number of customers arriving for checkout: 162
+- Average/shortest/longest waiting time: 21.8912 / 3 / 29
+- Average/shortest/longest service time: 3.97959 / 3 / 5
+- Number of open lines: 147 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 59 
+- Total/smallest/largest number of customers in the waiting queue: 709 / 2 / 20
+
+-17:59 pm-Minute summary:
+- Number of customers arriving for checkout: 167
+- Average/shortest/longest waiting time: 21.9262 / 3 / 29
+- Average/shortest/longest service time: 3.98658 / 3 / 5
+- Number of open lines: 149 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 60 
+- Total/smallest/largest number of customers in the waiting queue: 728 / 2 / 20
+
+Hour summary:
+- Average number of customers arriving for checkout: 2.78333
+- Average/shortest/longest waiting time: 21.9262 / 3 / 29
+- Average/shortest/longest service time: 3.98658 / 3 / 5
+- Average number of open lines: 2.48333 
+- Maximum number of open lines: 10 
+- Average time each casher will have more than 3 customers standing in line: 1 
+- Average/smallest/largest number of customers in the waiting queue: 12.1333 / 2 / 20
+[Time: 18:00 pm]Regular Time
+
+-18:0 pm-Minute summary:
+- Number of customers arriving for checkout: 0
+- Average/shortest/longest waiting time: 26.3333 / 26 / 27
+- Average/shortest/longest service time: 3.66667 / 3 / 5
+- Number of open lines: 3 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 1 
+- Total/smallest/largest number of customers in the waiting queue: 16 / 16 / 16
+
+-18:1 pm-Minute summary:
+- Number of customers arriving for checkout: 1
+- Average/shortest/longest waiting time: 25.8333 / 23 / 27
+- Average/shortest/longest service time: 4.16667 / 3 / 5
+- Number of open lines: 6 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 2 
+- Total/smallest/largest number of customers in the waiting queue: 30 / 14 / 16
+
+-18:2 pm-Minute summary:
+- Number of customers arriving for checkout: 2
+- Average/shortest/longest waiting time: 25.5 / 23 / 27
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 8 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 3 
+- Total/smallest/largest number of customers in the waiting queue: 43 / 13 / 16
+
+-18:3 pm-Minute summary:
+- Number of customers arriving for checkout: 7
+- Average/shortest/longest waiting time: 25.6 / 23 / 28
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 10 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 4 
+- Total/smallest/largest number of customers in the waiting queue: 59 / 13 / 16
+
+-18:4 pm-Minute summary:
+- Number of customers arriving for checkout: 8
+- Average/shortest/longest waiting time: 25.3846 / 23 / 28
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 13 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 5 
+- Total/smallest/largest number of customers in the waiting queue: 73 / 13 / 16
+
+-18:5 pm-Minute summary:
+- Number of customers arriving for checkout: 12
+- Average/shortest/longest waiting time: 25.375 / 23 / 28
+- Average/shortest/longest service time: 4.0625 / 3 / 5
+- Number of open lines: 16 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 6 
+- Total/smallest/largest number of customers in the waiting queue: 88 / 13 / 16
+
+-18:6 pm-Minute summary:
+- Number of customers arriving for checkout: 14
+- Average/shortest/longest waiting time: 25.4444 / 23 / 28
+- Average/shortest/longest service time: 3.94444 / 3 / 5
+- Number of open lines: 18 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 7 
+- Total/smallest/largest number of customers in the waiting queue: 103 / 13 / 16
+
+-18:7 pm-Minute summary:
+- Number of customers arriving for checkout: 17
+- Average/shortest/longest waiting time: 25.4762 / 23 / 28
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 21 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 8 
+- Total/smallest/largest number of customers in the waiting queue: 118 / 13 / 16
+
+-18:8 pm-Minute summary:
+- Number of customers arriving for checkout: 22
+- Average/shortest/longest waiting time: 25.7083 / 23 / 28
+- Average/shortest/longest service time: 3.95833 / 3 / 5
+- Number of open lines: 24 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 9 
+- Total/smallest/largest number of customers in the waiting queue: 135 / 13 / 17
+
+-18:9 pm-Minute summary:
+- Number of customers arriving for checkout: 26
+- Average/shortest/longest waiting time: 25.7083 / 23 / 28
+- Average/shortest/longest service time: 3.95833 / 3 / 5
+- Number of open lines: 24 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 10 
+- Total/smallest/largest number of customers in the waiting queue: 156 / 13 / 21
+
+-18:10 pm-Minute summary:
+- Number of customers arriving for checkout: 26
+- Average/shortest/longest waiting time: 25.8519 / 23 / 28
+- Average/shortest/longest service time: 4 / 3 / 5
+- Number of open lines: 27 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 11 
+- Total/smallest/largest number of customers in the waiting queue: 174 / 13 / 21
+
+-18:11 pm-Minute summary:
+- Number of customers arriving for checkout: 29
+- Average/shortest/longest waiting time: 25.7742 / 23 / 28
+- Average/shortest/longest service time: 4.06452 / 3 / 5
+- Number of open lines: 31 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 12 
+- Total/smallest/largest number of customers in the waiting queue: 191 / 13 / 21
+
+-18:12 pm-Minute summary:
+- Number of customers arriving for checkout: 31
+- Average/shortest/longest waiting time: 25.7742 / 23 / 28
+- Average/shortest/longest service time: 4.06452 / 3 / 5
+- Number of open lines: 31 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 13 
+- Total/smallest/largest number of customers in the waiting queue: 210 / 13 / 21
+
+-18:13 pm-Minute summary:
+- Number of customers arriving for checkout: 31
+- Average/shortest/longest waiting time: 25.8824 / 23 / 29
+- Average/shortest/longest service time: 4.14706 / 3 / 5
+- Number of open lines: 34 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 14 
+- Total/smallest/largest number of customers in the waiting queue: 226 / 13 / 21
+
+-18:14 pm-Minute summary:
+- Number of customers arriving for checkout: 32
+- Average/shortest/longest waiting time: 25.9722 / 23 / 29
+- Average/shortest/longest service time: 4.11111 / 3 / 5
+- Number of open lines: 36 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 15 
+- Total/smallest/largest number of customers in the waiting queue: 241 / 13 / 21
+
+-18:15 pm-Minute summary:
+- Number of customers arriving for checkout: 36
+- Average/shortest/longest waiting time: 26.075 / 23 / 29
+- Average/shortest/longest service time: 4.15 / 3 / 5
+- Number of open lines: 40 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 16 
+- Total/smallest/largest number of customers in the waiting queue: 256 / 13 / 21
+
+-18:16 pm-Minute summary:
+- Number of customers arriving for checkout: 36
+- Average/shortest/longest waiting time: 26.0488 / 23 / 29
+- Average/shortest/longest service time: 4.17073 / 3 / 5
+- Number of open lines: 41 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 17 
+- Total/smallest/largest number of customers in the waiting queue: 270 / 13 / 21
+
+-18:17 pm-Minute summary:
+- Number of customers arriving for checkout: 38
+- Average/shortest/longest waiting time: 26.1628 / 23 / 29
+- Average/shortest/longest service time: 4.16279 / 3 / 5
+- Number of open lines: 43 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 18 
+- Total/smallest/largest number of customers in the waiting queue: 284 / 13 / 21
+
+-18:18 pm-Minute summary:
+- Number of customers arriving for checkout: 39
+- Average/shortest/longest waiting time: 26.2 / 23 / 29
+- Average/shortest/longest service time: 4.15556 / 3 / 5
+- Number of open lines: 45 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 19 
+- Total/smallest/largest number of customers in the waiting queue: 297 / 13 / 21
+
+-18:19 pm-Minute summary:
+- Number of customers arriving for checkout: 39
+- Average/shortest/longest waiting time: 26.2745 / 23 / 29
+- Average/shortest/longest service time: 4.15686 / 3 / 5
+- Number of open lines: 51 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 20 
+- Total/smallest/largest number of customers in the waiting queue: 304 / 7 / 21
+
+-18:20 pm-Minute summary:
+- Number of customers arriving for checkout: 42
+- Average/shortest/longest waiting time: 26.3396 / 23 / 29
+- Average/shortest/longest service time: 4.11321 / 3 / 5
+- Number of open lines: 53 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 21 
+- Total/smallest/largest number of customers in the waiting queue: 312 / 7 / 21
+
+-18:21 pm-Minute summary:
+- Number of customers arriving for checkout: 46
+- Average/shortest/longest waiting time: 26.3889 / 23 / 29
+- Average/shortest/longest service time: 4.09259 / 3 / 5
+- Number of open lines: 54 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 22 
+- Total/smallest/largest number of customers in the waiting queue: 323 / 7 / 21
+
+-18:22 pm-Minute summary:
+- Number of customers arriving for checkout: 50
+- Average/shortest/longest waiting time: 26.4912 / 23 / 29
+- Average/shortest/longest service time: 4.05263 / 3 / 5
+- Number of open lines: 57 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 23 
+- Total/smallest/largest number of customers in the waiting queue: 335 / 7 / 21
+
+-18:23 pm-Minute summary:
+- Number of customers arriving for checkout: 51
+- Average/shortest/longest waiting time: 26.5424 / 23 / 29
+- Average/shortest/longest service time: 4.05085 / 3 / 5
+- Number of open lines: 59 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 24 
+- Total/smallest/largest number of customers in the waiting queue: 346 / 7 / 21
+
+-18:24 pm-Minute summary:
+- Number of customers arriving for checkout: 51
+- Average/shortest/longest waiting time: 26.4918 / 22 / 29
+- Average/shortest/longest service time: 4.08197 / 3 / 5
+- Number of open lines: 61 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 25 
+- Total/smallest/largest number of customers in the waiting queue: 355 / 7 / 21
+
+-18:25 pm-Minute summary:
+- Number of customers arriving for checkout: 53
+- Average/shortest/longest waiting time: 26.5077 / 22 / 29
+- Average/shortest/longest service time: 4.09231 / 3 / 5
+- Number of open lines: 65 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 26 
+- Total/smallest/largest number of customers in the waiting queue: 362 / 7 / 21
+
+-18:26 pm-Minute summary:
+- Number of customers arriving for checkout: 58
+- Average/shortest/longest waiting time: 26.4776 / 22 / 29
+- Average/shortest/longest service time: 4.07463 / 3 / 5
+- Number of open lines: 67 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 27 
+- Total/smallest/largest number of customers in the waiting queue: 372 / 7 / 21
+
+-18:27 pm-Minute summary:
+- Number of customers arriving for checkout: 59
+- Average/shortest/longest waiting time: 26.4928 / 22 / 29
+- Average/shortest/longest service time: 4.07246 / 3 / 5
+- Number of open lines: 69 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 28 
+- Total/smallest/largest number of customers in the waiting queue: 381 / 7 / 21
+
+-18:28 pm-Minute summary:
+- Number of customers arriving for checkout: 64
+- Average/shortest/longest waiting time: 26.4861 / 22 / 29
+- Average/shortest/longest service time: 4.05556 / 3 / 5
+- Number of open lines: 72 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 29 
+- Total/smallest/largest number of customers in the waiting queue: 392 / 7 / 21
+
+-18:29 pm-Minute summary:
+- Number of customers arriving for checkout: 66
+- Average/shortest/longest waiting time: 26.4933 / 22 / 29
+- Average/shortest/longest service time: 4.06667 / 3 / 5
+- Number of open lines: 75 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 30 
+- Total/smallest/largest number of customers in the waiting queue: 402 / 7 / 21
+
+-18:30 pm-Minute summary:
+- Number of customers arriving for checkout: 69
+- Average/shortest/longest waiting time: 26.5195 / 22 / 29
+- Average/shortest/longest service time: 4.05195 / 3 / 5
+- Number of open lines: 77 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 31 
+- Total/smallest/largest number of customers in the waiting queue: 413 / 7 / 21
+
+-18:31 pm-Minute summary:
+- Number of customers arriving for checkout: 74
+- Average/shortest/longest waiting time: 26.5063 / 22 / 29
+- Average/shortest/longest service time: 4.06329 / 3 / 5
+- Number of open lines: 79 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 32 
+- Total/smallest/largest number of customers in the waiting queue: 427 / 7 / 21
+
+-18:32 pm-Minute summary:
+- Number of customers arriving for checkout: 77
+- Average/shortest/longest waiting time: 26.5309 / 22 / 29
+- Average/shortest/longest service time: 4.04938 / 3 / 5
+- Number of open lines: 81 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 33 
+- Total/smallest/largest number of customers in the waiting queue: 442 / 7 / 21
+
+-18:33 pm-Minute summary:
+- Number of customers arriving for checkout: 82
+- Average/shortest/longest waiting time: 26.5119 / 22 / 29
+- Average/shortest/longest service time: 4.07143 / 3 / 5
+- Number of open lines: 84 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 34 
+- Total/smallest/largest number of customers in the waiting queue: 459 / 7 / 21
+
+-18:34 pm-Minute summary:
+- Number of customers arriving for checkout: 83
+- Average/shortest/longest waiting time: 26.5 / 22 / 29
+- Average/shortest/longest service time: 4.06977 / 3 / 5
+- Number of open lines: 86 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 35 
+- Total/smallest/largest number of customers in the waiting queue: 475 / 7 / 21
+
+-18:35 pm-Minute summary:
+- Number of customers arriving for checkout: 86
+- Average/shortest/longest waiting time: 26.4494 / 22 / 29
+- Average/shortest/longest service time: 4.07865 / 3 / 5
+- Number of open lines: 89 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 36 
+- Total/smallest/largest number of customers in the waiting queue: 491 / 7 / 21
+
+-18:36 pm-Minute summary:
+- Number of customers arriving for checkout: 90
+- Average/shortest/longest waiting time: 26.4444 / 22 / 29
+- Average/shortest/longest service time: 4.08889 / 3 / 5
+- Number of open lines: 90 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 37 
+- Total/smallest/largest number of customers in the waiting queue: 510 / 7 / 21
+
+-18:37 pm-Minute summary:
+- Number of customers arriving for checkout: 92
+- Average/shortest/longest waiting time: 26.4674 / 22 / 29
+- Average/shortest/longest service time: 4.08696 / 3 / 5
+- Number of open lines: 92 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 38 
+- Total/smallest/largest number of customers in the waiting queue: 529 / 7 / 21
+
+-18:38 pm-Minute summary:
+- Number of customers arriving for checkout: 92
+- Average/shortest/longest waiting time: 26.5 / 22 / 29
+- Average/shortest/longest service time: 4.11458 / 3 / 5
+- Number of open lines: 96 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 39 
+- Total/smallest/largest number of customers in the waiting queue: 544 / 7 / 21
+
+-18:39 pm-Minute summary:
+- Number of customers arriving for checkout: 97
+- Average/shortest/longest waiting time: 26.4796 / 22 / 29
+- Average/shortest/longest service time: 4.11224 / 3 / 5
+- Number of open lines: 98 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 40 
+- Total/smallest/largest number of customers in the waiting queue: 562 / 7 / 21
+
+-18:40 pm-Minute summary:
+- Number of customers arriving for checkout: 102
+- Average/shortest/longest waiting time: 26.4848 / 22 / 29
+- Average/shortest/longest service time: 4.12121 / 3 / 5
+- Number of open lines: 99 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 41 
+- Total/smallest/largest number of customers in the waiting queue: 584 / 7 / 22
+
+-18:41 pm-Minute summary:
+- Number of customers arriving for checkout: 103
+- Average/shortest/longest waiting time: 26.5686 / 22 / 30
+- Average/shortest/longest service time: 4.11765 / 3 / 5
+- Number of open lines: 102 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 42 
+- Total/smallest/largest number of customers in the waiting queue: 604 / 7 / 22
+
+-18:42 pm-Minute summary:
+- Number of customers arriving for checkout: 108
+- Average/shortest/longest waiting time: 26.6058 / 22 / 30
+- Average/shortest/longest service time: 4.125 / 3 / 5
+- Number of open lines: 104 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 43 
+- Total/smallest/largest number of customers in the waiting queue: 627 / 7 / 23
+
+-18:43 pm-Minute summary:
+- Number of customers arriving for checkout: 113
+- Average/shortest/longest waiting time: 26.6389 / 22 / 30
+- Average/shortest/longest service time: 4.13889 / 3 / 5
+- Number of open lines: 108 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 44 
+- Total/smallest/largest number of customers in the waiting queue: 651 / 7 / 24
+
+-18:44 pm-Minute summary:
+- Number of customers arriving for checkout: 118
+- Average/shortest/longest waiting time: 26.6389 / 22 / 30
+- Average/shortest/longest service time: 4.13889 / 3 / 5
+- Number of open lines: 108 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 45 
+- Total/smallest/largest number of customers in the waiting queue: 680 / 7 / 29
+
+-18:45 pm-Minute summary:
+- Number of customers arriving for checkout: 122
+- Average/shortest/longest waiting time: 26.6607 / 22 / 30
+- Average/shortest/longest service time: 4.13393 / 3 / 5
+- Number of open lines: 112 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 46 
+- Total/smallest/largest number of customers in the waiting queue: 709 / 7 / 29
+
+-18:46 pm-Minute summary:
+- Number of customers arriving for checkout: 124
+- Average/shortest/longest waiting time: 26.6903 / 22 / 30
+- Average/shortest/longest service time: 4.14159 / 3 / 5
+- Number of open lines: 113 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 47 
+- Total/smallest/largest number of customers in the waiting queue: 739 / 7 / 30
+
+-18:47 pm-Minute summary:
+- Number of customers arriving for checkout: 127
+- Average/shortest/longest waiting time: 26.687 / 22 / 30
+- Average/shortest/longest service time: 4.14783 / 3 / 5
+- Number of open lines: 115 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 48 
+- Total/smallest/largest number of customers in the waiting queue: 770 / 7 / 31
+
+-18:48 pm-Minute summary:
+- Number of customers arriving for checkout: 127
+- Average/shortest/longest waiting time: 26.6364 / 22 / 31
+- Average/shortest/longest service time: 4.1405 / 3 / 5
+- Number of open lines: 121 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 49 
+- Total/smallest/largest number of customers in the waiting queue: 795 / 7 / 31
+
+-18:49 pm-Minute summary:
+- Number of customers arriving for checkout: 130
+- Average/shortest/longest waiting time: 26.6364 / 22 / 31
+- Average/shortest/longest service time: 4.1405 / 3 / 5
+- Number of open lines: 121 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 50 
+- Total/smallest/largest number of customers in the waiting queue: 823 / 7 / 31
+
+-18:50 pm-Minute summary:
+- Number of customers arriving for checkout: 131
+- Average/shortest/longest waiting time: 26.6179 / 22 / 31
+- Average/shortest/longest service time: 4.13821 / 3 / 5
+- Number of open lines: 123 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 51 
+- Total/smallest/largest number of customers in the waiting queue: 850 / 7 / 31
+
+-18:51 pm-Minute summary:
+- Number of customers arriving for checkout: 136
+- Average/shortest/longest waiting time: 26.5116 / 22 / 31
+- Average/shortest/longest service time: 4.10078 / 3 / 5
+- Number of open lines: 129 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 52 
+- Total/smallest/largest number of customers in the waiting queue: 876 / 7 / 31
+
+-18:52 pm-Minute summary:
+- Number of customers arriving for checkout: 139
+- Average/shortest/longest waiting time: 26.5 / 22 / 31
+- Average/shortest/longest service time: 4.10769 / 3 / 5
+- Number of open lines: 130 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 53 
+- Total/smallest/largest number of customers in the waiting queue: 904 / 7 / 31
+
+-18:53 pm-Minute summary:
+- Number of customers arriving for checkout: 139
+- Average/shortest/longest waiting time: 26.5115 / 22 / 31
+- Average/shortest/longest service time: 4.1145 / 3 / 5
+- Number of open lines: 131 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 54 
+- Total/smallest/largest number of customers in the waiting queue: 931 / 7 / 31
+
+-18:54 pm-Minute summary:
+- Number of customers arriving for checkout: 139
+- Average/shortest/longest waiting time: 26.4672 / 22 / 31
+- Average/shortest/longest service time: 4.08029 / 3 / 5
+- Number of open lines: 137 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 55 
+- Total/smallest/largest number of customers in the waiting queue: 952 / 7 / 31
+
+-18:55 pm-Minute summary:
+- Number of customers arriving for checkout: 140
+- Average/shortest/longest waiting time: 26.4565 / 22 / 31
+- Average/shortest/longest service time: 4.07246 / 3 / 5
+- Number of open lines: 138 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 56 
+- Total/smallest/largest number of customers in the waiting queue: 973 / 7 / 31
+
+-18:56 pm-Minute summary:
+- Number of customers arriving for checkout: 145
+- Average/shortest/longest waiting time: 26.4113 / 22 / 31
+- Average/shortest/longest service time: 4.07801 / 3 / 5
+- Number of open lines: 141 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 57 
+- Total/smallest/largest number of customers in the waiting queue: 996 / 7 / 31
+
+-18:57 pm-Minute summary:
+- Number of customers arriving for checkout: 147
+- Average/shortest/longest waiting time: 26.3706 / 22 / 31
+- Average/shortest/longest service time: 4.06294 / 3 / 5
+- Number of open lines: 143 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 58 
+- Total/smallest/largest number of customers in the waiting queue: 1019 / 7 / 31
+
+-18:58 pm-Minute summary:
+- Number of customers arriving for checkout: 150
+- Average/shortest/longest waiting time: 26.3493 / 22 / 31
+- Average/shortest/longest service time: 4.06164 / 3 / 5
+- Number of open lines: 146 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 59 
+- Total/smallest/largest number of customers in the waiting queue: 1042 / 7 / 31
+
+-18:59 pm-Minute summary:
+- Number of customers arriving for checkout: 152
+- Average/shortest/longest waiting time: 26.3333 / 22 / 31
+- Average/shortest/longest service time: 4.06803 / 3 / 5
+- Number of open lines: 147 
+- Maximum number of open lines: 10 
+- Each casher will have more than 3 customers standing in line: 60 
+- Total/smallest/largest number of customers in the waiting queue: 1066 / 7 / 31
+
+Hour summary:
+- Average number of customers arriving for checkout: 2.53333
+- Average/shortest/longest waiting time: 26.3333 / 22 / 31
+- Average/shortest/longest service time: 4.06803 / 3 / 5
+- Average number of open lines: 2.45 
+- Maximum number of open lines: 10 
+- Average time each casher will have more than 3 customers standing in line: 1 
+- Average/smallest/largest number of customers in the waiting queue: 17.7667 / 7 / 31
+
+------------------------------------------------------------------------------------
+
+Total summary:
+- Average/shortest/longest waiting time: 20.2956 / 0 / 31
+- Average/shortest/longest service time: 3.96305 / 3 / 5
+- Maximum number of customers in the waiting queue at any time: 31 
+
+

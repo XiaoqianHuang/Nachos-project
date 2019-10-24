@@ -1,0 +1,2511 @@
+Train 0: 6:0 7:20 8:20 9:10 9:33 10:40 11:30 12:11 13:29 14:20 15:15 15:35 16:43 17:24 18:20 19:45 20:23 20:59 21:54 22:0 $20/$10
+Train 1: 22:0 21:40 20:40 20:0 19:20 18:0 18:23 17:39 16:23 15:45 15:0 14:24 13:56 12:38 11:10 10:0 9:33 8:24 7:12 6:0 $25/$15
+Train 2: 17:24 18:20 19:45 20:23 20:59 21:54 22:0 6:0 7:20 8:20 9:10 9:33 10:40 11:30 12:11 13:29 14:20 15:15 15:35 16:43 $50/$20
+Train 3: 12:38 11:10 10:0 9:33 8:24 7:12 6:0 22:0 21:40 20:40 20:0 19:20 18:0 18:23 17:39 16:23 15:45 15:0 14:24 13:56 $15/$5
+Train 4: 19:45 20:23 20:59 21:54 22:0 6:0 7:20 8:20 9:10 9:33 10:40 11:30 12:11 13:29 14:20 15:15 15:35 16:43 17:24 18:20 $20/$10
+Train 5: 19:45 16:43 15:35 15:15 14:20 13:29 12:11 11:30 10:40 9:33 9:10 8:20 7:20 6:0 17:24 18:20 22:0 21:54 20:59 20:23 $40/$20
+*****[06:00]*****
+New Request: from 3 to 6 pNum: 4 class: 1 departureTime: 15:53
+ - Request 1 is granted to train 0 with 4 passengers. 
+   Class: 1, from 3 to 6
+New Request: from 6 to 12 pNum: 6 class: 1 departureTime: 8:2
+ - Request 2 is granted to train 4 with 6 passengers. 
+   Class: 1, from 6 to 12
+New Request: from 10 to 19 pNum: 7 class: 1 departureTime: 7:0
+ - Request 3 is refused with 7 passengers. 
+   Class: 1, from 10 to 19
+New Request: from 6 to 12 pNum: 4 class: 0 departureTime: 14:8
+ - Request 4 is granted to train 0 with 4 passengers. 
+   Class: 0, from 6 to 12
+New Request: from 9 to 2 pNum: 7 class: 0 departureTime: 8:43
+ - Request 5 is granted to train 2 with 7 passengers. 
+   Class: 0, from 9 to 2
+# Granted Request: 4
+# Refused Request: 1
+Train[0] - departure station: 0 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[1] - departure station: 19 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[2] - departure station: 7 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[3] - departure station: 6 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 5 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[5] - departure station: 13 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[0] - departure station: 0 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[1] - departure station: 19 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[2] - departure station: 7 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[3] - departure station: 6 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 5 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[5] - departure station: 13 at time 6:0
+# Itinerary: 0
+# Passenger boarding: 0
+*****[06:10]*****
+New Request: from 15 to 9 pNum: 7 class: 0 departureTime: 8:48
+ - Request 6 is refused with 7 passengers. 
+   Class: 0, from 15 to 9
+New Request: from 9 to 7 pNum: 1 class: 1 departureTime: 19:41
+ - Request 7 is granted to train 1 with 1 passengers. 
+   Class: 1, from 9 to 7
+New Request: from 9 to 13 pNum: 8 class: 1 departureTime: 15:4
+ - Request 8 is granted to train 2 with 8 passengers. 
+   Class: 1, from 9 to 13
+New Request: from 18 to 4 pNum: 3 class: 1 departureTime: 10:33
+ - Request 9 is granted to train 1 with 3 passengers. 
+   Class: 1, from 18 to 4
+# Granted Request: 3
+# Refused Request: 1
+Train[0] - destination station: 0 at time 6:10
+# Passenger getting off: 0
+Train[1] - destination station: 19 at time 6:10
+# Passenger getting off: 0
+Train[2] - destination station: 7 at time 6:10
+# Passenger getting off: 0
+Train[3] - destination station: 6 at time 6:10
+# Passenger getting off: 0
+Train[4] - destination station: 5 at time 6:10
+# Passenger getting off: 0
+Train[5] - destination station: 13 at time 6:10
+# Passenger getting off: 0
+New Request: from 11 to 0 pNum: 2 class: 0 departureTime: 19:42
+ - Request 10 is granted to train 4 with 2 passengers. 
+   Class: 0, from 11 to 0
+*****[06:20]*****
+New Request: from 16 to 1 pNum: 6 class: 1 departureTime: 19:24
+ - Request 11 is granted to train 1 with 6 passengers. 
+   Class: 1, from 16 to 1
+New Request: from 16 to 5 pNum: 2 class: 0 departureTime: 10:53
+ - Request 12 is granted to train 1 with 2 passengers. 
+   Class: 0, from 16 to 5
+New Request: from 4 to 15 pNum: 2 class: 0 departureTime: 7:54
+ - Request 13 is refused with 2 passengers. 
+   Class: 0, from 4 to 15
+New Request: from 7 to 14 pNum: 4 class: 0 departureTime: 12:50
+ - Request 14 is granted to train 4 with 4 passengers. 
+   Class: 0, from 7 to 14
+# Granted Request: 4
+# Refused Request: 1
+New Request: from 8 to 16 pNum: 5 class: 0 departureTime: 6:44
+ - Request 15 is refused with 5 passengers. 
+   Class: 0, from 8 to 16
+*****[06:30]*****
+New Request: from 3 to 11 pNum: 8 class: 0 departureTime: 7:42
+ - Request 16 is refused with 8 passengers. 
+   Class: 0, from 3 to 11
+New Request: from 0 to 16 pNum: 4 class: 0 departureTime: 8:52
+ - Request 17 is refused with 4 passengers. 
+   Class: 0, from 0 to 16
+New Request: from 6 to 14 pNum: 4 class: 1 departureTime: 9:40
+ - Request 18 is granted to train 4 with 4 passengers. 
+   Class: 1, from 6 to 14
+New Request: from 18 to 7 pNum: 2 class: 1 departureTime: 10:2
+ - Request 19 is granted to train 1 with 2 passengers. 
+   Class: 1, from 18 to 7
+New Request: from 12 to 16 pNum: 1 class: 1 departureTime: 19:56
+ - Request 20 is granted to train 2 with 1 passengers. 
+   Class: 1, from 12 to 16
+# Granted Request: 3
+# Refused Request: 3
+*****[06:40]*****
+New Request: from 5 to 9 pNum: 4 class: 0 departureTime: 12:40
+ - Request 21 is granted to train 3 with 4 passengers. 
+   Class: 0, from 5 to 9
+New Request: from 11 to 17 pNum: 4 class: 1 departureTime: 9:21
+ - Request 22 is granted to train 5 with 4 passengers. 
+   Class: 1, from 11 to 17
+New Request: from 9 to 7 pNum: 1 class: 1 departureTime: 14:57
+ - Request 23 is granted to train 5 with 1 passengers. 
+   Class: 1, from 9 to 7
+New Request: from 6 to 5 pNum: 4 class: 0 departureTime: 10:19
+ - Request 24 is refused with 4 passengers. 
+   Class: 0, from 6 to 5
+# Granted Request: 3
+# Refused Request: 1
+New Request: from 4 to 8 pNum: 5 class: 1 departureTime: 12:29
+ - Request 25 is granted to train 3 with 5 passengers. 
+   Class: 1, from 4 to 8
+*****[06:50]*****
+New Request: from 19 to 10 pNum: 5 class: 0 departureTime: 13:25
+ - Request 26 is refused with 5 passengers. 
+   Class: 0, from 19 to 10
+New Request: from 0 to 9 pNum: 4 class: 0 departureTime: 10:38
+ - Request 27 is refused with 4 passengers. 
+   Class: 0, from 0 to 9
+New Request: from 5 to 6 pNum: 2 class: 1 departureTime: 15:35
+ - Request 28 is granted to train 0 with 2 passengers. 
+   Class: 1, from 5 to 6
+New Request: from 8 to 4 pNum: 2 class: 0 departureTime: 12:50
+ - Request 29 is granted to train 4 with 2 passengers. 
+   Class: 0, from 8 to 4
+# Granted Request: 3
+# Refused Request: 2
+New Request: from 0 to 14 pNum: 5 class: 0 departureTime: 17:44
+ - Request 30 is granted to train 3 with 5 passengers. 
+   Class: 0, from 0 to 14
+*****[07:00]*****
+New Request: from 16 to 3 pNum: 4 class: 1 departureTime: 11:25
+ - Request 31 is granted to train 1 with 4 passengers. 
+   Class: 1, from 16 to 3
+New Request: from 16 to 12 pNum: 6 class: 1 departureTime: 7:28
+ - Request 32 is refused with 6 passengers. 
+   Class: 1, from 16 to 12
+New Request: from 15 to 7 pNum: 2 class: 0 departureTime: 14:38
+ - Request 33 is granted to train 1 with 2 passengers. 
+   Class: 0, from 15 to 7
+New Request: from 9 to 17 pNum: 2 class: 1 departureTime: 15:38
+ - Request 34 is granted to train 0 with 2 passengers. 
+   Class: 1, from 9 to 17
+New Request: from 3 to 11 pNum: 2 class: 0 departureTime: 19:56
+ - Request 35 is granted to train 0 with 2 passengers. 
+   Class: 0, from 3 to 11
+# Granted Request: 5
+# Refused Request: 1
+*****[07:10]*****
+New Request: from 3 to 13 pNum: 7 class: 0 departureTime: 7:30
+ - Request 36 is refused with 7 passengers. 
+   Class: 0, from 3 to 13
+New Request: from 4 to 18 pNum: 1 class: 0 departureTime: 13:49
+ - Request 37 is granted to train 3 with 1 passengers. 
+   Class: 0, from 4 to 18
+New Request: from 17 to 16 pNum: 8 class: 0 departureTime: 10:30
+ - Request 38 is granted to train 1 with 8 passengers. 
+   Class: 0, from 17 to 16
+New Request: from 10 to 19 pNum: 6 class: 0 departureTime: 10:14
+ - Request 39 is granted to train 2 with 6 passengers. 
+   Class: 0, from 10 to 19
+# Granted Request: 3
+# Refused Request: 1
+New Request: from 5 to 19 pNum: 3 class: 0 departureTime: 21:9
+ - Request 40 is granted to train 5 with 3 passengers. 
+   Class: 0, from 5 to 19
+Train[1] - departure station: 18 at time 7:12
+# Itinerary: 2
+# Passenger boarding: 5
+Train[3] - departure station: 5 at time 7:12
+# Itinerary: 1
+# Passenger boarding: 4
+*****[07:20]*****
+New Request: from 2 to 4 pNum: 4 class: 1 departureTime: 21:55
+ - Request 41 is granted to train 2 with 4 passengers. 
+   Class: 1, from 2 to 4
+New Request: from 8 to 11 pNum: 5 class: 0 departureTime: 18:19
+ - Request 42 is granted to train 0 with 5 passengers. 
+   Class: 0, from 8 to 11
+New Request: from 6 to 8 pNum: 7 class: 0 departureTime: 18:31
+ - Request 43 is granted to train 0 with 7 passengers. 
+   Class: 0, from 6 to 8
+New Request: from 5 to 1 pNum: 3 class: 1 departureTime: 16:38
+ - Request 44 is granted to train 5 with 3 passengers. 
+   Class: 1, from 5 to 1
+# Granted Request: 5
+# Refused Request: 0
+Train[0] - departure station: 1 at time 7:20
+# Itinerary: 0
+# Passenger boarding: 0
+Train[2] - departure station: 8 at time 7:20
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 6 at time 7:20
+# Itinerary: 2
+# Passenger boarding: 10
+Train[5] - departure station: 12 at time 7:20
+# Itinerary: 0
+# Passenger boarding: 0
+New Request: from 0 to 16 pNum: 3 class: 0 departureTime: 20:2
+ - Request 45 is granted to train 5 with 3 passengers. 
+   Class: 0, from 0 to 16
+Train[1] - destination station: 18 at time 7:22
+# Passenger getting off: 0
+Train[3] - destination station: 5 at time 7:22
+# Passenger getting off: 0
+*****[07:30]*****
+New Request: from 8 to 16 pNum: 3 class: 0 departureTime: 12:44
+ - Request 46 is granted to train 5 with 3 passengers. 
+   Class: 0, from 8 to 16
+New Request: from 2 to 4 pNum: 5 class: 0 departureTime: 18:2
+ - Request 47 is granted to train 0 with 5 passengers. 
+   Class: 0, from 2 to 4
+New Request: from 19 to 10 pNum: 8 class: 0 departureTime: 11:33
+ - Request 48 is refused with 8 passengers. 
+   Class: 0, from 19 to 10
+New Request: from 11 to 1 pNum: 6 class: 0 departureTime: 17:14
+ - Request 49 is granted to train 1 with 6 passengers. 
+   Class: 0, from 11 to 1
+New Request: from 3 to 19 pNum: 4 class: 1 departureTime: 9:46
+ - Request 50 is granted to train 3 with 4 passengers. 
+   Class: 1, from 3 to 19
+# Granted Request: 5
+# Refused Request: 1
+Train[0] - destination station: 1 at time 7:30
+# Passenger getting off: 0
+Train[2] - destination station: 8 at time 7:30
+# Passenger getting off: 0
+Train[4] - destination station: 6 at time 7:30
+# Passenger getting off: 0
+Train[5] - destination station: 12 at time 7:30
+# Passenger getting off: 0
+Train[0] - destination station: 1 at time 7:30
+# Passenger getting off: 0
+Train[2] - destination station: 8 at time 7:30
+# Passenger getting off: 0
+Train[4] - destination station: 6 at time 7:30
+# Passenger getting off: 0
+Train[5] - destination station: 12 at time 7:30
+# Passenger getting off: 0
+*****[07:40]*****
+New Request: from 13 to 8 pNum: 8 class: 0 departureTime: 19:46
+ - Request 51 is granted to train 1 with 8 passengers. 
+   Class: 0, from 13 to 8
+New Request: from 4 to 0 pNum: 5 class: 0 departureTime: 18:56
+ - Request 52 is granted to train 3 with 5 passengers. 
+   Class: 0, from 4 to 0
+New Request: from 16 to 7 pNum: 5 class: 1 departureTime: 16:59
+ - Request 53 is granted to train 1 with 5 passengers. 
+   Class: 1, from 16 to 7
+New Request: from 7 to 12 pNum: 5 class: 0 departureTime: 10:19
+ - Request 54 is granted to train 4 with 5 passengers. 
+   Class: 0, from 7 to 12
+# Granted Request: 4
+# Refused Request: 0
+New Request: from 16 to 10 pNum: 4 class: 0 departureTime: 16:46
+ - Request 55 is granted to train 3 with 4 passengers. 
+   Class: 0, from 16 to 10
+*****[07:50]*****
+New Request: from 13 to 12 pNum: 8 class: 1 departureTime: 18:9
+ - Request 56 is granted to train 1 with 8 passengers. 
+   Class: 1, from 13 to 12
+New Request: from 1 to 4 pNum: 4 class: 1 departureTime: 16:50
+ - Request 57 is refused with 4 passengers. 
+   Class: 1, from 1 to 4
+New Request: from 7 to 5 pNum: 8 class: 0 departureTime: 20:20
+ - Request 58 is granted to train 1 with 8 passengers. 
+   Class: 0, from 7 to 5
+New Request: from 18 to 0 pNum: 7 class: 0 departureTime: 21:29
+ - Request 59 is granted to train 2 with 7 passengers. 
+   Class: 0, from 18 to 0
+# Granted Request: 4
+# Refused Request: 1
+New Request: from 1 to 10 pNum: 5 class: 0 departureTime: 11:32
+ - Request 60 is granted to train 3 with 5 passengers. 
+   Class: 0, from 1 to 10
+*****[08:00]*****
+New Request: from 10 to 5 pNum: 7 class: 1 departureTime: 16:19
+ - Request 61 is granted to train 2 with 7 passengers. 
+   Class: 1, from 10 to 5
+New Request: from 2 to 18 pNum: 3 class: 1 departureTime: 17:50
+ - Request 62 is granted to train 0 with 3 passengers. 
+   Class: 1, from 2 to 18
+New Request: from 10 to 9 pNum: 4 class: 1 departureTime: 12:16
+ - Request 63 is granted to train 5 with 4 passengers. 
+   Class: 1, from 10 to 9
+New Request: from 15 to 14 pNum: 4 class: 0 departureTime: 9:29
+ - Request 64 is refused with 4 passengers. 
+   Class: 0, from 15 to 14
+New Request: from 13 to 16 pNum: 8 class: 0 departureTime: 9:40
+ - Request 65 is refused with 8 passengers. 
+   Class: 0, from 13 to 16
+# Granted Request: 4
+# Refused Request: 2
+*****[08:10]*****
+New Request: from 2 to 19 pNum: 2 class: 0 departureTime: 11:15
+ - Request 66 is granted to train 3 with 2 passengers. 
+   Class: 0, from 2 to 19
+New Request: from 7 to 4 pNum: 2 class: 1 departureTime: 8:24
+ - Request 67 is granted to train 4 with 2 passengers. 
+   Class: 1, from 7 to 4
+New Request: from 19 to 4 pNum: 3 class: 0 departureTime: 9:26
+ - Request 68 is refused with 3 passengers. 
+   Class: 0, from 19 to 4
+New Request: from 4 to 1 pNum: 5 class: 0 departureTime: 10:18
+ - Request 69 is refused with 5 passengers. 
+   Class: 0, from 4 to 1
+# Granted Request: 2
+# Refused Request: 2
+New Request: from 9 to 12 pNum: 7 class: 0 departureTime: 10:48
+ - Request 70 is granted to train 4 with 7 passengers. 
+   Class: 0, from 9 to 12
+*****[08:20]*****
+New Request: from 8 to 13 pNum: 8 class: 0 departureTime: 20:53
+ - Request 71 is granted to train 0 with 8 passengers. 
+   Class: 0, from 8 to 13
+New Request: from 8 to 10 pNum: 8 class: 0 departureTime: 16:26
+ - Request 72 is refused with 8 passengers. 
+   Class: 0, from 8 to 10
+New Request: from 8 to 9 pNum: 7 class: 0 departureTime: 21:8
+ - Request 73 is granted to train 4 with 7 passengers. 
+   Class: 0, from 8 to 9
+New Request: from 9 to 10 pNum: 2 class: 1 departureTime: 9:3
+ - Request 74 is granted to train 2 with 2 passengers. 
+   Class: 1, from 9 to 10
+# Granted Request: 4
+# Refused Request: 1
+Train[0] - departure station: 2 at time 8:20
+# Itinerary: 2
+# Passenger boarding: 8
+Train[2] - departure station: 9 at time 8:20
+# Itinerary: 3
+# Passenger boarding: 17
+Train[4] - departure station: 7 at time 8:20
+# Itinerary: 3
+# Passenger boarding: 11
+Train[5] - departure station: 11 at time 8:20
+# Itinerary: 1
+# Passenger boarding: 4
+New Request: from 13 to 12 pNum: 6 class: 0 departureTime: 19:12
+ - Request 75 is granted to train 1 with 6 passengers. 
+   Class: 0, from 13 to 12
+Train[1] - departure station: 17 at time 8:24
+# Itinerary: 1
+# Passenger boarding: 8
+Train[3] - departure station: 4 at time 8:24
+# Itinerary: 3
+# Passenger boarding: 11
+*****[08:30]*****
+New Request: from 15 to 8 pNum: 2 class: 1 departureTime: 21:46
+ - Request 76 is granted to train 1 with 2 passengers. 
+   Class: 1, from 15 to 8
+New Request: from 14 to 1 pNum: 1 class: 0 departureTime: 19:8
+ - Request 77 is granted to train 2 with 1 passengers. 
+   Class: 0, from 14 to 1
+New Request: from 10 to 8 pNum: 7 class: 0 departureTime: 16:44
+ - Request 78 is granted to train 5 with 7 passengers. 
+   Class: 0, from 10 to 8
+New Request: from 19 to 3 pNum: 3 class: 1 departureTime: 10:48
+ - Request 79 is refused with 3 passengers. 
+   Class: 1, from 19 to 3
+New Request: from 3 to 0 pNum: 8 class: 1 departureTime: 16:18
+ - Request 80 is granted to train 5 with 8 passengers. 
+   Class: 1, from 3 to 0
+# Granted Request: 5
+# Refused Request: 1
+Train[0] - destination station: 2 at time 8:30
+# Passenger getting off: 0
+Train[2] - destination station: 9 at time 8:30
+# Passenger getting off: 0
+Train[4] - destination station: 7 at time 8:30
+# Passenger getting off: 0
+Train[5] - destination station: 11 at time 8:30
+# Passenger getting off: 0
+Train[0] - destination station: 2 at time 8:30
+# Passenger getting off: 0
+Train[2] - destination station: 9 at time 8:30
+# Passenger getting off: 0
+Train[4] - destination station: 7 at time 8:30
+# Passenger getting off: 0
+Train[5] - destination station: 11 at time 8:30
+# Passenger getting off: 0
+Train[1] - destination station: 17 at time 8:34
+# Passenger getting off: 0
+Train[3] - destination station: 4 at time 8:34
+# Passenger getting off: 0
+*****[08:40]*****
+New Request: from 11 to 15 pNum: 4 class: 0 departureTime: 16:52
+ - Request 81 is granted to train 2 with 4 passengers. 
+   Class: 0, from 11 to 15
+New Request: from 7 to 4 pNum: 2 class: 1 departureTime: 18:4
+ - Request 82 is granted to train 5 with 2 passengers. 
+   Class: 1, from 7 to 4
+New Request: from 9 to 3 pNum: 2 class: 1 departureTime: 17:0
+ - Request 83 is granted to train 4 with 2 passengers. 
+   Class: 1, from 9 to 3
+New Request: from 11 to 9 pNum: 8 class: 1 departureTime: 15:8
+ - Request 84 is granted to train 1 with 8 passengers. 
+   Class: 1, from 11 to 9
+# Granted Request: 4
+# Refused Request: 0
+New Request: from 15 to 3 pNum: 6 class: 0 departureTime: 21:50
+ - Request 85 is refused with 6 passengers. 
+   Class: 0, from 15 to 3
+*****[08:50]*****
+New Request: from 2 to 0 pNum: 2 class: 1 departureTime: 18:36
+ - Request 86 is granted to train 3 with 2 passengers. 
+   Class: 1, from 2 to 0
+New Request: from 1 to 2 pNum: 6 class: 0 departureTime: 15:53
+ - Request 87 is refused with 6 passengers. 
+   Class: 0, from 1 to 2
+New Request: from 1 to 9 pNum: 2 class: 0 departureTime: 21:6
+ - Request 88 is granted to train 3 with 2 passengers. 
+   Class: 0, from 1 to 9
+New Request: from 17 to 14 pNum: 3 class: 0 departureTime: 15:14
+ - Request 89 is granted to train 3 with 3 passengers. 
+   Class: 0, from 17 to 14
+# Granted Request: 3
+# Refused Request: 2
+New Request: from 14 to 8 pNum: 7 class: 1 departureTime: 13:32
+ - Request 90 is granted to train 1 with 7 passengers. 
+   Class: 1, from 14 to 8
+*****[09:00]*****
+New Request: from 0 to 6 pNum: 3 class: 0 departureTime: 10:16
+ - Request 91 is refused with 3 passengers. 
+   Class: 0, from 0 to 6
+New Request: from 12 to 18 pNum: 3 class: 1 departureTime: 19:10
+ - Request 92 is granted to train 4 with 3 passengers. 
+   Class: 1, from 12 to 18
+New Request: from 10 to 11 pNum: 8 class: 0 departureTime: 17:13
+ - Request 93 is refused with 8 passengers. 
+   Class: 0, from 10 to 11
+New Request: from 17 to 7 pNum: 7 class: 0 departureTime: 19:54
+ - Request 94 is refused with 7 passengers. 
+   Class: 0, from 17 to 7
+New Request: from 15 to 12 pNum: 5 class: 0 departureTime: 21:39
+ - Request 95 is granted to train 3 with 5 passengers. 
+   Class: 0, from 15 to 12
+# Granted Request: 3
+# Refused Request: 3
+*****[09:10]*****
+New Request: from 9 to 14 pNum: 2 class: 1 departureTime: 12:0
+ - Request 96 is granted to train 5 with 2 passengers. 
+   Class: 1, from 9 to 14
+New Request: from 7 to 8 pNum: 7 class: 0 departureTime: 14:30
+ - Request 97 is granted to train 0 with 7 passengers. 
+   Class: 0, from 7 to 8
+New Request: from 16 to 17 pNum: 5 class: 0 departureTime: 12:39
+ - Request 98 is refused with 5 passengers. 
+   Class: 0, from 16 to 17
+New Request: from 17 to 5 pNum: 2 class: 1 departureTime: 12:58
+ - Request 99 is refused with 2 passengers. 
+   Class: 1, from 17 to 5
+# Granted Request: 2
+# Refused Request: 2
+Train[0] - departure station: 3 at time 9:10
+# Itinerary: 2
+# Passenger boarding: 6
+Train[2] - departure station: 10 at time 9:10
+# Itinerary: 2
+# Passenger boarding: 13
+Train[4] - departure station: 8 at time 9:10
+# Itinerary: 2
+# Passenger boarding: 9
+Train[5] - departure station: 10 at time 9:10
+# Itinerary: 2
+# Passenger boarding: 11
+New Request: from 5 to 3 pNum: 3 class: 1 departureTime: 10:3
+ - Request 100 is refused with 3 passengers. 
+   Class: 1, from 5 to 3
+*****[09:20]*****
+New Request: from 17 to 9 pNum: 8 class: 1 departureTime: 21:18
+ - Request 101 is granted to train 3 with 8 passengers. 
+   Class: 1, from 17 to 9
+New Request: from 14 to 11 pNum: 5 class: 1 departureTime: 10:59
+ - Request 102 is refused with 5 passengers. 
+   Class: 1, from 14 to 11
+New Request: from 18 to 5 pNum: 3 class: 0 departureTime: 17:13
+ - Request 103 is refused with 3 passengers. 
+   Class: 0, from 18 to 5
+New Request: from 17 to 1 pNum: 7 class: 1 departureTime: 19:50
+ - Request 104 is granted to train 4 with 7 passengers. 
+   Class: 1, from 17 to 1
+# Granted Request: 2
+# Refused Request: 3
+Train[0] - destination station: 3 at time 9:20
+# Passenger getting off: 0
+Train[2] - destination station: 10 at time 9:20
+# Passenger getting off: 2
+Train[4] - destination station: 8 at time 9:20
+# Passenger getting off: 0
+Train[5] - destination station: 10 at time 9:20
+# Passenger getting off: 0
+New Request: from 17 to 19 pNum: 4 class: 1 departureTime: 17:2
+ - Request 105 is granted to train 2 with 4 passengers. 
+   Class: 1, from 17 to 19
+*****[09:30]*****
+New Request: from 13 to 7 pNum: 7 class: 1 departureTime: 16:42
+ - Request 106 is refused with 7 passengers. 
+   Class: 1, from 13 to 7
+New Request: from 10 to 12 pNum: 2 class: 1 departureTime: 19:45
+ - Request 107 is granted to train 4 with 2 passengers. 
+   Class: 1, from 10 to 12
+New Request: from 17 to 14 pNum: 4 class: 1 departureTime: 17:1
+ - Request 108 is granted to train 3 with 4 passengers. 
+   Class: 1, from 17 to 14
+New Request: from 1 to 17 pNum: 7 class: 0 departureTime: 18:20
+ - Request 109 is refused with 7 passengers. 
+   Class: 0, from 1 to 17
+New Request: from 18 to 5 pNum: 5 class: 1 departureTime: 9:46
+ - Request 110 is refused with 5 passengers. 
+   Class: 1, from 18 to 5
+# Granted Request: 3
+# Refused Request: 3
+Train[0] - departure station: 4 at time 9:33
+# Itinerary: 0
+# Passenger boarding: 0
+Train[1] - departure station: 16 at time 9:33
+# Itinerary: 4
+# Passenger boarding: 17
+Train[2] - departure station: 11 at time 9:33
+# Itinerary: 1
+# Passenger boarding: 4
+Train[3] - departure station: 3 at time 9:33
+# Itinerary: 1
+# Passenger boarding: 4
+Train[4] - departure station: 9 at time 9:33
+# Itinerary: 2
+# Passenger boarding: 9
+Train[5] - departure station: 9 at time 9:33
+# Itinerary: 2
+# Passenger boarding: 3
+*****[09:40]*****
+New Request: from 2 to 11 pNum: 5 class: 1 departureTime: 18:24
+ - Request 111 is granted to train 3 with 5 passengers. 
+   Class: 1, from 2 to 11
+New Request: from 0 to 18 pNum: 3 class: 1 departureTime: 15:22
+ - Request 112 is granted to train 3 with 3 passengers. 
+   Class: 1, from 0 to 18
+New Request: from 19 to 17 pNum: 1 class: 1 departureTime: 14:24
+ - Request 113 is granted to train 3 with 1 passengers. 
+   Class: 1, from 19 to 17
+New Request: from 3 to 7 pNum: 2 class: 1 departureTime: 12:4
+ - Request 114 is refused with 2 passengers. 
+   Class: 1, from 3 to 7
+# Granted Request: 3
+# Refused Request: 1
+New Request: from 19 to 11 pNum: 7 class: 1 departureTime: 10:16
+ - Request 115 is refused with 7 passengers. 
+   Class: 1, from 19 to 11
+Train[0] - destination station: 4 at time 9:43
+# Passenger getting off: 5
+Train[1] - destination station: 16 at time 9:43
+# Passenger getting off: 8
+Train[2] - destination station: 11 at time 9:43
+# Passenger getting off: 0
+Train[3] - destination station: 3 at time 9:43
+# Passenger getting off: 0
+Train[4] - destination station: 9 at time 9:43
+# Passenger getting off: 7
+Train[5] - destination station: 9 at time 9:43
+# Passenger getting off: 4
+*****[09:50]*****
+New Request: from 0 to 18 pNum: 4 class: 1 departureTime: 10:49
+ - Request 116 is refused with 4 passengers. 
+   Class: 1, from 0 to 18
+New Request: from 4 to 11 pNum: 7 class: 1 departureTime: 20:31
+ - Request 117 is refused with 7 passengers. 
+   Class: 1, from 4 to 11
+New Request: from 15 to 14 pNum: 1 class: 1 departureTime: 11:53
+ - Request 118 is granted to train 1 with 1 passengers. 
+   Class: 1, from 15 to 14
+New Request: from 5 to 2 pNum: 7 class: 0 departureTime: 19:7
+ - Request 119 is granted to train 1 with 7 passengers. 
+   Class: 0, from 5 to 2
+# Granted Request: 2
+# Refused Request: 3
+New Request: from 13 to 14 pNum: 2 class: 0 departureTime: 19:16
+ - Request 120 is granted to train 0 with 2 passengers. 
+   Class: 0, from 13 to 14
+*****[10:00]*****
+New Request: from 3 to 14 pNum: 2 class: 0 departureTime: 12:59
+ - Request 121 is refused with 2 passengers. 
+   Class: 0, from 3 to 14
+New Request: from 17 to 2 pNum: 1 class: 1 departureTime: 10:39
+ - Request 122 is refused with 1 passengers. 
+   Class: 1, from 17 to 2
+New Request: from 10 to 12 pNum: 2 class: 0 departureTime: 10:26
+ - Request 123 is refused with 2 passengers. 
+   Class: 0, from 10 to 12
+New Request: from 15 to 17 pNum: 2 class: 1 departureTime: 14:23
+ - Request 124 is granted to train 2 with 2 passengers. 
+   Class: 1, from 15 to 17
+New Request: from 8 to 5 pNum: 7 class: 1 departureTime: 10:18
+ - Request 125 is refused with 7 passengers. 
+   Class: 1, from 8 to 5
+# Granted Request: 2
+# Refused Request: 4
+Train[1] - departure station: 15 at time 10:0
+# Itinerary: 3
+# Passenger boarding: 5
+Train[3] - departure station: 2 at time 10:0
+# Itinerary: 3
+# Passenger boarding: 9
+Train[1] - departure station: 15 at time 10:0
+# Itinerary: 0
+# Passenger boarding: 5
+Train[3] - departure station: 2 at time 10:0
+# Itinerary: 0
+# Passenger boarding: 9
+*****[10:10]*****
+New Request: from 17 to 16 pNum: 8 class: 1 departureTime: 20:0
+ - Request 126 is granted to train 3 with 8 passengers. 
+   Class: 1, from 17 to 16
+New Request: from 10 to 4 pNum: 6 class: 1 departureTime: 15:3
+ - Request 127 is granted to train 4 with 6 passengers. 
+   Class: 1, from 10 to 4
+New Request: from 9 to 13 pNum: 4 class: 0 departureTime: 18:15
+ - Request 128 is refused with 4 passengers. 
+   Class: 0, from 9 to 13
+New Request: from 10 to 8 pNum: 6 class: 1 departureTime: 10:26
+ - Request 129 is refused with 6 passengers. 
+   Class: 1, from 10 to 8
+# Granted Request: 2
+# Refused Request: 2
+Train[1] - destination station: 15 at time 10:10
+# Passenger getting off: 0
+Train[3] - destination station: 2 at time 10:10
+# Passenger getting off: 0
+New Request: from 15 to 19 pNum: 1 class: 1 departureTime: 17:17
+ - Request 130 is granted to train 2 with 1 passengers. 
+   Class: 1, from 15 to 19
+*****[10:20]*****
+New Request: from 3 to 17 pNum: 6 class: 0 departureTime: 19:45
+ - Request 131 is refused with 6 passengers. 
+   Class: 0, from 3 to 17
+New Request: from 0 to 16 pNum: 3 class: 1 departureTime: 18:58
+ - Request 132 is granted to train 3 with 3 passengers. 
+   Class: 1, from 0 to 16
+New Request: from 2 to 12 pNum: 4 class: 0 departureTime: 10:41
+ - Request 133 is refused with 4 passengers. 
+   Class: 0, from 2 to 12
+New Request: from 10 to 4 pNum: 4 class: 0 departureTime: 14:14
+ - Request 134 is refused with 4 passengers. 
+   Class: 0, from 10 to 4
+# Granted Request: 2
+# Refused Request: 3
+New Request: from 0 to 3 pNum: 7 class: 0 departureTime: 14:10
+ - Request 135 is refused with 7 passengers. 
+   Class: 0, from 0 to 3
+*****[10:30]*****
+New Request: from 3 to 7 pNum: 7 class: 0 departureTime: 11:13
+ - Request 136 is refused with 7 passengers. 
+   Class: 0, from 3 to 7
+New Request: from 14 to 19 pNum: 8 class: 0 departureTime: 15:14
+ - Request 137 is granted to train 4 with 8 passengers. 
+   Class: 0, from 14 to 19
+New Request: from 15 to 12 pNum: 3 class: 0 departureTime: 21:33
+ - Request 138 is granted to train 3 with 3 passengers. 
+   Class: 0, from 15 to 12
+New Request: from 6 to 0 pNum: 8 class: 0 departureTime: 15:32
+ - Request 139 is granted to train 5 with 8 passengers. 
+   Class: 0, from 6 to 0
+New Request: from 3 to 1 pNum: 4 class: 0 departureTime: 15:14
+ - Request 140 is refused with 4 passengers. 
+   Class: 0, from 3 to 1
+# Granted Request: 3
+# Refused Request: 3
+*****[10:40]*****
+New Request: from 12 to 2 pNum: 8 class: 0 departureTime: 21:1
+ - Request 141 is refused with 8 passengers. 
+   Class: 0, from 12 to 2
+New Request: from 17 to 5 pNum: 4 class: 1 departureTime: 16:16
+ - Request 142 is granted to train 2 with 4 passengers. 
+   Class: 1, from 17 to 5
+New Request: from 18 to 1 pNum: 6 class: 1 departureTime: 14:53
+ - Request 143 is refused with 6 passengers. 
+   Class: 1, from 18 to 1
+New Request: from 7 to 19 pNum: 7 class: 0 departureTime: 15:17
+ - Request 144 is refused with 7 passengers. 
+   Class: 0, from 7 to 19
+# Granted Request: 1
+# Refused Request: 3
+Train[0] - departure station: 5 at time 10:40
+# Itinerary: 1
+# Passenger boarding: 2
+Train[2] - departure station: 12 at time 10:40
+# Itinerary: 1
+# Passenger boarding: 1
+Train[4] - departure station: 10 at time 10:40
+# Itinerary: 2
+# Passenger boarding: 8
+Train[5] - departure station: 8 at time 10:40
+# Itinerary: 1
+# Passenger boarding: 3
+New Request: from 0 to 4 pNum: 7 class: 0 departureTime: 13:38
+ - Request 145 is refused with 7 passengers. 
+   Class: 0, from 0 to 4
+*****[10:50]*****
+New Request: from 11 to 16 pNum: 4 class: 0 departureTime: 13:32
+ - Request 146 is refused with 4 passengers. 
+   Class: 0, from 11 to 16
+New Request: from 11 to 9 pNum: 3 class: 1 departureTime: 21:20
+ - Request 147 is granted to train 1 with 3 passengers. 
+   Class: 1, from 11 to 9
+New Request: from 4 to 9 pNum: 1 class: 1 departureTime: 16:38
+ - Request 148 is refused with 1 passengers. 
+   Class: 1, from 4 to 9
+New Request: from 9 to 13 pNum: 3 class: 1 departureTime: 20:58
+ - Request 149 is granted to train 0 with 3 passengers. 
+   Class: 1, from 9 to 13
+# Granted Request: 2
+# Refused Request: 3
+Train[0] - destination station: 5 at time 10:50
+# Passenger getting off: 0
+Train[2] - destination station: 12 at time 10:50
+# Passenger getting off: 0
+Train[4] - destination station: 10 at time 10:50
+# Passenger getting off: 0
+Train[5] - destination station: 8 at time 10:50
+# Passenger getting off: 7
+New Request: from 6 to 7 pNum: 8 class: 1 departureTime: 20:7
+ - Request 150 is granted to train 0 with 8 passengers. 
+   Class: 1, from 6 to 7
+*****[11:00]*****
+New Request: from 12 to 2 pNum: 4 class: 1 departureTime: 11:30
+ - Request 151 is refused with 4 passengers. 
+   Class: 1, from 12 to 2
+New Request: from 19 to 10 pNum: 7 class: 0 departureTime: 14:51
+ - Request 152 is refused with 7 passengers. 
+   Class: 0, from 19 to 10
+New Request: from 13 to 17 pNum: 6 class: 0 departureTime: 21:1
+ - Request 153 is granted to train 4 with 6 passengers. 
+   Class: 0, from 13 to 17
+New Request: from 0 to 13 pNum: 6 class: 0 departureTime: 21:27
+ - Request 154 is refused with 6 passengers. 
+   Class: 0, from 0 to 13
+New Request: from 15 to 16 pNum: 5 class: 1 departureTime: 12:22
+ - Request 155 is refused with 5 passengers. 
+   Class: 1, from 15 to 16
+# Granted Request: 2
+# Refused Request: 4
+*****[11:10]*****
+New Request: from 12 to 11 pNum: 1 class: 1 departureTime: 15:54
+ - Request 156 is granted to train 1 with 1 passengers. 
+   Class: 1, from 12 to 11
+New Request: from 6 to 15 pNum: 5 class: 1 departureTime: 17:45
+ - Request 157 is granted to train 5 with 5 passengers. 
+   Class: 1, from 6 to 15
+New Request: from 2 to 17 pNum: 1 class: 1 departureTime: 12:4
+ - Request 158 is refused with 1 passengers. 
+   Class: 1, from 2 to 17
+New Request: from 17 to 9 pNum: 5 class: 1 departureTime: 13:22
+ - Request 159 is refused with 5 passengers. 
+   Class: 1, from 17 to 9
+# Granted Request: 2
+# Refused Request: 2
+Train[1] - departure station: 14 at time 11:10
+# Itinerary: 1
+# Passenger boarding: 7
+Train[3] - departure station: 1 at time 11:10
+# Itinerary: 2
+# Passenger boarding: 7
+New Request: from 1 to 6 pNum: 5 class: 1 departureTime: 20:2
+ - Request 160 is granted to train 2 with 5 passengers. 
+   Class: 1, from 1 to 6
+*****[11:20]*****
+New Request: from 5 to 6 pNum: 3 class: 1 departureTime: 16:30
+ - Request 161 is refused with 3 passengers. 
+   Class: 1, from 5 to 6
+New Request: from 3 to 14 pNum: 5 class: 0 departureTime: 19:0
+ - Request 162 is refused with 5 passengers. 
+   Class: 0, from 3 to 14
+New Request: from 12 to 5 pNum: 8 class: 0 departureTime: 20:45
+ - Request 163 is refused with 8 passengers. 
+   Class: 0, from 12 to 5
+New Request: from 10 to 16 pNum: 3 class: 0 departureTime: 21:23
+ - Request 164 is refused with 3 passengers. 
+   Class: 0, from 10 to 16
+# Granted Request: 1
+# Refused Request: 4
+Train[1] - destination station: 14 at time 11:20
+# Passenger getting off: 1
+Train[3] - destination station: 1 at time 11:20
+# Passenger getting off: 0
+New Request: from 17 to 8 pNum: 6 class: 0 departureTime: 13:50
+ - Request 165 is refused with 6 passengers. 
+   Class: 0, from 17 to 8
+*****[11:30]*****
+New Request: from 15 to 8 pNum: 8 class: 1 departureTime: 11:40
+ - Request 166 is refused with 8 passengers. 
+   Class: 1, from 15 to 8
+New Request: from 17 to 13 pNum: 3 class: 0 departureTime: 20:3
+ - Request 167 is refused with 3 passengers. 
+   Class: 0, from 17 to 13
+New Request: from 10 to 17 pNum: 4 class: 1 departureTime: 13:36
+ - Request 168 is refused with 4 passengers. 
+   Class: 1, from 10 to 17
+New Request: from 9 to 11 pNum: 6 class: 1 departureTime: 17:20
+ - Request 169 is granted to train 0 with 6 passengers. 
+   Class: 1, from 9 to 11
+New Request: from 19 to 18 pNum: 3 class: 0 departureTime: 14:53
+ - Request 170 is granted to train 3 with 3 passengers. 
+   Class: 0, from 19 to 18
+# Granted Request: 2
+# Refused Request: 4
+Train[0] - departure station: 6 at time 11:30
+# Itinerary: 3
+# Passenger boarding: 19
+Train[2] - departure station: 13 at time 11:30
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 11 at time 11:30
+# Itinerary: 1
+# Passenger boarding: 2
+Train[5] - departure station: 7 at time 11:30
+# Itinerary: 1
+# Passenger boarding: 2
+Train[0] - departure station: 6 at time 11:30
+# Itinerary: 0
+# Passenger boarding: 19
+Train[2] - departure station: 13 at time 11:30
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 11 at time 11:30
+# Itinerary: 0
+# Passenger boarding: 2
+Train[5] - departure station: 7 at time 11:30
+# Itinerary: 0
+# Passenger boarding: 2
+*****[11:40]*****
+New Request: from 10 to 16 pNum: 1 class: 1 departureTime: 19:31
+ - Request 171 is granted to train 0 with 1 passengers. 
+   Class: 1, from 10 to 16
+New Request: from 17 to 19 pNum: 7 class: 1 departureTime: 13:12
+ - Request 172 is refused with 7 passengers. 
+   Class: 1, from 17 to 19
+New Request: from 17 to 1 pNum: 1 class: 1 departureTime: 15:58
+ - Request 173 is granted to train 2 with 1 passengers. 
+   Class: 1, from 17 to 1
+New Request: from 15 to 16 pNum: 3 class: 1 departureTime: 21:8
+ - Request 174 is granted to train 4 with 3 passengers. 
+   Class: 1, from 15 to 16
+# Granted Request: 3
+# Refused Request: 1
+Train[0] - destination station: 6 at time 11:40
+# Passenger getting off: 6
+Train[2] - destination station: 13 at time 11:40
+# Passenger getting off: 8
+Train[4] - destination station: 11 at time 11:40
+# Passenger getting off: 0
+Train[5] - destination station: 7 at time 11:40
+# Passenger getting off: 1
+New Request: from 8 to 13 pNum: 6 class: 0 departureTime: 12:55
+ - Request 175 is refused with 6 passengers. 
+   Class: 0, from 8 to 13
+*****[11:50]*****
+New Request: from 12 to 14 pNum: 1 class: 1 departureTime: 13:15
+ - Request 176 is granted to train 4 with 1 passengers. 
+   Class: 1, from 12 to 14
+New Request: from 3 to 12 pNum: 7 class: 1 departureTime: 16:1
+ - Request 177 is refused with 7 passengers. 
+   Class: 1, from 3 to 12
+New Request: from 13 to 14 pNum: 7 class: 1 departureTime: 21:51
+ - Request 178 is granted to train 4 with 7 passengers. 
+   Class: 1, from 13 to 14
+New Request: from 5 to 17 pNum: 2 class: 0 departureTime: 15:12
+ - Request 179 is granted to train 5 with 2 passengers. 
+   Class: 0, from 5 to 17
+# Granted Request: 3
+# Refused Request: 2
+New Request: from 1 to 16 pNum: 3 class: 0 departureTime: 14:32
+ - Request 180 is refused with 3 passengers. 
+   Class: 0, from 1 to 16
+*****[12:00]*****
+New Request: from 2 to 19 pNum: 3 class: 1 departureTime: 14:53
+ - Request 181 is refused with 3 passengers. 
+   Class: 1, from 2 to 19
+New Request: from 15 to 6 pNum: 5 class: 1 departureTime: 21:50
+ - Request 182 is granted to train 2 with 5 passengers. 
+   Class: 1, from 15 to 6
+New Request: from 11 to 12 pNum: 2 class: 1 departureTime: 12:59
+ - Request 183 is refused with 2 passengers. 
+   Class: 1, from 11 to 12
+New Request: from 8 to 11 pNum: 4 class: 0 departureTime: 12:56
+ - Request 184 is refused with 4 passengers. 
+   Class: 0, from 8 to 11
+New Request: from 10 to 1 pNum: 1 class: 0 departureTime: 16:25
+ - Request 185 is granted to train 1 with 1 passengers. 
+   Class: 0, from 10 to 1
+# Granted Request: 2
+# Refused Request: 4
+*****[12:10]*****
+New Request: from 9 to 17 pNum: 4 class: 1 departureTime: 15:41
+ - Request 186 is granted to train 0 with 4 passengers. 
+   Class: 1, from 9 to 17
+New Request: from 0 to 6 pNum: 4 class: 0 departureTime: 21:14
+ - Request 187 is granted to train 2 with 4 passengers. 
+   Class: 0, from 0 to 6
+New Request: from 12 to 14 pNum: 4 class: 0 departureTime: 16:39
+ - Request 188 is granted to train 4 with 4 passengers. 
+   Class: 0, from 12 to 14
+New Request: from 12 to 18 pNum: 5 class: 1 departureTime: 19:20
+ - Request 189 is granted to train 0 with 5 passengers. 
+   Class: 1, from 12 to 18
+# Granted Request: 4
+# Refused Request: 0
+New Request: from 4 to 0 pNum: 7 class: 1 departureTime: 20:45
+ - Request 190 is granted to train 1 with 7 passengers. 
+   Class: 1, from 4 to 0
+Train[0] - departure station: 7 at time 12:11
+# Itinerary: 1
+# Passenger boarding: 7
+Train[2] - departure station: 14 at time 12:11
+# Itinerary: 1
+# Passenger boarding: 1
+Train[4] - departure station: 12 at time 12:11
+# Itinerary: 3
+# Passenger boarding: 8
+Train[5] - departure station: 6 at time 12:11
+# Itinerary: 2
+# Passenger boarding: 13
+*****[12:20]*****
+New Request: from 6 to 3 pNum: 2 class: 1 departureTime: 15:55
+ - Request 191 is refused with 2 passengers. 
+   Class: 1, from 6 to 3
+New Request: from 12 to 1 pNum: 7 class: 1 departureTime: 16:9
+ - Request 192 is refused with 7 passengers. 
+   Class: 1, from 12 to 1
+New Request: from 9 to 11 pNum: 1 class: 1 departureTime: 20:15
+ - Request 193 is granted to train 0 with 1 passengers. 
+   Class: 1, from 9 to 11
+New Request: from 15 to 17 pNum: 2 class: 1 departureTime: 15:58
+ - Request 194 is granted to train 4 with 2 passengers. 
+   Class: 1, from 15 to 17
+# Granted Request: 3
+# Refused Request: 2
+New Request: from 15 to 13 pNum: 5 class: 0 departureTime: 20:0
+ - Request 195 is refused with 5 passengers. 
+   Class: 0, from 15 to 13
+Train[0] - destination station: 7 at time 12:21
+# Passenger getting off: 8
+Train[2] - destination station: 14 at time 12:21
+# Passenger getting off: 0
+Train[4] - destination station: 12 at time 12:21
+# Passenger getting off: 20
+Train[5] - destination station: 6 at time 12:21
+# Passenger getting off: 0
+*****[12:30]*****
+New Request: from 13 to 3 pNum: 4 class: 0 departureTime: 15:28
+ - Request 196 is refused with 4 passengers. 
+   Class: 0, from 13 to 3
+New Request: from 17 to 0 pNum: 6 class: 1 departureTime: 14:11
+ - Request 197 is refused with 6 passengers. 
+   Class: 1, from 17 to 0
+New Request: from 10 to 3 pNum: 5 class: 0 departureTime: 19:14
+ - Request 198 is refused with 5 passengers. 
+   Class: 0, from 10 to 3
+New Request: from 15 to 4 pNum: 1 class: 0 departureTime: 20:49
+ - Request 199 is granted to train 2 with 1 passengers. 
+   Class: 0, from 15 to 4
+New Request: from 9 to 4 pNum: 7 class: 1 departureTime: 21:1
+ - Request 200 is granted to train 1 with 7 passengers. 
+   Class: 1, from 9 to 4
+# Granted Request: 2
+# Refused Request: 4
+Train[1] - departure station: 13 at time 12:38
+# Itinerary: 3
+# Passenger boarding: 22
+Train[3] - departure station: 0 at time 12:38
+# Itinerary: 3
+# Passenger boarding: 11
+*****[12:40]*****
+New Request: from 3 to 19 pNum: 8 class: 1 departureTime: 19:44
+ - Request 201 is granted to train 5 with 8 passengers. 
+   Class: 1, from 3 to 19
+New Request: from 1 to 15 pNum: 4 class: 0 departureTime: 16:47
+ - Request 202 is refused with 4 passengers. 
+   Class: 0, from 1 to 15
+New Request: from 12 to 9 pNum: 5 class: 0 departureTime: 21:31
+ - Request 203 is granted to train 3 with 5 passengers. 
+   Class: 0, from 12 to 9
+New Request: from 14 to 7 pNum: 1 class: 0 departureTime: 20:23
+ - Request 204 is refused with 1 passengers. 
+   Class: 0, from 14 to 7
+# Granted Request: 2
+# Refused Request: 2
+New Request: from 17 to 7 pNum: 6 class: 0 departureTime: 16:37
+ - Request 205 is refused with 6 passengers. 
+   Class: 0, from 17 to 7
+Train[1] - destination station: 13 at time 12:48
+# Passenger getting off: 0
+Train[3] - destination station: 0 at time 12:48
+# Passenger getting off: 7
+*****[12:50]*****
+New Request: from 2 to 5 pNum: 6 class: 1 departureTime: 13:36
+ - Request 206 is refused with 6 passengers. 
+   Class: 1, from 2 to 5
+New Request: from 18 to 1 pNum: 7 class: 1 departureTime: 16:34
+ - Request 207 is granted to train 2 with 7 passengers. 
+   Class: 1, from 18 to 1
+New Request: from 13 to 5 pNum: 2 class: 0 departureTime: 20:0
+ - Request 208 is refused with 2 passengers. 
+   Class: 0, from 13 to 5
+New Request: from 9 to 19 pNum: 1 class: 0 departureTime: 21:22
+ - Request 209 is granted to train 0 with 1 passengers. 
+   Class: 0, from 9 to 19
+# Granted Request: 2
+# Refused Request: 3
+New Request: from 19 to 0 pNum: 7 class: 1 departureTime: 13:0
+ - Request 210 is refused with 7 passengers. 
+   Class: 1, from 19 to 0
+*****[13:00]*****
+New Request: from 0 to 6 pNum: 6 class: 1 departureTime: 14:40
+ - Request 211 is refused with 6 passengers. 
+   Class: 1, from 0 to 6
+New Request: from 8 to 3 pNum: 6 class: 0 departureTime: 13:53
+ - Request 212 is refused with 6 passengers. 
+   Class: 0, from 8 to 3
+New Request: from 11 to 10 pNum: 2 class: 0 departureTime: 15:30
+ - Request 213 is granted to train 1 with 2 passengers. 
+   Class: 0, from 11 to 10
+New Request: from 11 to 18 pNum: 6 class: 0 departureTime: 15:27
+ - Request 214 is refused with 6 passengers. 
+   Class: 0, from 11 to 18
+New Request: from 9 to 11 pNum: 8 class: 0 departureTime: 19:15
+ - Request 215 is refused with 8 passengers. 
+   Class: 0, from 9 to 11
+# Granted Request: 1
+# Refused Request: 5
+*****[13:10]*****
+New Request: from 19 to 4 pNum: 3 class: 0 departureTime: 19:46
+ - Request 216 is refused with 3 passengers. 
+   Class: 0, from 19 to 4
+New Request: from 9 to 12 pNum: 7 class: 1 departureTime: 15:23
+ - Request 217 is granted to train 0 with 7 passengers. 
+   Class: 1, from 9 to 12
+New Request: from 13 to 3 pNum: 8 class: 1 departureTime: 19:54
+ - Request 218 is granted to train 4 with 8 passengers. 
+   Class: 1, from 13 to 3
+New Request: from 19 to 11 pNum: 1 class: 1 departureTime: 14:32
+ - Request 219 is granted to train 3 with 1 passengers. 
+   Class: 1, from 19 to 11
+# Granted Request: 3
+# Refused Request: 1
+New Request: from 6 to 15 pNum: 4 class: 1 departureTime: 20:6
+ - Request 220 is refused with 4 passengers. 
+   Class: 1, from 6 to 15
+*****[13:20]*****
+New Request: from 1 to 11 pNum: 6 class: 0 departureTime: 17:47
+ - Request 221 is refused with 6 passengers. 
+   Class: 0, from 1 to 11
+New Request: from 2 to 7 pNum: 4 class: 1 departureTime: 16:39
+ - Request 222 is refused with 4 passengers. 
+   Class: 1, from 2 to 7
+New Request: from 2 to 14 pNum: 5 class: 0 departureTime: 18:59
+ - Request 223 is refused with 5 passengers. 
+   Class: 0, from 2 to 14
+New Request: from 19 to 3 pNum: 2 class: 0 departureTime: 14:32
+ - Request 224 is refused with 2 passengers. 
+   Class: 0, from 19 to 3
+# Granted Request: 0
+# Refused Request: 5
+New Request: from 9 to 5 pNum: 6 class: 0 departureTime: 19:59
+ - Request 225 is refused with 6 passengers. 
+   Class: 0, from 9 to 5
+Train[0] - departure station: 8 at time 13:29
+# Itinerary: 2
+# Passenger boarding: 13
+Train[2] - departure station: 15 at time 13:29
+# Itinerary: 4
+# Passenger boarding: 9
+Train[4] - departure station: 13 at time 13:29
+# Itinerary: 3
+# Passenger boarding: 21
+Train[5] - departure station: 5 at time 13:29
+# Itinerary: 3
+# Passenger boarding: 8
+*****[13:30]*****
+Train[0] - departure station: 8 at time 13:29
+# Itinerary: 0
+# Passenger boarding: 13
+Train[2] - departure station: 15 at time 13:29
+# Itinerary: 0
+# Passenger boarding: 9
+Train[4] - departure station: 13 at time 13:29
+# Itinerary: 0
+# Passenger boarding: 21
+Train[5] - departure station: 5 at time 13:29
+# Itinerary: 0
+# Passenger boarding: 8
+New Request: from 14 to 19 pNum: 4 class: 1 departureTime: 14:37
+ - Request 226 is granted to train 4 with 4 passengers. 
+   Class: 1, from 14 to 19
+New Request: from 9 to 10 pNum: 3 class: 1 departureTime: 15:37
+ - Request 227 is granted to train 0 with 3 passengers. 
+   Class: 1, from 9 to 10
+New Request: from 9 to 10 pNum: 1 class: 1 departureTime: 19:14
+ - Request 228 is granted to train 0 with 1 passengers. 
+   Class: 1, from 9 to 10
+Train[0] - departure station: 8 at time 13:29
+# Itinerary: 0
+# Passenger boarding: 13
+Train[2] - departure station: 15 at time 13:29
+# Itinerary: 0
+# Passenger boarding: 9
+Train[4] - departure station: 13 at time 13:29
+# Itinerary: 0
+# Passenger boarding: 21
+Train[5] - departure station: 5 at time 13:29
+# Itinerary: 0
+# Passenger boarding: 8
+New Request: from 17 to 9 pNum: 1 class: 1 departureTime: 13:42
+ - Request 229 is refused with 1 passengers. 
+   Class: 1, from 17 to 9
+New Request: from 1 to 2 pNum: 4 class: 1 departureTime: 18:59
+ - Request 230 is granted to train 2 with 4 passengers. 
+   Class: 1, from 1 to 2
+# Granted Request: 4
+# Refused Request: 2
+Train[0] - destination station: 8 at time 13:39
+# Passenger getting off: 14
+Train[2] - destination station: 15 at time 13:39
+# Passenger getting off: 4
+Train[4] - destination station: 13 at time 13:39
+# Passenger getting off: 0
+Train[5] - destination station: 5 at time 13:39
+# Passenger getting off: 0
+Train[0] - destination station: 8 at time 13:39
+# Passenger getting off: 14
+Train[2] - destination station: 15 at time 13:39
+# Passenger getting off: 4
+Train[4] - destination station: 13 at time 13:39
+# Passenger getting off: 0
+Train[5] - destination station: 5 at time 13:39
+# Passenger getting off: 0
+*****[13:40]*****
+Train[0] - destination station: 8 at time 13:39
+# Passenger getting off: 14
+Train[2] - destination station: 15 at time 13:39
+# Passenger getting off: 4
+Train[4] - destination station: 13 at time 13:39
+# Passenger getting off: 0
+Train[5] - destination station: 5 at time 13:39
+# Passenger getting off: 0
+New Request: from 8 to 18 pNum: 5 class: 1 departureTime: 14:25
+ - Request 231 is refused with 5 passengers. 
+   Class: 1, from 8 to 18
+New Request: from 2 to 7 pNum: 8 class: 1 departureTime: 15:9
+ - Request 232 is refused with 8 passengers. 
+   Class: 1, from 2 to 7
+New Request: from 6 to 13 pNum: 5 class: 0 departureTime: 18:34
+ - Request 233 is refused with 5 passengers. 
+   Class: 0, from 6 to 13
+New Request: from 16 to 6 pNum: 5 class: 1 departureTime: 20:37
+ - Request 234 is granted to train 2 with 5 passengers. 
+   Class: 1, from 16 to 6
+# Granted Request: 1
+# Refused Request: 3
+New Request: from 1 to 0 pNum: 7 class: 0 departureTime: 21:54
+ - Request 235 is granted to train 1 with 7 passengers. 
+   Class: 0, from 1 to 0
+*****[13:50]*****
+New Request: from 3 to 17 pNum: 5 class: 1 departureTime: 16:47
+ - Request 236 is granted to train 5 with 5 passengers. 
+   Class: 1, from 3 to 17
+New Request: from 11 to 17 pNum: 6 class: 1 departureTime: 16:56
+ - Request 237 is granted to train 0 with 6 passengers. 
+   Class: 1, from 11 to 17
+New Request: from 9 to 5 pNum: 7 class: 1 departureTime: 20:31
+ - Request 238 is refused with 7 passengers. 
+   Class: 1, from 9 to 5
+New Request: from 15 to 9 pNum: 2 class: 1 departureTime: 18:56
+ - Request 239 is granted to train 3 with 2 passengers. 
+   Class: 1, from 15 to 9
+# Granted Request: 4
+# Refused Request: 1
+New Request: from 11 to 0 pNum: 8 class: 1 departureTime: 19:32
+ - Request 240 is refused with 8 passengers. 
+   Class: 1, from 11 to 0
+Train[1] - departure station: 12 at time 13:56
+# Itinerary: 1
+# Passenger boarding: 1
+Train[3] - departure station: 19 at time 13:56
+# Itinerary: 3
+# Passenger boarding: 5
+*****[14:00]*****
+New Request: from 11 to 9 pNum: 7 class: 1 departureTime: 19:18
+ - Request 241 is refused with 7 passengers. 
+   Class: 1, from 11 to 9
+New Request: from 12 to 10 pNum: 5 class: 0 departureTime: 17:33
+ - Request 242 is refused with 5 passengers. 
+   Class: 0, from 12 to 10
+New Request: from 13 to 6 pNum: 3 class: 1 departureTime: 19:14
+ - Request 243 is refused with 3 passengers. 
+   Class: 1, from 13 to 6
+New Request: from 8 to 15 pNum: 7 class: 1 departureTime: 17:59
+ - Request 244 is refused with 7 passengers. 
+   Class: 1, from 8 to 15
+New Request: from 17 to 3 pNum: 7 class: 0 departureTime: 16:59
+ - Request 245 is refused with 7 passengers. 
+   Class: 0, from 17 to 3
+# Granted Request: 0
+# Refused Request: 6
+Train[1] - destination station: 12 at time 14:6
+# Passenger getting off: 14
+Train[3] - destination station: 19 at time 14:6
+# Passenger getting off: 6
+*****[14:10]*****
+New Request: from 2 to 13 pNum: 1 class: 1 departureTime: 21:17
+ - Request 246 is refused with 1 passengers. 
+   Class: 1, from 2 to 13
+New Request: from 4 to 11 pNum: 4 class: 0 departureTime: 20:58
+ - Request 247 is refused with 4 passengers. 
+   Class: 0, from 4 to 11
+New Request: from 5 to 15 pNum: 6 class: 0 departureTime: 15:42
+ - Request 248 is refused with 6 passengers. 
+   Class: 0, from 5 to 15
+New Request: from 6 to 14 pNum: 6 class: 0 departureTime: 21:36
+ - Request 249 is refused with 6 passengers. 
+   Class: 0, from 6 to 14
+# Granted Request: 0
+# Refused Request: 4
+New Request: from 12 to 5 pNum: 7 class: 0 departureTime: 20:19
+ - Request 250 is refused with 7 passengers. 
+   Class: 0, from 12 to 5
+*****[14:20]*****
+New Request: from 11 to 3 pNum: 6 class: 1 departureTime: 19:25
+ - Request 251 is refused with 6 passengers. 
+   Class: 1, from 11 to 3
+New Request: from 2 to 16 pNum: 7 class: 1 departureTime: 21:4
+ - Request 252 is granted to train 5 with 7 passengers. 
+   Class: 1, from 2 to 16
+New Request: from 10 to 7 pNum: 6 class: 0 departureTime: 20:57
+ - Request 253 is refused with 6 passengers. 
+   Class: 0, from 10 to 7
+New Request: from 19 to 0 pNum: 5 class: 0 departureTime: 15:52
+ - Request 254 is refused with 5 passengers. 
+   Class: 0, from 19 to 0
+# Granted Request: 1
+# Refused Request: 4
+Train[0] - departure station: 9 at time 14:20
+# Itinerary: 9
+# Passenger boarding: 28
+Train[2] - departure station: 16 at time 14:20
+# Itinerary: 1
+# Passenger boarding: 5
+Train[4] - departure station: 14 at time 14:20
+# Itinerary: 2
+# Passenger boarding: 12
+Train[5] - departure station: 4 at time 14:20
+# Itinerary: 0
+# Passenger boarding: 0
+New Request: from 16 to 19 pNum: 2 class: 0 departureTime: 18:35
+ - Request 255 is granted to train 4 with 2 passengers. 
+   Class: 0, from 16 to 19
+Train[1] - departure station: 11 at time 14:24
+# Itinerary: 4
+# Passenger boarding: 19
+Train[3] - departure station: 18 at time 14:24
+# Itinerary: 0
+# Passenger boarding: 0
+*****[14:30]*****
+New Request: from 18 to 7 pNum: 2 class: 1 departureTime: 17:20
+ - Request 256 is refused with 2 passengers. 
+   Class: 1, from 18 to 7
+New Request: from 16 to 0 pNum: 2 class: 0 departureTime: 15:3
+ - Request 257 is refused with 2 passengers. 
+   Class: 0, from 16 to 0
+New Request: from 0 to 12 pNum: 1 class: 1 departureTime: 20:10
+ - Request 258 is refused with 1 passengers. 
+   Class: 1, from 0 to 12
+New Request: from 19 to 3 pNum: 1 class: 1 departureTime: 19:53
+ - Request 259 is granted to train 2 with 1 passengers. 
+   Class: 1, from 19 to 3
+New Request: from 4 to 3 pNum: 6 class: 1 departureTime: 17:51
+ - Request 260 is refused with 6 passengers. 
+   Class: 1, from 4 to 3
+# Granted Request: 2
+# Refused Request: 4
+Train[0] - destination station: 9 at time 14:30
+# Passenger getting off: 0
+Train[2] - destination station: 16 at time 14:30
+# Passenger getting off: 1
+Train[4] - destination station: 14 at time 14:30
+# Passenger getting off: 20
+Train[5] - destination station: 4 at time 14:30
+# Passenger getting off: 2
+Train[0] - destination station: 9 at time 14:30
+# Passenger getting off: 0
+Train[2] - destination station: 16 at time 14:30
+# Passenger getting off: 1
+Train[4] - destination station: 14 at time 14:30
+# Passenger getting off: 20
+Train[5] - destination station: 4 at time 14:30
+# Passenger getting off: 2
+Train[1] - destination station: 11 at time 14:34
+# Passenger getting off: 1
+Train[3] - destination station: 18 at time 14:34
+# Passenger getting off: 7
+*****[14:40]*****
+New Request: from 10 to 19 pNum: 6 class: 0 departureTime: 19:6
+ - Request 261 is refused with 6 passengers. 
+   Class: 0, from 10 to 19
+New Request: from 2 to 5 pNum: 8 class: 1 departureTime: 21:7
+ - Request 262 is granted to train 2 with 8 passengers. 
+   Class: 1, from 2 to 5
+New Request: from 4 to 11 pNum: 8 class: 1 departureTime: 20:51
+ - Request 263 is refused with 8 passengers. 
+   Class: 1, from 4 to 11
+New Request: from 13 to 8 pNum: 7 class: 1 departureTime: 14:59
+ - Request 264 is refused with 7 passengers. 
+   Class: 1, from 13 to 8
+# Granted Request: 1
+# Refused Request: 3
+New Request: from 3 to 1 pNum: 1 class: 1 departureTime: 15:7
+ - Request 265 is refused with 1 passengers. 
+   Class: 1, from 3 to 1
+*****[14:50]*****
+New Request: from 19 to 3 pNum: 5 class: 0 departureTime: 20:4
+ - Request 266 is refused with 5 passengers. 
+   Class: 0, from 19 to 3
+New Request: from 0 to 18 pNum: 3 class: 0 departureTime: 19:2
+ - Request 267 is refused with 3 passengers. 
+   Class: 0, from 0 to 18
+New Request: from 3 to 18 pNum: 3 class: 1 departureTime: 19:45
+ - Request 268 is granted to train 5 with 3 passengers. 
+   Class: 1, from 3 to 18
+New Request: from 2 to 6 pNum: 2 class: 0 departureTime: 18:22
+ - Request 269 is refused with 2 passengers. 
+   Class: 0, from 2 to 6
+# Granted Request: 1
+# Refused Request: 4
+New Request: from 18 to 13 pNum: 6 class: 0 departureTime: 15:48
+ - Request 270 is refused with 6 passengers. 
+   Class: 0, from 18 to 13
+*****[15:00]*****
+New Request: from 7 to 12 pNum: 7 class: 0 departureTime: 19:12
+ - Request 271 is refused with 7 passengers. 
+   Class: 0, from 7 to 12
+New Request: from 19 to 17 pNum: 2 class: 0 departureTime: 16:57
+ - Request 272 is refused with 2 passengers. 
+   Class: 0, from 19 to 17
+New Request: from 12 to 3 pNum: 8 class: 1 departureTime: 17:7
+ - Request 273 is refused with 8 passengers. 
+   Class: 1, from 12 to 3
+New Request: from 18 to 9 pNum: 6 class: 0 departureTime: 20:46
+ - Request 274 is refused with 6 passengers. 
+   Class: 0, from 18 to 9
+New Request: from 14 to 3 pNum: 1 class: 1 departureTime: 15:48
+ - Request 275 is refused with 1 passengers. 
+   Class: 1, from 14 to 3
+# Granted Request: 0
+# Refused Request: 6
+Train[1] - departure station: 10 at time 15:0
+# Itinerary: 1
+# Passenger boarding: 1
+Train[3] - departure station: 17 at time 15:0
+# Itinerary: 4
+# Passenger boarding: 23
+Train[1] - departure station: 10 at time 15:0
+# Itinerary: 0
+# Passenger boarding: 1
+Train[3] - departure station: 17 at time 15:0
+# Itinerary: 0
+# Passenger boarding: 23
+*****[15:10]*****
+New Request: from 17 to 3 pNum: 4 class: 1 departureTime: 21:20
+ - Request 276 is granted to train 4 with 4 passengers. 
+   Class: 1, from 17 to 3
+New Request: from 14 to 5 pNum: 5 class: 1 departureTime: 19:57
+ - Request 277 is refused with 5 passengers. 
+   Class: 1, from 14 to 5
+New Request: from 8 to 9 pNum: 2 class: 1 departureTime: 15:19
+ - Request 278 is refused with 2 passengers. 
+   Class: 1, from 8 to 9
+New Request: from 14 to 16 pNum: 2 class: 0 departureTime: 16:15
+ - Request 279 is refused with 2 passengers. 
+   Class: 0, from 14 to 16
+# Granted Request: 1
+# Refused Request: 3
+Train[1] - destination station: 10 at time 15:10
+# Passenger getting off: 2
+Train[3] - destination station: 17 at time 15:10
+# Passenger getting off: 1
+New Request: from 5 to 6 pNum: 3 class: 0 departureTime: 21:42
+ - Request 280 is granted to train 1 with 3 passengers. 
+   Class: 0, from 5 to 6
+Train[0] - departure station: 10 at time 15:15
+# Itinerary: 1
+# Passenger boarding: 1
+Train[2] - departure station: 17 at time 15:15
+# Itinerary: 3
+# Passenger boarding: 9
+Train[4] - departure station: 15 at time 15:15
+# Itinerary: 2
+# Passenger boarding: 5
+Train[5] - departure station: 3 at time 15:15
+# Itinerary: 4
+# Passenger boarding: 24
+*****[15:20]*****
+New Request: from 9 to 12 pNum: 7 class: 1 departureTime: 20:35
+ - Request 281 is refused with 7 passengers. 
+   Class: 1, from 9 to 12
+New Request: from 15 to 13 pNum: 1 class: 0 departureTime: 19:27
+ - Request 282 is granted to train 3 with 1 passengers. 
+   Class: 0, from 15 to 13
+New Request: from 6 to 0 pNum: 3 class: 0 departureTime: 19:9
+ - Request 283 is granted to train 1 with 3 passengers. 
+   Class: 0, from 6 to 0
+New Request: from 0 to 8 pNum: 1 class: 1 departureTime: 21:35
+ - Request 284 is refused with 1 passengers. 
+   Class: 1, from 0 to 8
+# Granted Request: 3
+# Refused Request: 2
+New Request: from 2 to 4 pNum: 1 class: 0 departureTime: 15:46
+ - Request 285 is refused with 1 passengers. 
+   Class: 0, from 2 to 4
+Train[0] - destination station: 10 at time 15:25
+# Passenger getting off: 4
+Train[2] - destination station: 17 at time 15:25
+# Passenger getting off: 2
+Train[4] - destination station: 15 at time 15:25
+# Passenger getting off: 0
+Train[5] - destination station: 3 at time 15:25
+# Passenger getting off: 0
+*****[15:30]*****
+New Request: from 18 to 5 pNum: 4 class: 0 departureTime: 16:14
+ - Request 286 is refused with 4 passengers. 
+   Class: 0, from 18 to 5
+New Request: from 6 to 8 pNum: 7 class: 1 departureTime: 18:13
+ - Request 287 is refused with 7 passengers. 
+   Class: 1, from 6 to 8
+New Request: from 6 to 2 pNum: 7 class: 0 departureTime: 15:37
+ - Request 288 is refused with 7 passengers. 
+   Class: 0, from 6 to 2
+New Request: from 10 to 14 pNum: 5 class: 1 departureTime: 20:35
+ - Request 289 is refused with 5 passengers. 
+   Class: 1, from 10 to 14
+New Request: from 4 to 16 pNum: 7 class: 0 departureTime: 19:45
+ - Request 290 is refused with 7 passengers. 
+   Class: 0, from 4 to 16
+# Granted Request: 0
+# Refused Request: 6
+Train[0] - departure station: 11 at time 15:35
+# Itinerary: 1
+# Passenger boarding: 6
+Train[2] - departure station: 18 at time 15:35
+# Itinerary: 2
+# Passenger boarding: 14
+Train[4] - departure station: 16 at time 15:35
+# Itinerary: 1
+# Passenger boarding: 2
+Train[5] - departure station: 2 at time 15:35
+# Itinerary: 1
+# Passenger boarding: 7
+*****[15:40]*****
+New Request: from 11 to 16 pNum: 8 class: 1 departureTime: 20:57
+ - Request 291 is refused with 8 passengers. 
+   Class: 1, from 11 to 16
+New Request: from 7 to 1 pNum: 6 class: 0 departureTime: 16:20
+ - Request 292 is refused with 6 passengers. 
+   Class: 0, from 7 to 1
+New Request: from 8 to 19 pNum: 6 class: 0 departureTime: 20:33
+ - Request 293 is refused with 6 passengers. 
+   Class: 0, from 8 to 19
+New Request: from 4 to 8 pNum: 5 class: 1 departureTime: 21:42
+ - Request 294 is refused with 5 passengers. 
+   Class: 1, from 4 to 8
+# Granted Request: 0
+# Refused Request: 4
+New Request: from 2 to 10 pNum: 4 class: 0 departureTime: 17:6
+ - Request 295 is refused with 4 passengers. 
+   Class: 0, from 2 to 10
+Train[0] - destination station: 11 at time 15:45
+# Passenger getting off: 14
+Train[1] - departure station: 9 at time 15:45
+# Itinerary: 2
+# Passenger boarding: 8
+Train[2] - destination station: 18 at time 15:45
+# Passenger getting off: 0
+Train[3] - departure station: 16 at time 15:45
+# Itinerary: 1
+# Passenger boarding: 4
+Train[4] - destination station: 16 at time 15:45
+# Passenger getting off: 3
+Train[5] - destination station: 2 at time 15:45
+# Passenger getting off: 0
+*****[15:50]*****
+New Request: from 11 to 0 pNum: 8 class: 1 departureTime: 20:34
+ - Request 296 is refused with 8 passengers. 
+   Class: 1, from 11 to 0
+New Request: from 12 to 10 pNum: 6 class: 0 departureTime: 19:3
+ - Request 297 is refused with 6 passengers. 
+   Class: 0, from 12 to 10
+New Request: from 19 to 0 pNum: 6 class: 0 departureTime: 21:23
+ - Request 298 is refused with 6 passengers. 
+   Class: 0, from 19 to 0
+New Request: from 14 to 2 pNum: 4 class: 0 departureTime: 21:13
+ - Request 299 is refused with 4 passengers. 
+   Class: 0, from 14 to 2
+# Granted Request: 0
+# Refused Request: 5
+New Request: from 18 to 11 pNum: 2 class: 1 departureTime: 20:31
+ - Request 300 is refused with 2 passengers. 
+   Class: 1, from 18 to 11
+Train[1] - destination station: 9 at time 15:55
+# Passenger getting off: 11
+Train[3] - destination station: 16 at time 15:55
+# Passenger getting off: 11
+*****[16:00]*****
+New Request: from 5 to 8 pNum: 6 class: 1 departureTime: 16:43
+ - Request 301 is refused with 6 passengers. 
+   Class: 1, from 5 to 8
+New Request: from 19 to 17 pNum: 7 class: 1 departureTime: 20:24
+ - Request 302 is granted to train 5 with 7 passengers. 
+   Class: 1, from 19 to 17
+New Request: from 6 to 7 pNum: 8 class: 0 departureTime: 17:40
+ - Request 303 is refused with 8 passengers. 
+   Class: 0, from 6 to 7
+New Request: from 11 to 3 pNum: 2 class: 1 departureTime: 17:16
+ - Request 304 is refused with 2 passengers. 
+   Class: 1, from 11 to 3
+New Request: from 13 to 19 pNum: 5 class: 1 departureTime: 21:14
+ - Request 305 is granted to train 0 with 5 passengers. 
+   Class: 1, from 13 to 19
+# Granted Request: 2
+# Refused Request: 4
+*****[16:10]*****
+New Request: from 11 to 18 pNum: 7 class: 0 departureTime: 18:23
+ - Request 306 is refused with 7 passengers. 
+   Class: 0, from 11 to 18
+New Request: from 4 to 7 pNum: 1 class: 1 departureTime: 20:37
+ - Request 307 is refused with 1 passengers. 
+   Class: 1, from 4 to 7
+New Request: from 14 to 15 pNum: 3 class: 1 departureTime: 21:17
+ - Request 308 is granted to train 0 with 3 passengers. 
+   Class: 1, from 14 to 15
+New Request: from 9 to 3 pNum: 5 class: 0 departureTime: 20:17
+ - Request 309 is refused with 5 passengers. 
+   Class: 0, from 9 to 3
+# Granted Request: 1
+# Refused Request: 3
+New Request: from 9 to 15 pNum: 5 class: 0 departureTime: 20:38
+ - Request 310 is refused with 5 passengers. 
+   Class: 0, from 9 to 15
+*****[16:20]*****
+New Request: from 3 to 15 pNum: 7 class: 1 departureTime: 21:5
+ - Request 311 is refused with 7 passengers. 
+   Class: 1, from 3 to 15
+New Request: from 16 to 13 pNum: 5 class: 0 departureTime: 20:0
+ - Request 312 is refused with 5 passengers. 
+   Class: 0, from 16 to 13
+New Request: from 17 to 4 pNum: 8 class: 1 departureTime: 18:0
+ - Request 313 is refused with 8 passengers. 
+   Class: 1, from 17 to 4
+New Request: from 1 to 6 pNum: 6 class: 1 departureTime: 20:7
+ - Request 314 is granted to train 2 with 6 passengers. 
+   Class: 1, from 1 to 6
+# Granted Request: 1
+# Refused Request: 4
+New Request: from 8 to 9 pNum: 4 class: 0 departureTime: 21:18
+ - Request 315 is refused with 4 passengers. 
+   Class: 0, from 8 to 9
+Train[1] - departure station: 8 at time 16:23
+# Itinerary: 0
+# Passenger boarding: 0
+Train[3] - departure station: 15 at time 16:23
+# Itinerary: 4
+# Passenger boarding: 11
+Train[1] - departure station: 8 at time 16:23
+# Itinerary: 0
+# Passenger boarding: 0
+Train[3] - departure station: 15 at time 16:23
+# Itinerary: 0
+# Passenger boarding: 11
+*****[16:30]*****
+New Request: from 0 to 3 pNum: 5 class: 1 departureTime: 18:13
+ - Request 316 is granted to train 2 with 5 passengers. 
+   Class: 1, from 0 to 3
+New Request: from 7 to 3 pNum: 5 class: 0 departureTime: 18:31
+ - Request 317 is refused with 5 passengers. 
+   Class: 0, from 7 to 3
+New Request: from 15 to 13 pNum: 1 class: 1 departureTime: 20:32
+ - Request 318 is refused with 1 passengers. 
+   Class: 1, from 15 to 13
+New Request: from 8 to 15 pNum: 5 class: 0 departureTime: 17:38
+ - Request 319 is refused with 5 passengers. 
+   Class: 0, from 8 to 15
+New Request: from 16 to 9 pNum: 8 class: 1 departureTime: 20:7
+ - Request 320 is refused with 8 passengers. 
+   Class: 1, from 16 to 9
+# Granted Request: 1
+# Refused Request: 5
+Train[1] - destination station: 8 at time 16:33
+# Passenger getting off: 17
+Train[3] - destination station: 15 at time 16:33
+# Passenger getting off: 0
+*****[16:40]*****
+New Request: from 14 to 13 pNum: 2 class: 1 departureTime: 21:43
+ - Request 321 is granted to train 3 with 2 passengers. 
+   Class: 1, from 14 to 13
+New Request: from 16 to 4 pNum: 1 class: 0 departureTime: 19:32
+ - Request 322 is refused with 1 passengers. 
+   Class: 0, from 16 to 4
+New Request: from 9 to 15 pNum: 7 class: 1 departureTime: 17:26
+ - Request 323 is refused with 7 passengers. 
+   Class: 1, from 9 to 15
+New Request: from 14 to 19 pNum: 7 class: 1 departureTime: 20:13
+ - Request 324 is granted to train 0 with 7 passengers. 
+   Class: 1, from 14 to 19
+# Granted Request: 2
+# Refused Request: 2
+New Request: from 18 to 11 pNum: 7 class: 1 departureTime: 17:39
+ - Request 325 is refused with 7 passengers. 
+   Class: 1, from 18 to 11
+Train[0] - departure station: 12 at time 16:43
+# Itinerary: 1
+# Passenger boarding: 5
+Train[2] - departure station: 19 at time 16:43
+# Itinerary: 1
+# Passenger boarding: 1
+Train[4] - departure station: 17 at time 16:43
+# Itinerary: 2
+# Passenger boarding: 11
+Train[5] - departure station: 1 at time 16:43
+# Itinerary: 0
+# Passenger boarding: 0
+*****[16:50]*****
+New Request: from 2 to 4 pNum: 6 class: 1 departureTime: 21:30
+ - Request 326 is granted to train 4 with 6 passengers. 
+   Class: 1, from 2 to 4
+New Request: from 11 to 3 pNum: 1 class: 1 departureTime: 18:30
+ - Request 327 is refused with 1 passengers. 
+   Class: 1, from 11 to 3
+New Request: from 0 to 2 pNum: 5 class: 0 departureTime: 21:24
+ - Request 328 is granted to train 4 with 5 passengers. 
+   Class: 0, from 0 to 2
+New Request: from 19 to 18 pNum: 7 class: 1 departureTime: 19:37
+ - Request 329 is refused with 7 passengers. 
+   Class: 1, from 19 to 18
+# Granted Request: 2
+# Refused Request: 3
+New Request: from 18 to 16 pNum: 1 class: 0 departureTime: 18:26
+ - Request 330 is refused with 1 passengers. 
+   Class: 0, from 18 to 16
+Train[0] - destination station: 12 at time 16:53
+# Passenger getting off: 11
+Train[2] - destination station: 19 at time 16:53
+# Passenger getting off: 11
+Train[4] - destination station: 17 at time 16:53
+# Passenger getting off: 8
+Train[5] - destination station: 1 at time 16:53
+# Passenger getting off: 3
+Train[0] - destination station: 12 at time 16:53
+# Passenger getting off: 11
+Train[2] - destination station: 19 at time 16:53
+# Passenger getting off: 11
+Train[4] - destination station: 17 at time 16:53
+# Passenger getting off: 8
+Train[5] - destination station: 1 at time 16:53
+# Passenger getting off: 3
+*****[17:00]*****
+New Request: from 14 to 13 pNum: 2 class: 1 departureTime: 19:28
+ - Request 331 is granted to train 3 with 2 passengers. 
+   Class: 1, from 14 to 13
+New Request: from 0 to 9 pNum: 1 class: 1 departureTime: 20:52
+ - Request 332 is refused with 1 passengers. 
+   Class: 1, from 0 to 9
+New Request: from 6 to 4 pNum: 3 class: 1 departureTime: 19:36
+ - Request 333 is granted to train 1 with 3 passengers. 
+   Class: 1, from 6 to 4
+New Request: from 10 to 8 pNum: 2 class: 1 departureTime: 20:48
+ - Request 334 is granted to train 3 with 2 passengers. 
+   Class: 1, from 10 to 8
+New Request: from 6 to 14 pNum: 6 class: 0 departureTime: 18:50
+ - Request 335 is refused with 6 passengers. 
+   Class: 0, from 6 to 14
+# Granted Request: 3
+# Refused Request: 3
+*****[17:10]*****
+New Request: from 1 to 5 pNum: 4 class: 1 departureTime: 20:20
+ - Request 336 is refused with 4 passengers. 
+   Class: 1, from 1 to 5
+New Request: from 6 to 12 pNum: 4 class: 0 departureTime: 19:45
+ - Request 337 is refused with 4 passengers. 
+   Class: 0, from 6 to 12
+New Request: from 0 to 2 pNum: 1 class: 1 departureTime: 17:38
+ - Request 338 is granted to train 2 with 1 passengers. 
+   Class: 1, from 0 to 2
+New Request: from 17 to 7 pNum: 2 class: 1 departureTime: 20:29
+ - Request 339 is refused with 2 passengers. 
+   Class: 1, from 17 to 7
+# Granted Request: 1
+# Refused Request: 3
+New Request: from 18 to 8 pNum: 3 class: 1 departureTime: 21:30
+ - Request 340 is refused with 3 passengers. 
+   Class: 1, from 18 to 8
+*****[17:20]*****
+New Request: from 5 to 12 pNum: 7 class: 0 departureTime: 21:54
+ - Request 341 is refused with 7 passengers. 
+   Class: 0, from 5 to 12
+New Request: from 13 to 7 pNum: 1 class: 1 departureTime: 21:50
+ - Request 342 is granted to train 3 with 1 passengers. 
+   Class: 1, from 13 to 7
+New Request: from 5 to 8 pNum: 7 class: 0 departureTime: 21:40
+ - Request 343 is refused with 7 passengers. 
+   Class: 0, from 5 to 8
+New Request: from 14 to 7 pNum: 8 class: 1 departureTime: 20:21
+ - Request 344 is granted to train 3 with 8 passengers. 
+   Class: 1, from 14 to 7
+# Granted Request: 2
+# Refused Request: 3
+New Request: from 2 to 10 pNum: 8 class: 1 departureTime: 20:40
+ - Request 345 is refused with 8 passengers. 
+   Class: 1, from 2 to 10
+Train[0] - departure station: 13 at time 17:24
+# Itinerary: 2
+# Passenger boarding: 7
+Train[2] - departure station: 0 at time 17:24
+# Itinerary: 3
+# Passenger boarding: 10
+Train[4] - departure station: 18 at time 17:24
+# Itinerary: 0
+# Passenger boarding: 0
+Train[5] - departure station: 14 at time 17:24
+# Itinerary: 0
+# Passenger boarding: 0
+*****[17:30]*****
+New Request: from 0 to 14 pNum: 7 class: 0 departureTime: 20:22
+ - Request 346 is refused with 7 passengers. 
+   Class: 0, from 0 to 14
+New Request: from 10 to 2 pNum: 6 class: 0 departureTime: 17:58
+ - Request 347 is refused with 6 passengers. 
+   Class: 0, from 10 to 2
+New Request: from 14 to 0 pNum: 5 class: 0 departureTime: 19:22
+ - Request 348 is refused with 5 passengers. 
+   Class: 0, from 14 to 0
+New Request: from 5 to 4 pNum: 8 class: 0 departureTime: 21:15
+ - Request 349 is refused with 8 passengers. 
+   Class: 0, from 5 to 4
+New Request: from 17 to 15 pNum: 5 class: 0 departureTime: 21:28
+ - Request 350 is refused with 5 passengers. 
+   Class: 0, from 17 to 15
+# Granted Request: 0
+# Refused Request: 6
+Train[0] - destination station: 13 at time 17:34
+# Passenger getting off: 11
+Train[2] - destination station: 0 at time 17:34
+# Passenger getting off: 7
+Train[4] - destination station: 18 at time 17:34
+# Passenger getting off: 3
+Train[5] - destination station: 14 at time 17:34
+# Passenger getting off: 2
+Train[1] - departure station: 7 at time 17:39
+# Itinerary: 1
+# Passenger boarding: 8
+Train[3] - departure station: 14 at time 17:39
+# Itinerary: 3
+# Passenger boarding: 12
+Train[1] - departure station: 7 at time 17:39
+# Itinerary: 0
+# Passenger boarding: 8
+Train[3] - departure station: 14 at time 17:39
+# Itinerary: 0
+# Passenger boarding: 12
+*****[17:40]*****
+Train[1] - departure station: 7 at time 17:39
+# Itinerary: 0
+# Passenger boarding: 8
+Train[3] - departure station: 14 at time 17:39
+# Itinerary: 0
+# Passenger boarding: 12
+New Request: from 16 to 6 pNum: 1 class: 0 departureTime: 21:9
+ - Request 351 is refused with 1 passengers. 
+   Class: 0, from 16 to 6
+New Request: from 11 to 12 pNum: 6 class: 0 departureTime: 18:34
+ - Request 352 is refused with 6 passengers. 
+   Class: 0, from 11 to 12
+New Request: from 8 to 12 pNum: 3 class: 0 departureTime: 21:57
+ - Request 353 is refused with 3 passengers. 
+   Class: 0, from 8 to 12
+New Request: from 8 to 16 pNum: 6 class: 1 departureTime: 20:40
+ - Request 354 is refused with 6 passengers. 
+   Class: 1, from 8 to 16
+# Granted Request: 0
+# Refused Request: 4
+New Request: from 19 to 14 pNum: 7 class: 1 departureTime: 18:22
+ - Request 355 is refused with 7 passengers. 
+   Class: 1, from 19 to 14
+Train[1] - destination station: 7 at time 17:49
+# Passenger getting off: 10
+Train[3] - destination station: 14 at time 17:49
+# Passenger getting off: 12
+*****[17:50]*****
+Train[1] - destination station: 7 at time 17:49
+# Passenger getting off: 10
+Train[3] - destination station: 14 at time 17:49
+# Passenger getting off: 12
+New Request: from 2 to 3 pNum: 5 class: 1 departureTime: 18:5
+ - Request 356 is refused with 5 passengers. 
+   Class: 1, from 2 to 3
+New Request: from 17 to 4 pNum: 4 class: 1 departureTime: 21:34
+ - Request 357 is refused with 4 passengers. 
+   Class: 1, from 17 to 4
+New Request: from 14 to 10 pNum: 7 class: 0 departureTime: 18:32
+ - Request 358 is refused with 7 passengers. 
+   Class: 0, from 14 to 10
+New Request: from 2 to 18 pNum: 8 class: 0 departureTime: 20:11
+ - Request 359 is refused with 8 passengers. 
+   Class: 0, from 2 to 18
+# Granted Request: 0
+# Refused Request: 5
+New Request: from 1 to 11 pNum: 3 class: 1 departureTime: 18:0
+ - Request 360 is refused with 3 passengers. 
+   Class: 1, from 1 to 11
+*****[18:00]*****
+New Request: from 10 to 2 pNum: 4 class: 1 departureTime: 20:36
+ - Request 361 is refused with 4 passengers. 
+   Class: 1, from 10 to 2
+New Request: from 9 to 1 pNum: 7 class: 1 departureTime: 18:17
+ - Request 362 is refused with 7 passengers. 
+   Class: 1, from 9 to 1
+New Request: from 6 to 15 pNum: 8 class: 1 departureTime: 18:34
+ - Request 363 is refused with 8 passengers. 
+   Class: 1, from 6 to 15
+New Request: from 18 to 5 pNum: 7 class: 1 departureTime: 20:56
+ - Request 364 is refused with 7 passengers. 
+   Class: 1, from 18 to 5
+New Request: from 9 to 1 pNum: 2 class: 0 departureTime: 18:56
+ - Request 365 is refused with 2 passengers. 
+   Class: 0, from 9 to 1
+# Granted Request: 0
+# Refused Request: 6
+Train[1] - departure station: 5 at time 18:0
+# Itinerary: 2
+# Passenger boarding: 10
+Train[3] - departure station: 12 at time 18:0
+# Itinerary: 1
+# Passenger boarding: 5
+Train[1] - departure station: 5 at time 18:0
+# Itinerary: 0
+# Passenger boarding: 10
+Train[3] - departure station: 12 at time 18:0
+# Itinerary: 0
+# Passenger boarding: 5
+*****[18:10]*****
+New Request: from 7 to 6 pNum: 2 class: 1 departureTime: 19:26
+ - Request 366 is refused with 2 passengers. 
+   Class: 1, from 7 to 6
+New Request: from 0 to 19 pNum: 8 class: 0 departureTime: 21:46
+ - Request 367 is refused with 8 passengers. 
+   Class: 0, from 0 to 19
+New Request: from 6 to 8 pNum: 6 class: 1 departureTime: 19:6
+ - Request 368 is refused with 6 passengers. 
+   Class: 1, from 6 to 8
+New Request: from 16 to 15 pNum: 6 class: 1 departureTime: 21:36
+ - Request 369 is refused with 6 passengers. 
+   Class: 1, from 16 to 15
+# Granted Request: 0
+# Refused Request: 4
+Train[1] - destination station: 5 at time 18:10
+# Passenger getting off: 10
+Train[3] - destination station: 12 at time 18:10
+# Passenger getting off: 8
+New Request: from 19 to 7 pNum: 1 class: 0 departureTime: 21:34
+ - Request 370 is refused with 1 passengers. 
+   Class: 0, from 19 to 7
+*****[18:20]*****
+New Request: from 0 to 17 pNum: 3 class: 1 departureTime: 21:50
+ - Request 371 is granted to train 5 with 3 passengers. 
+   Class: 1, from 0 to 17
+New Request: from 2 to 8 pNum: 4 class: 0 departureTime: 21:5
+ - Request 372 is refused with 4 passengers. 
+   Class: 0, from 2 to 8
+New Request: from 2 to 10 pNum: 2 class: 1 departureTime: 20:36
+ - Request 373 is refused with 2 passengers. 
+   Class: 1, from 2 to 10
+New Request: from 14 to 9 pNum: 4 class: 1 departureTime: 21:55
+ - Request 374 is refused with 4 passengers. 
+   Class: 1, from 14 to 9
+# Granted Request: 1
+# Refused Request: 4
+Train[0] - departure station: 14 at time 18:20
+# Itinerary: 2
+# Passenger boarding: 10
+Train[2] - departure station: 1 at time 18:20
+# Itinerary: 3
+# Passenger boarding: 15
+Train[4] - departure station: 19 at time 18:20
+# Itinerary: 0
+# Passenger boarding: 0
+Train[5] - departure station: 15 at time 18:20
+# Itinerary: 0
+# Passenger boarding: 0
+New Request: from 11 to 0 pNum: 2 class: 0 departureTime: 19:20
+ - Request 375 is refused with 2 passengers. 
+   Class: 0, from 11 to 0
+Train[1] - departure station: 6 at time 18:23
+# Itinerary: 2
+# Passenger boarding: 6
+Train[3] - departure station: 13 at time 18:23
+# Itinerary: 1
+# Passenger boarding: 1
+Train[1] - departure station: 6 at time 18:23
+# Itinerary: 0
+# Passenger boarding: 6
+Train[3] - departure station: 13 at time 18:23
+# Itinerary: 0
+# Passenger boarding: 1
+*****[18:30]*****
+New Request: from 8 to 1 pNum: 7 class: 0 departureTime: 19:31
+ - Request 376 is refused with 7 passengers. 
+   Class: 0, from 8 to 1
+New Request: from 14 to 9 pNum: 1 class: 0 departureTime: 18:42
+ - Request 377 is refused with 1 passengers. 
+   Class: 0, from 14 to 9
+New Request: from 2 to 5 pNum: 2 class: 0 departureTime: 18:52
+ - Request 378 is refused with 2 passengers. 
+   Class: 0, from 2 to 5
+New Request: from 17 to 3 pNum: 7 class: 1 departureTime: 21:11
+ - Request 379 is refused with 7 passengers. 
+   Class: 1, from 17 to 3
+New Request: from 15 to 0 pNum: 8 class: 0 departureTime: 21:17
+ - Request 380 is refused with 8 passengers. 
+   Class: 0, from 15 to 0
+# Granted Request: 0
+# Refused Request: 6
+Train[0] - destination station: 14 at time 18:30
+# Passenger getting off: 2
+Train[2] - destination station: 1 at time 18:30
+# Passenger getting off: 9
+Train[4] - destination station: 19 at time 18:30
+# Passenger getting off: 14
+Train[5] - destination station: 15 at time 18:30
+# Passenger getting off: 5
+Train[0] - destination station: 14 at time 18:30
+# Passenger getting off: 2
+Train[2] - destination station: 1 at time 18:30
+# Passenger getting off: 9
+Train[4] - destination station: 19 at time 18:30
+# Passenger getting off: 14
+Train[5] - destination station: 15 at time 18:30
+# Passenger getting off: 5
+Train[1] - destination station: 6 at time 18:33
+# Passenger getting off: 3
+Train[3] - destination station: 13 at time 18:33
+# Passenger getting off: 5
+*****[18:40]*****
+New Request: from 9 to 2 pNum: 6 class: 0 departureTime: 21:59
+ - Request 381 is refused with 6 passengers. 
+   Class: 0, from 9 to 2
+New Request: from 8 to 9 pNum: 5 class: 1 departureTime: 21:23
+ - Request 382 is refused with 5 passengers. 
+   Class: 1, from 8 to 9
+New Request: from 6 to 10 pNum: 3 class: 0 departureTime: 21:19
+ - Request 383 is refused with 3 passengers. 
+   Class: 0, from 6 to 10
+New Request: from 16 to 4 pNum: 2 class: 1 departureTime: 19:18
+ - Request 384 is refused with 2 passengers. 
+   Class: 1, from 16 to 4
+# Granted Request: 0
+# Refused Request: 4
+New Request: from 0 to 4 pNum: 3 class: 1 departureTime: 19:15
+ - Request 385 is refused with 3 passengers. 
+   Class: 1, from 0 to 4
+*****[18:50]*****
+New Request: from 15 to 10 pNum: 7 class: 1 departureTime: 19:30
+ - Request 386 is refused with 7 passengers. 
+   Class: 1, from 15 to 10
+New Request: from 2 to 8 pNum: 1 class: 0 departureTime: 19:19
+ - Request 387 is refused with 1 passengers. 
+   Class: 0, from 2 to 8
+New Request: from 18 to 13 pNum: 3 class: 0 departureTime: 20:59
+ - Request 388 is refused with 3 passengers. 
+   Class: 0, from 18 to 13
+New Request: from 11 to 17 pNum: 2 class: 1 departureTime: 18:56
+ - Request 389 is refused with 2 passengers. 
+   Class: 1, from 11 to 17
+# Granted Request: 0
+# Refused Request: 5
+New Request: from 2 to 14 pNum: 6 class: 0 departureTime: 19:45
+ - Request 390 is refused with 6 passengers. 
+   Class: 0, from 2 to 14
+*****[19:00]*****
+New Request: from 10 to 5 pNum: 2 class: 0 departureTime: 21:7
+ - Request 391 is refused with 2 passengers. 
+   Class: 0, from 10 to 5
+New Request: from 7 to 16 pNum: 2 class: 0 departureTime: 21:22
+ - Request 392 is refused with 2 passengers. 
+   Class: 0, from 7 to 16
+New Request: from 0 to 3 pNum: 7 class: 0 departureTime: 20:7
+ - Request 393 is granted to train 4 with 7 passengers. 
+   Class: 0, from 0 to 3
+New Request: from 16 to 13 pNum: 7 class: 0 departureTime: 20:14
+ - Request 394 is refused with 7 passengers. 
+   Class: 0, from 16 to 13
+New Request: from 9 to 7 pNum: 8 class: 1 departureTime: 19:55
+ - Request 395 is refused with 8 passengers. 
+   Class: 1, from 9 to 7
+# Granted Request: 1
+# Refused Request: 5
+*****[19:10]*****
+New Request: from 1 to 13 pNum: 7 class: 1 departureTime: 20:10
+ - Request 396 is refused with 7 passengers. 
+   Class: 1, from 1 to 13
+New Request: from 9 to 15 pNum: 8 class: 0 departureTime: 20:13
+ - Request 397 is refused with 8 passengers. 
+   Class: 0, from 9 to 15
+New Request: from 12 to 7 pNum: 2 class: 1 departureTime: 21:22
+ - Request 398 is refused with 2 passengers. 
+   Class: 1, from 12 to 7
+New Request: from 13 to 8 pNum: 8 class: 0 departureTime: 20:26
+ - Request 399 is refused with 8 passengers. 
+   Class: 0, from 13 to 8
+# Granted Request: 0
+# Refused Request: 4
+New Request: from 10 to 19 pNum: 6 class: 1 departureTime: 21:31
+ - Request 400 is refused with 6 passengers. 
+   Class: 1, from 10 to 19
+*****[19:20]*****
+New Request: from 15 to 10 pNum: 7 class: 1 departureTime: 19:29
+ - Request 401 is refused with 7 passengers. 
+   Class: 1, from 15 to 10
+New Request: from 16 to 8 pNum: 1 class: 0 departureTime: 19:26
+ - Request 402 is refused with 1 passengers. 
+   Class: 0, from 16 to 8
+New Request: from 15 to 13 pNum: 4 class: 0 departureTime: 20:4
+ - Request 403 is refused with 4 passengers. 
+   Class: 0, from 15 to 13
+New Request: from 17 to 11 pNum: 3 class: 0 departureTime: 20:44
+ - Request 404 is refused with 3 passengers. 
+   Class: 0, from 17 to 11
+# Granted Request: 0
+# Refused Request: 5
+Train[1] - departure station: 4 at time 19:20
+# Itinerary: 1
+# Passenger boarding: 7
+Train[3] - departure station: 11 at time 19:20
+# Itinerary: 0
+# Passenger boarding: 0
+New Request: from 18 to 3 pNum: 3 class: 1 departureTime: 20:26
+ - Request 405 is refused with 3 passengers. 
+   Class: 1, from 18 to 3
+*****[19:30]*****
+New Request: from 1 to 5 pNum: 3 class: 1 departureTime: 21:26
+ - Request 406 is refused with 3 passengers. 
+   Class: 1, from 1 to 5
+New Request: from 6 to 9 pNum: 8 class: 0 departureTime: 21:55
+ - Request 407 is refused with 8 passengers. 
+   Class: 0, from 6 to 9
+New Request: from 6 to 4 pNum: 5 class: 1 departureTime: 20:10
+ - Request 408 is refused with 5 passengers. 
+   Class: 1, from 6 to 4
+New Request: from 2 to 15 pNum: 1 class: 1 departureTime: 21:5
+ - Request 409 is refused with 1 passengers. 
+   Class: 1, from 2 to 15
+New Request: from 10 to 5 pNum: 7 class: 0 departureTime: 21:27
+ - Request 410 is refused with 7 passengers. 
+   Class: 0, from 10 to 5
+# Granted Request: 0
+# Refused Request: 6
+Train[1] - destination station: 4 at time 19:30
+# Passenger getting off: 13
+Train[3] - destination station: 11 at time 19:30
+# Passenger getting off: 6
+Train[1] - destination station: 4 at time 19:30
+# Passenger getting off: 13
+Train[3] - destination station: 11 at time 19:30
+# Passenger getting off: 6
+*****[19:40]*****
+New Request: from 3 to 4 pNum: 1 class: 0 departureTime: 19:50
+ - Request 411 is refused with 1 passengers. 
+   Class: 0, from 3 to 4
+New Request: from 8 to 1 pNum: 6 class: 1 departureTime: 21:55
+ - Request 412 is refused with 6 passengers. 
+   Class: 1, from 8 to 1
+New Request: from 1 to 11 pNum: 3 class: 0 departureTime: 20:51
+ - Request 413 is refused with 3 passengers. 
+   Class: 0, from 1 to 11
+New Request: from 11 to 8 pNum: 8 class: 1 departureTime: 21:48
+ - Request 414 is refused with 8 passengers. 
+   Class: 1, from 11 to 8
+# Granted Request: 0
+# Refused Request: 4
+New Request: from 15 to 1 pNum: 1 class: 0 departureTime: 21:49
+ - Request 415 is refused with 1 passengers. 
+   Class: 0, from 15 to 1
+Train[0] - departure station: 15 at time 19:45
+# Itinerary: 0
+# Passenger boarding: 0
+Train[2] - departure station: 2 at time 19:45
+# Itinerary: 2
+# Passenger boarding: 12
+Train[4] - departure station: 0 at time 19:45
+# Itinerary: 2
+# Passenger boarding: 12
+Train[5] - departure station: 0 at time 19:45
+# Itinerary: 2
+# Passenger boarding: 6
+*****[19:50]*****
+New Request: from 11 to 2 pNum: 6 class: 0 departureTime: 21:10
+ - Request 416 is refused with 6 passengers. 
+   Class: 0, from 11 to 2
+New Request: from 1 to 4 pNum: 4 class: 0 departureTime: 20:32
+ - Request 417 is granted to train 4 with 4 passengers. 
+   Class: 0, from 1 to 4
+New Request: from 11 to 13 pNum: 1 class: 0 departureTime: 20:10
+ - Request 418 is refused with 1 passengers. 
+   Class: 0, from 11 to 13
+New Request: from 16 to 19 pNum: 3 class: 0 departureTime: 21:30
+ - Request 419 is granted to train 0 with 3 passengers. 
+   Class: 0, from 16 to 19
+# Granted Request: 2
+# Refused Request: 3
+New Request: from 6 to 17 pNum: 7 class: 1 departureTime: 19:54
+ - Request 420 is refused with 7 passengers. 
+   Class: 1, from 6 to 17
+Train[0] - destination station: 15 at time 19:55
+# Passenger getting off: 3
+Train[2] - destination station: 2 at time 19:55
+# Passenger getting off: 12
+Train[4] - destination station: 0 at time 19:55
+# Passenger getting off: 2
+Train[5] - destination station: 0 at time 19:55
+# Passenger getting off: 16
+*****[20:00]*****
+New Request: from 16 to 10 pNum: 6 class: 1 departureTime: 20:13
+ - Request 421 is refused with 6 passengers. 
+   Class: 1, from 16 to 10
+New Request: from 19 to 11 pNum: 1 class: 1 departureTime: 21:24
+ - Request 422 is refused with 1 passengers. 
+   Class: 1, from 19 to 11
+New Request: from 19 to 16 pNum: 5 class: 1 departureTime: 20:3
+ - Request 423 is refused with 5 passengers. 
+   Class: 1, from 19 to 16
+New Request: from 10 to 9 pNum: 3 class: 0 departureTime: 20:10
+ - Request 424 is granted to train 3 with 3 passengers. 
+   Class: 0, from 10 to 9
+New Request: from 5 to 18 pNum: 5 class: 0 departureTime: 21:26
+ - Request 425 is refused with 5 passengers. 
+   Class: 0, from 5 to 18
+# Granted Request: 1
+# Refused Request: 5
+Train[1] - departure station: 3 at time 20:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[3] - departure station: 10 at time 20:0
+# Itinerary: 2
+# Passenger boarding: 5
+Train[1] - departure station: 3 at time 20:0
+# Itinerary: 0
+# Passenger boarding: 0
+Train[3] - departure station: 10 at time 20:0
+# Itinerary: 0
+# Passenger boarding: 5
+*****[20:10]*****
+New Request: from 18 to 5 pNum: 1 class: 1 departureTime: 21:20
+ - Request 426 is refused with 1 passengers. 
+   Class: 1, from 18 to 5
+New Request: from 1 to 7 pNum: 3 class: 1 departureTime: 20:10
+ - Request 427 is refused with 3 passengers. 
+   Class: 1, from 1 to 7
+New Request: from 18 to 9 pNum: 7 class: 1 departureTime: 21:13
+ - Request 428 is refused with 7 passengers. 
+   Class: 1, from 18 to 9
+New Request: from 19 to 7 pNum: 8 class: 0 departureTime: 20:50
+ - Request 429 is refused with 8 passengers. 
+   Class: 0, from 19 to 7
+# Granted Request: 0
+# Refused Request: 4
+Train[1] - destination station: 3 at time 20:10
+# Passenger getting off: 4
+Train[3] - destination station: 10 at time 20:10
+# Passenger getting off: 9
+New Request: from 2 to 4 pNum: 1 class: 0 departureTime: 20:26
+ - Request 430 is refused with 1 passengers. 
+   Class: 0, from 2 to 4
+*****[20:20]*****
+New Request: from 2 to 6 pNum: 3 class: 1 departureTime: 21:6
+ - Request 431 is refused with 3 passengers. 
+   Class: 1, from 2 to 6
+New Request: from 3 to 4 pNum: 6 class: 1 departureTime: 20:21
+ - Request 432 is refused with 6 passengers. 
+   Class: 1, from 3 to 4
+New Request: from 13 to 10 pNum: 1 class: 0 departureTime: 21:29
+ - Request 433 is refused with 1 passengers. 
+   Class: 0, from 13 to 10
+New Request: from 0 to 11 pNum: 5 class: 0 departureTime: 21:41
+ - Request 434 is refused with 5 passengers. 
+   Class: 0, from 0 to 11
+# Granted Request: 0
+# Refused Request: 5
+New Request: from 16 to 7 pNum: 1 class: 0 departureTime: 21:22
+ - Request 435 is refused with 1 passengers. 
+   Class: 0, from 16 to 7
+Train[0] - departure station: 16 at time 20:23
+# Itinerary: 1
+# Passenger boarding: 3
+Train[2] - departure station: 3 at time 20:23
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 1 at time 20:23
+# Itinerary: 1
+# Passenger boarding: 4
+Train[5] - departure station: 19 at time 20:23
+# Itinerary: 1
+# Passenger boarding: 7
+Train[0] - departure station: 16 at time 20:23
+# Itinerary: 0
+# Passenger boarding: 3
+Train[2] - departure station: 3 at time 20:23
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 1 at time 20:23
+# Itinerary: 0
+# Passenger boarding: 4
+Train[5] - departure station: 19 at time 20:23
+# Itinerary: 0
+# Passenger boarding: 7
+*****[20:30]*****
+New Request: from 11 to 3 pNum: 4 class: 0 departureTime: 21:43
+ - Request 436 is refused with 4 passengers. 
+   Class: 0, from 11 to 3
+New Request: from 5 to 14 pNum: 7 class: 1 departureTime: 21:42
+ - Request 437 is refused with 7 passengers. 
+   Class: 1, from 5 to 14
+New Request: from 7 to 17 pNum: 8 class: 1 departureTime: 20:54
+ - Request 438 is refused with 8 passengers. 
+   Class: 1, from 7 to 17
+New Request: from 10 to 4 pNum: 7 class: 1 departureTime: 21:57
+ - Request 439 is refused with 7 passengers. 
+   Class: 1, from 10 to 4
+New Request: from 6 to 18 pNum: 5 class: 0 departureTime: 21:56
+ - Request 440 is refused with 5 passengers. 
+   Class: 0, from 6 to 18
+# Granted Request: 0
+# Refused Request: 6
+Train[0] - destination station: 16 at time 20:33
+# Passenger getting off: 1
+Train[2] - destination station: 3 at time 20:33
+# Passenger getting off: 6
+Train[4] - destination station: 1 at time 20:33
+# Passenger getting off: 7
+Train[5] - destination station: 19 at time 20:33
+# Passenger getting off: 11
+*****[20:40]*****
+New Request: from 1 to 4 pNum: 3 class: 1 departureTime: 21:45
+ - Request 441 is refused with 3 passengers. 
+   Class: 1, from 1 to 4
+New Request: from 19 to 13 pNum: 7 class: 0 departureTime: 20:44
+ - Request 442 is refused with 7 passengers. 
+   Class: 0, from 19 to 13
+New Request: from 3 to 15 pNum: 6 class: 0 departureTime: 21:9
+ - Request 443 is refused with 6 passengers. 
+   Class: 0, from 3 to 15
+New Request: from 3 to 4 pNum: 5 class: 0 departureTime: 21:55
+ - Request 444 is granted to train 4 with 5 passengers. 
+   Class: 0, from 3 to 4
+# Granted Request: 1
+# Refused Request: 3
+Train[1] - departure station: 2 at time 20:40
+# Itinerary: 0
+# Passenger boarding: 0
+Train[3] - departure station: 9 at time 20:40
+# Itinerary: 0
+# Passenger boarding: 0
+New Request: from 2 to 0 pNum: 1 class: 0 departureTime: 21:9
+ - Request 445 is granted to train 1 with 1 passengers. 
+   Class: 0, from 2 to 0
+*****[20:50]*****
+New Request: from 10 to 9 pNum: 2 class: 0 departureTime: 21:32
+ - Request 446 is refused with 2 passengers. 
+   Class: 0, from 10 to 9
+New Request: from 1 to 14 pNum: 3 class: 0 departureTime: 21:34
+ - Request 447 is refused with 3 passengers. 
+   Class: 0, from 1 to 14
+New Request: from 9 to 18 pNum: 3 class: 0 departureTime: 21:31
+ - Request 448 is refused with 3 passengers. 
+   Class: 0, from 9 to 18
+New Request: from 19 to 16 pNum: 5 class: 0 departureTime: 21:9
+ - Request 449 is refused with 5 passengers. 
+   Class: 0, from 19 to 16
+# Granted Request: 1
+# Refused Request: 4
+Train[1] - destination station: 2 at time 20:50
+# Passenger getting off: 7
+Train[3] - destination station: 9 at time 20:50
+# Passenger getting off: 24
+New Request: from 3 to 6 pNum: 7 class: 1 departureTime: 21:39
+ - Request 450 is refused with 7 passengers. 
+   Class: 1, from 3 to 6
+Train[0] - departure station: 17 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 0
+Train[2] - departure station: 4 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 2 at time 20:59
+# Itinerary: 1
+# Passenger boarding: 6
+Train[5] - departure station: 18 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 0
+*****[21:00]*****
+Train[0] - departure station: 17 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 0
+Train[2] - departure station: 4 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 2 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 6
+Train[5] - departure station: 18 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 0
+New Request: from 5 to 10 pNum: 2 class: 1 departureTime: 21:31
+ - Request 451 is refused with 2 passengers. 
+   Class: 1, from 5 to 10
+New Request: from 9 to 8 pNum: 3 class: 0 departureTime: 21:37
+ - Request 452 is refused with 3 passengers. 
+   Class: 0, from 9 to 8
+New Request: from 15 to 19 pNum: 4 class: 1 departureTime: 21:49
+ - Request 453 is refused with 4 passengers. 
+   Class: 1, from 15 to 19
+Train[0] - departure station: 17 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 0
+Train[2] - departure station: 4 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 2 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 6
+Train[5] - departure station: 18 at time 20:59
+# Itinerary: 0
+# Passenger boarding: 0
+New Request: from 17 to 9 pNum: 6 class: 1 departureTime: 21:15
+ - Request 454 is refused with 6 passengers. 
+   Class: 1, from 17 to 9
+New Request: from 0 to 4 pNum: 8 class: 1 departureTime: 21:4
+ - Request 455 is refused with 8 passengers. 
+   Class: 1, from 0 to 4
+# Granted Request: 0
+# Refused Request: 6
+Train[0] - destination station: 17 at time 21:9
+# Passenger getting off: 12
+Train[2] - destination station: 4 at time 21:9
+# Passenger getting off: 5
+Train[4] - destination station: 2 at time 21:9
+# Passenger getting off: 5
+Train[5] - destination station: 18 at time 21:9
+# Passenger getting off: 3
+Train[0] - destination station: 17 at time 21:9
+# Passenger getting off: 12
+Train[2] - destination station: 4 at time 21:9
+# Passenger getting off: 5
+Train[4] - destination station: 2 at time 21:9
+# Passenger getting off: 5
+Train[5] - destination station: 18 at time 21:9
+# Passenger getting off: 3
+*****[21:10]*****
+Train[0] - destination station: 17 at time 21:9
+# Passenger getting off: 12
+Train[2] - destination station: 4 at time 21:9
+# Passenger getting off: 5
+Train[4] - destination station: 2 at time 21:9
+# Passenger getting off: 5
+Train[5] - destination station: 18 at time 21:9
+# Passenger getting off: 3
+New Request: from 11 to 14 pNum: 7 class: 1 departureTime: 21:44
+ - Request 456 is refused with 7 passengers. 
+   Class: 1, from 11 to 14
+New Request: from 2 to 12 pNum: 1 class: 1 departureTime: 21:21
+ - Request 457 is refused with 1 passengers. 
+   Class: 1, from 2 to 12
+New Request: from 18 to 5 pNum: 8 class: 1 departureTime: 21:23
+ - Request 458 is refused with 8 passengers. 
+   Class: 1, from 18 to 5
+New Request: from 10 to 6 pNum: 7 class: 0 departureTime: 21:27
+ - Request 459 is refused with 7 passengers. 
+   Class: 0, from 10 to 6
+# Granted Request: 0
+# Refused Request: 4
+New Request: from 15 to 3 pNum: 3 class: 0 departureTime: 21:47
+ - Request 460 is refused with 3 passengers. 
+   Class: 0, from 15 to 3
+*****[21:20]*****
+New Request: from 13 to 15 pNum: 2 class: 1 departureTime: 21:54
+ - Request 461 is refused with 2 passengers. 
+   Class: 1, from 13 to 15
+New Request: from 18 to 0 pNum: 2 class: 0 departureTime: 21:26
+ - Request 462 is refused with 2 passengers. 
+   Class: 0, from 18 to 0
+New Request: from 4 to 15 pNum: 8 class: 0 departureTime: 21:31
+ - Request 463 is refused with 8 passengers. 
+   Class: 0, from 4 to 15
+New Request: from 12 to 2 pNum: 2 class: 1 departureTime: 21:45
+ - Request 464 is refused with 2 passengers. 
+   Class: 1, from 12 to 2
+# Granted Request: 0
+# Refused Request: 5
+New Request: from 4 to 16 pNum: 8 class: 1 departureTime: 21:22
+ - Request 465 is refused with 8 passengers. 
+   Class: 1, from 4 to 16
+*****[21:30]*****
+New Request: from 0 to 6 pNum: 4 class: 1 departureTime: 21:59
+ - Request 466 is refused with 4 passengers. 
+   Class: 1, from 0 to 6
+New Request: from 14 to 4 pNum: 5 class: 0 departureTime: 21:51
+ - Request 467 is refused with 5 passengers. 
+   Class: 0, from 14 to 4
+New Request: from 10 to 18 pNum: 7 class: 1 departureTime: 21:39
+ - Request 468 is refused with 7 passengers. 
+   Class: 1, from 10 to 18
+New Request: from 8 to 18 pNum: 7 class: 0 departureTime: 21:42
+ - Request 469 is refused with 7 passengers. 
+   Class: 0, from 8 to 18
+New Request: from 10 to 2 pNum: 8 class: 0 departureTime: 21:48
+ - Request 470 is refused with 8 passengers. 
+   Class: 0, from 10 to 2
+# Granted Request: 0
+# Refused Request: 6
+*****[21:40]*****
+New Request: from 1 to 15 pNum: 5 class: 0 departureTime: 21:46
+ - Request 471 is refused with 5 passengers. 
+   Class: 0, from 1 to 15
+New Request: from 18 to 16 pNum: 4 class: 1 departureTime: 21:47
+ - Request 472 is refused with 4 passengers. 
+   Class: 1, from 18 to 16
+New Request: from 14 to 2 pNum: 7 class: 0 departureTime: 21:42
+ - Request 473 is refused with 7 passengers. 
+   Class: 0, from 14 to 2
+New Request: from 17 to 12 pNum: 4 class: 0 departureTime: 21:46
+ - Request 474 is refused with 4 passengers. 
+   Class: 0, from 17 to 12
+# Granted Request: 0
+# Refused Request: 4
+Train[1] - departure station: 1 at time 21:40
+# Itinerary: 1
+# Passenger boarding: 7
+Train[3] - departure station: 8 at time 21:40
+# Itinerary: 0
+# Passenger boarding: 0
+New Request: from 11 to 19 pNum: 2 class: 0 departureTime: 21:49
+ - Request 475 is refused with 2 passengers. 
+   Class: 0, from 11 to 19
+*****[21:50]*****
+New Request: from 6 to 19 pNum: 7 class: 0 departureTime: 21:50
+ - Request 476 is refused with 7 passengers. 
+   Class: 0, from 6 to 19
+New Request: from 12 to 3 pNum: 5 class: 0 departureTime: 21:59
+ - Request 477 is refused with 5 passengers. 
+   Class: 0, from 12 to 3
+New Request: from 12 to 18 pNum: 2 class: 0 departureTime: 21:53
+ - Request 478 is refused with 2 passengers. 
+   Class: 0, from 12 to 18
+New Request: from 15 to 3 pNum: 4 class: 1 departureTime: 21:55
+ - Request 479 is refused with 4 passengers. 
+   Class: 1, from 15 to 3
+# Granted Request: 0
+# Refused Request: 5
+Train[1] - destination station: 1 at time 21:50
+# Passenger getting off: 13
+Train[3] - destination station: 8 at time 21:50
+# Passenger getting off: 7
+New Request: from 9 to 17 pNum: 6 class: 1 departureTime: 21:50
+ - Request 480 is refused with 6 passengers. 
+   Class: 1, from 9 to 17
+Train[0] - departure station: 18 at time 21:54
+# Itinerary: 0
+# Passenger boarding: 0
+Train[2] - departure station: 5 at time 21:54
+# Itinerary: 0
+# Passenger boarding: 0
+Train[4] - departure station: 3 at time 21:54
+# Itinerary: 1
+# Pass
